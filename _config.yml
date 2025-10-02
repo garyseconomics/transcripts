@@ -1,0 +1,23 @@
+title: Gary's Economics Transcripts
+description: Video transcripts from youtube.com/@garyseconomics
+url: ""
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /transcript/:slug/
+kramdown:
+  entity_output: :numeric
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /transcript/:slug/
+
+# Exclude from processing
+exclude:
+  - README.md
+  - INSTALL.md
+  - Gemfile
+  - Gemfile.lock

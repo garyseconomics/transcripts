@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<article class="transcript-page">
+    <div class="container">
+        <header class="transcript-header">
+            <a href="{{ '/' | relative_url }}" class="back-link">← Back to all transcripts</a>
+            <h1>{{ page.title }}</h1>
+            <div class="video-meta">
+                <span class="date">{{ page.date | date: "%B %d, %Y" }}</span>
+                {% if page.duration %}
+                <span class="duration">{{ page.duration }}</span>
+                {% endif %}
+            </div>
+            {% if page.tags %}
+            <div class="tags">
+                {% for tag in page.tags %}
+                <span class="tag">{{ tag }}</span>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </header>
+
+        {% if page.youtube_url %}
+        <div class="video-container">
+
+		  <iframe class="video-embed"
+		    src="https://www.youtube.com/embed/{{ page.youtube_id }}">
+		  </iframe>
+
+            <a href="https://youtube.com/watch?v={{ page.youtube_id }}" target="_blank" rel="noopener noreferrer" class="video-link">
+                Watch on YouTube →
+            </a>
+        </div>
+        {% endif %}
+
+        <div class="transcript-controls">
+            <input type="text" id="search-input" placeholder="Search transcript..." class="search-input">
+            <button id="clear-search" class="clear-btn" style="display: none;">Clear</button>
+        </div>
+
+        <div class="transcript-content" id="transcript-content" data-youtube-url="{{ page.youtube_url }}">
+            {{ content }}
+        </div>
+    </div>
+</article>
