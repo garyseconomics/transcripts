@@ -1,20 +1,12 @@
-# learn.garyseconomics.com
+# transcripts.garyseconomics.com
 
 This is an experiment to set up a part of Gary's web presence for people who want to learn more about his ideas.
 
-Currently the two main parts of this Github project are
-
-1. a FAQ (Frequently Asked Questions) page, to which the community can contribute both Questions and Answers, and 
-
-2. a Video Archive with transcripts.
+This Github project is a Video Archive with transcripts.
 
 ## How to Contribute
 
-If you have a question you wish had an answer that was easy to find and link to, post it as a [new issue on the project issue tracker](https://github.com/garyseconomics/learn.garyseconomics.org/issues/new).
-You and the project community will discuss the topic and develop an answer.
-The successful end of this process is finalizing an answer using the github Pull Request process to update the website FAQ page.
-
-If you are a web developer and can help improve the site, please post an issue with your idea.
+If you are a web developer and can help improve the site, please post an issue with your idea - or make a pull request directly.
 
 ## Code of Conduct
 
