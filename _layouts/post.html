@@ -40,8 +40,12 @@ layout: default
             <button id="clear-search" class="clear-btn" style="display: none;">Clear</button>
         </div>
 
+        {{ content }}
+
+        {% if page.caption_file %}
         <div class="transcript-content" id="transcript-content" data-youtube-url="{{ page.youtube_url }}">
-            {{ content }}
+            {% vtt_include {{ page.caption_file }}, {{ page.youtube_url }} %}
         </div>
+        {% endif %}
     </div>
 </article>
