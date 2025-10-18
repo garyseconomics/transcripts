@@ -40,8 +40,15 @@ layout: default
             <button id="clear-search" class="clear-btn" style="display: none;">Clear</button>
         </div>
 
-        <div class="transcript-content" id="transcript-content" data-youtube-url="{{ page.youtube_url }}">
-            {{ content }}
-        </div>
+        {{ content }}
+
+        {% with_vtt {{ page.caption_file }} %}
+            {% for cue in cues %}
+            <div class="transcript-line">
+                <a class="transcript-timestamp" href="https://youtube.com/watch?v={{ page.youtube_id }}&t={{ cue.start }}s" target="_blank" rel="noopener noreferrer">{{ cue.timestamp }}</a>
+                <p class="transcript-text">{{ cue.text }}</p>
+            </div>
+            {% endfor %}
+        {% endwith_vtt %}
     </div>
 </article>
