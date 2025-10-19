@@ -46,14 +46,14 @@
     });
   }
 
-  clearHighlights = () => {
+  function clearHighlights() {
     const transcriptElements = document.querySelectorAll('.transcript-line');
     transcriptElements.forEach((line) => {
       line.style.display = '';
       const textElement = line.querySelector('.transcript-text');
       textElement.innerHTML = textElement.textContent; // Reset to original text
     });
-  };
+  }
 
   setupSearch();
 })();
