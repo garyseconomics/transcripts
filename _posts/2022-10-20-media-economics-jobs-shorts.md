@@ -10,13 +10,11 @@ like_count: 922
 duration_seconds: 60
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from the full length video 
-  "Why is Economic Analysis on the News so Terrible?" 
-  https://youtu.be/M_uzjtDsy_U
-   
-   #predictions #trader #topjobs #nobodysgonnaknow #garyseconomics
+description: This #Short is a snippet from the full length video "Why is Economic Analysis on the News so Terrible?" https://youtu.be/M_uzjtDsy_U
 thumbnail: https://i.ytimg.com/vi_webp/qZpgHn0vZ2k/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/qZpgHn0vZ2k.vtt
+
 ---
+
+#predictions #trader #topjobs #nobodysgonnaknow #garyseconomics

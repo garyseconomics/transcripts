@@ -22,26 +22,26 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  Don't believe the media hype: inflation will fall but it won't make a big difference to your life.
-  
-  UNDERSTAND, SHARE & PUSH BACK
-  
-  DISCORD - https://discord.gg/vqME6WsPd7
-  WEBSITE - https://www.garyseconomics.org
-  TWITTER  - https://twitter.com/garyseconomics
-  FACEBOOK - https://www.facebook.com/garyseconomics
-  INSTAGRAM  - https://www.instagram.com/garyseconomics
-  TIKTOK - https://www.tiktok.com/@garyseconomics
-  YOUTUBE -  https://www.youtube.com/garyseconomics
-  PATREON - https://patreon.com/garyseconomics
-  BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  Performed by Gary Stevenson
-  @garyseconomics
+description: Don't believe the media hype: inflation will fall but it won't make a big difference to your life.
 thumbnail: https://i.ytimg.com/vi_webp/RD6J1e0zlS4/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/RD6J1e0zlS4.vtt
+
 ---
+
+UNDERSTAND, SHARE & PUSH BACK
+
+- DISCORD - https://discord.gg/vqME6WsPd7
+- WEBSITE - https://www.garyseconomics.org
+- TWITTER  - https://twitter.com/garyseconomics
+- FACEBOOK - https://www.facebook.com/garyseconomics
+- INSTAGRAM  - https://www.instagram.com/garyseconomics
+- TIKTOK - https://www.tiktok.com/@garyseconomics
+- YOUTUBE -  https://www.youtube.com/garyseconomics
+- PATREON - https://patreon.com/garyseconomics
+- BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+Performed by Gary Stevenson
+@garyseconomics

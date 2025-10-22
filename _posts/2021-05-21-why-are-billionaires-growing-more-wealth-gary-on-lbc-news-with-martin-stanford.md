@@ -10,35 +10,31 @@ like_count: 93
 duration_seconds: 265
 categories:
 - News & Politics
-description: |
-  Gary on LBC News with Martin Stanford 
-  Broadcast on 21/05/2021 @ 11:50 
-  Uploaded with permission from LBC NEWS 
-  https://www.lbc.co.uk/news/
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics
-  FACEBOOK - garyseconomics
-  INSTAGRAM - garyseconomics
-  
-  
-  STOCK FROM:
-  Michael Dziedzic on Unsplash
-  
-  
-  Spoken by Martin Stanford 
-  LBC NEWS
-  
-  
-  Spoken by Gary Stevenson
-  GARY'S ECONOMICS
-  
-  
-  Uploaded by Simran Mohan 
-  MOHAN MEDIA
+description: Gary on LBC News with Martin Stanford Broadcast on 21/05/2021 @ 11:50 Uploaded with permission from LBC NEWS https://www.lbc.co.uk/news/
 thumbnail: https://i.ytimg.com/vi_webp/RKHWrF_OIWI/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/RKHWrF_OIWI.vtt
+
 ---
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics
+- FACEBOOK - garyseconomics
+- INSTAGRAM - garyseconomics
+
+
+STOCK FROM:
+Michael Dziedzic on Unsplash
+
+
+Spoken by Martin Stanford 
+LBC NEWS
+
+
+Spoken by Gary Stevenson
+GARY'S ECONOMICS
+
+
+Uploaded by Simran Mohan 
+MOHAN MEDIA

@@ -22,33 +22,33 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  Gary explains where he's been for the past 6 months – and what he's got planned for 2024. 
-  
-  The Trading Game is released on 5 March 2024 in the UK. 
-  
-  Get 20% off at Waterstone's with discount code: TTG2024 
-  
-  Pre-order here: https://www.waterstones.com/book/the-trading-game/gary-stevenson/9780241636602
-  
-  Yes there is an Audiobook!  (everyone keeps asking)
-  
-  UNDERSTAND, SHARE & PUSH BACK
-  
-  WEBSITE - https://www.garyseconomics.org
-  TWITTER  - https://twitter.com/garyseconomics
-  FACEBOOK - https://www.facebook.com/garyseconomics
-  INSTAGRAM  - https://www.instagram.com/garyseconomics
-  TIKTOK - https://www.tiktok.com/@garyseconomics
-  YOUTUBE -  https://www.youtube.com/garyseconomics
-  PATREON - https://patreon.com/garyseconomics
-  DISCORD - https://discord.gg/vqME6WsPd7
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  Performed by Gary Stevenson
-  @garyseconomics
+description: Gary explains where he's been for the past 6 months – and what he's got planned for 2024.
 thumbnail: https://i.ytimg.com/vi_webp/XWcv-kb8VZY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/XWcv-kb8VZY.vtt
+
 ---
+
+The Trading Game is released on 5 March 2024 in the UK. 
+
+Get 20% off at Waterstone's with discount code: TTG2024 
+
+Pre-order here: https://www.waterstones.com/book/the-trading-game/gary-stevenson/9780241636602
+
+Yes there is an Audiobook!  (everyone keeps asking)
+
+UNDERSTAND, SHARE & PUSH BACK
+
+- WEBSITE - https://www.garyseconomics.org
+- TWITTER  - https://twitter.com/garyseconomics
+- FACEBOOK - https://www.facebook.com/garyseconomics
+- INSTAGRAM  - https://www.instagram.com/garyseconomics
+- TIKTOK - https://www.tiktok.com/@garyseconomics
+- YOUTUBE -  https://www.youtube.com/garyseconomics
+- PATREON - https://patreon.com/garyseconomics
+- DISCORD - https://discord.gg/vqME6WsPd7
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+Performed by Gary Stevenson
+@garyseconomics

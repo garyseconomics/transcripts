@@ -10,11 +10,12 @@ like_count: 418
 duration_seconds: 60
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from a previous full length video 
-  "Why Mick Lynch is a Media Sensation"
-  Full Video: https://youtu.be/dJmsUJZW2nU
+description: This #Short is a snippet from a previous full length video
 thumbnail: https://i.ytimg.com/vi_webp/j9lexV-BRt0/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/j9lexV-BRt0.vtt
+
 ---
+
+"Why Mick Lynch is a Media Sensation"
+Full Video: https://youtu.be/dJmsUJZW2nU

@@ -22,13 +22,11 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  This #Short is a snippet from a previous full length video 
-  "Does GDP Matter to Ordinary People?" 
-  https://youtu.be/18noQG38tiY
-  
-  #billionaire #wealthinequality #richgetricher #poorgetpoorer #askthem   #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis #whereisthemoney #showmethemoney #gdp
+description: This #Short is a snippet from a previous full length video "Does GDP Matter to Ordinary People?" https://youtu.be/18noQG38tiY
 thumbnail: https://i.ytimg.com/vi_webp/fVkI150BPA4/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/fVkI150BPA4.vtt
+
 ---
+
+#billionaire #wealthinequality #richgetricher #poorgetpoorer #askthem   #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis #whereisthemoney #showmethemoney #gdp

@@ -10,10 +10,11 @@ like_count: 402
 duration_seconds: 59
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from a previous full length video 
-  "Why your Grandkids are going to be Poor..." https://youtu.be/LsWl-2UdgQk
+description: This #Short is a snippet from a previous full length video
 thumbnail: https://i.ytimg.com/vi_webp/EV03QqMcjCA/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/EV03QqMcjCA.vtt
+
 ---
+
+"Why your Grandkids are going to be Poor..." https://youtu.be/LsWl-2UdgQk

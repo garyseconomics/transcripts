@@ -10,28 +10,26 @@ like_count: 191
 duration_seconds: 263
 categories:
 - News & Politics
-description: |
-  Gary revisits places from his postgraduate days and shows us around Keble College, Oxford University.
-  
-  
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics
-  FACEBOOK - @garyseconomics
-  INSTAGRAM - @garyseconomics
-  
-  
-  Performed by Gary Stevenson
-  GARYSECONOMICS
-  
-  
-  Produced by Simran Mohan
-  MOHAN MEDIA
+description: Gary revisits places from his postgraduate days and shows us around Keble College, Oxford University.
 thumbnail: https://i.ytimg.com/vi_webp/MOgEfleJp2U/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/MOgEfleJp2U.vtt
+
 ---
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics
+- FACEBOOK - @garyseconomics
+- INSTAGRAM - @garyseconomics
+
+
+Performed by Gary Stevenson
+GARYSECONOMICS
+
+
+Produced by Simran Mohan
+MOHAN MEDIA

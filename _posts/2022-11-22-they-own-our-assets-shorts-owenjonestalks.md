@@ -10,11 +10,11 @@ like_count: 18361
 duration_seconds: 58
 categories:
 - News & Politics
-description: |
-  They Own Our Assets! #wealth #austerity #thepoorgetpoorer #therichgetricher #wealthinequality #enoughisenough #billionairre #whoownsus #owenjones 
-  
-  This #short is a snippet from the Own Jones Show - "Millionaire Trader Destroys The Case for Austerity"
+description: They Own Our Assets! #wealth #austerity #thepoorgetpoorer #therichgetricher #wealthinequality #enoughisenough #billionairre #whoownsus #owenjones
 thumbnail: https://i.ytimg.com/vi_webp/GkrRAELLu-c/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/GkrRAELLu-c.vtt
+
 ---
+
+This #short is a snippet from the Own Jones Show - "Millionaire Trader Destroys The Case for Austerity"

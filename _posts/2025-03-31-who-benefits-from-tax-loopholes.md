@@ -22,28 +22,26 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  Yes, Jeremy Hunt did buy 7 flats and paid less stamp duty because of a loophole that benefits bulk buyers of property. https://www.theguardian.com/politics/2018/apr/18/jeremy-hunt-investigated-breach-money-laundering-rules-luxury-flats 
-  
-  On Question Time 27 March 2025.
-  
-  UNDERSTAND, SHARE & PUSH BACK
-  
-  SPOTIFY - https://open.spotify.com/show/2807p01KIe4RRFjRTB5o25
-  INSTAGRAM  - https://www.instagram.com/garyseconomics
-  TIKTOK - https://www.tiktok.com/@garyseconomics
-  BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
-  X - https://twitter.com/garyseconomics
-  FACEBOOK - https://www.facebook.com/garyseconomics
-  PATREON - https://patreon.com/garyseconomics
-  DISCORD - https://discord.gg/vqME6WsPd7
-  WEBSITE - https://www.garyseconomics.org
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  Performed by Gary Stevenson
-  @garyseconomics
+description: Yes, Jeremy Hunt did buy 7 flats and paid less stamp duty because of a loophole that benefits bulk buyers of property. https://www.theguardian.com/politics/2018/apr/18/jeremy-hunt-investigated-breach-money-laundering-rules-luxury-flats On Question Time 27 March 2025.
 thumbnail: https://i.ytimg.com/vi_webp/gO-uw0ZswFQ/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/gO-uw0ZswFQ.vtt
+
 ---
+
+UNDERSTAND, SHARE & PUSH BACK
+
+- SPOTIFY - https://open.spotify.com/show/2807p01KIe4RRFjRTB5o25
+- INSTAGRAM  - https://www.instagram.com/garyseconomics
+- TIKTOK - https://www.tiktok.com/@garyseconomics
+- BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
+- X - https://twitter.com/garyseconomics
+- FACEBOOK - https://www.facebook.com/garyseconomics
+- PATREON - https://patreon.com/garyseconomics
+- DISCORD - https://discord.gg/vqME6WsPd7
+- WEBSITE - https://www.garyseconomics.org
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+Performed by Gary Stevenson
+@garyseconomics

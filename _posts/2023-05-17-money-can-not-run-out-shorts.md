@@ -22,13 +22,11 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  This #Short is a snippet from a previous full length video 
-  "What is Money?"" 
-  https://youtu.be/_gcNMu40jqs
-  
-  #billionaire #wealthinequality #richgetricher #poorgetpoorer #assets  #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis
+description: This #Short is a snippet from a previous full length video "What is Money?"" https://youtu.be/_gcNMu40jqs
 thumbnail: https://i.ytimg.com/vi_webp/gngU_kC6ZEQ/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/gngU_kC6ZEQ.vtt
+
 ---
+
+#billionaire #wealthinequality #richgetricher #poorgetpoorer #assets  #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis

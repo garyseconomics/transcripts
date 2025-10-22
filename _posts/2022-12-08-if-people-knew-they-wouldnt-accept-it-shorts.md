@@ -10,12 +10,11 @@ like_count: 2124
 duration_seconds: 59
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from the full length video 
-  "Conversation with a Viewer" https://youtu.be/YYBWo3pNRKw
-  
-   #wealthinequality #richgetricher #poorgetpoorer #garyseconomics #themedia #taxtherich #informationispower #enoughisenough #economic
+description: This #Short is a snippet from the full length video "Conversation with a Viewer" https://youtu.be/YYBWo3pNRKw
 thumbnail: https://i.ytimg.com/vi_webp/axNRCSC-HDk/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/axNRCSC-HDk.vtt
+
 ---
+
+#wealthinequality #richgetricher #poorgetpoorer #garyseconomics #themedia #taxtherich #informationispower #enoughisenough #economic

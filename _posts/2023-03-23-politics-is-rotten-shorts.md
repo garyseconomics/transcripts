@@ -10,13 +10,11 @@ like_count: 1762
 duration_seconds: 60
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from a previous full length video 
-  "Why Don't the Government Tax the Rich?"" 
-  
-  
-  #taxtherich #government #politics #wealthinequality #richgetricher #poorgetpoorer #bankrupt  #msm #enoughisenough #georgeosbourne #davidcameron #rishisunak #jeremyhunt #matthancock #kwasikwarteng
+description: This #Short is a snippet from a previous full length video "Why Don't the Government Tax the Rich?""
 thumbnail: https://i.ytimg.com/vi_webp/3LWtksn3L6M/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/3LWtksn3L6M.vtt
+
 ---
+
+#taxtherich #government #politics #wealthinequality #richgetricher #poorgetpoorer #bankrupt  #msm #enoughisenough #georgeosbourne #davidcameron #rishisunak #jeremyhunt #matthancock #kwasikwarteng

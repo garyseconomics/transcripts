@@ -10,28 +10,26 @@ like_count: 710
 duration_seconds: 619
 categories:
 - News & Politics
-description: |
-  Gary answers a commonly asked question
-  "What can we do to fix wealth inequality?"
-  
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics
-  FACEBOOK - @garyseconomics
-  INSTAGRAM - @garyseconomics
-  
-  
-  Performed by Gary Stevenson
-  GARYSECONOMICS
-  
-  
-  Produced by Simran Mohan
-  MOHAN MEDIA
+description: Gary answers a commonly asked question "What can we do to fix wealth inequality?"
 thumbnail: https://i.ytimg.com/vi_webp/tpFJ4KAvzes/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/tpFJ4KAvzes.vtt
+
 ---
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics
+- FACEBOOK - @garyseconomics
+- INSTAGRAM - @garyseconomics
+
+
+Performed by Gary Stevenson
+GARYSECONOMICS
+
+
+Produced by Simran Mohan
+MOHAN MEDIA

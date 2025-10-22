@@ -22,13 +22,11 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  This #Short is a snippet from the previous full length video 
-  "Jeremy Hunt's "Black Swan" Events" 
-  https://youtu.be/g_69D59NAeY
-  
-  #billionaire #wealthinequality #richgetricher #poorgetpoorer #askthem   #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis #whereisthemoney #showmethemoney #gdp #theydontevenknow #taxwealthnotwork #noalternative #jeremyhunt
+description: This #Short is a snippet from the previous full length video "Jeremy Hunt's "Black Swan" Events" https://youtu.be/g_69D59NAeY
 thumbnail: https://i.ytimg.com/vi_webp/Epr6VjOBrfg/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/Epr6VjOBrfg.vtt
+
 ---
+
+#billionaire #wealthinequality #richgetricher #poorgetpoorer #askthem   #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis #whereisthemoney #showmethemoney #gdp #theydontevenknow #taxwealthnotwork #noalternative #jeremyhunt

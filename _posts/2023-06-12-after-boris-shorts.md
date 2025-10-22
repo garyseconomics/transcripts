@@ -22,13 +22,11 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  This #Short is a snippet from the July 2022 full length video 
-  "What happens now that Boris is gone? - The Tory Leadership Contest" 
-  https://youtu.be/PdoN6JUGCZ4
-  
-  #billionaire #wealthinequality #richgetricher #poorgetpoorer #askthem   #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis #whereisthemoney #showmethemoney #gdp #theydontevenknow #taxwealthnotwork #noalternative #jeremyhunt
+description: This #Short is a snippet from the July 2022 full length video "What happens now that Boris is gone? - The Tory Leadership Contest" https://youtu.be/PdoN6JUGCZ4
 thumbnail: https://i.ytimg.com/vi_webp/R4TSFdwEpRM/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/R4TSFdwEpRM.vtt
+
 ---
+
+#billionaire #wealthinequality #richgetricher #poorgetpoorer #askthem   #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis #whereisthemoney #showmethemoney #gdp #theydontevenknow #taxwealthnotwork #noalternative #jeremyhunt

@@ -10,14 +10,11 @@ like_count: 3607
 duration_seconds: 58
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from Novara Media's full length video 
-  "The Plan Is To Make You Permanently Poorer | Aaron Meets Gary Stevenson"  
-  https://youtu.be/ViY-zI3b5JQ 
-  
-  
-  #austerity #conservativegovernment #thepoorgetpoorer #therichgetricher #wealthinequality #taxtherich #enoughisenough
+description: This #Short is a snippet from Novara Media's full length video "The Plan Is To Make You Permanently Poorer | Aaron Meets Gary Stevenson" https://youtu.be/ViY-zI3b5JQ
 thumbnail: https://i.ytimg.com/vi_webp/Enm4AsADy2A/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/Enm4AsADy2A.vtt
+
 ---
+
+#austerity #conservativegovernment #thepoorgetpoorer #therichgetricher #wealthinequality #taxtherich #enoughisenough

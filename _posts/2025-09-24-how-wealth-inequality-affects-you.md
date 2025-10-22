@@ -22,30 +22,32 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  Here's a short animated video about how wealth inequality affects us all. Share it with a friend who might not understand it yet.
-  
-  –––––––––––
-  
-  MAKE A DONATION TO OUR CAMPAIGN – https://buy.stripe.com/dRm4gs9Nl1L6eqWbUydjO00
-  SUPPORT US ON PATREON – https://patreon.com/garyseconomics
-  JOIN GARY'S MAILING LIST – https://subscribepage.io/garyseconomics
-  GET THE TRADING GAME – https://www.penguin.co.uk/books/455809/the-trading-game-by-stevenson-gary/9781802062731 
-  
-  –––––––––––
-  
-  Follow Gary on other channels:
-  
-  LINKEDIN – https://www.linkedin.com/company/garyseconomics
-  SPOTIFY – https://open.spotify.com/show/2807p01KIe4RRFjRTB5o25
-  INSTAGRAM – https://www.instagram.com/garyseconomics
-  TIKTOK – https://www.tiktok.com/@garyseconomics
-  BLUESKY – https://bsky.app/profile/garyseconomics.bsky.social
-  X – https://twitter.com/garyseconomics
-  FACEBOOK – https://www.facebook.com/garyseconomics
-  DISCORD – https://discord.gg/vqME6WsPd7
-  WEBSITE – https://www.garyseconomics.org
+description: Here's a short animated video about how wealth inequality affects us all.
 thumbnail: https://i.ytimg.com/vi_webp/LD6S1hVIPMI/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/LD6S1hVIPMI.vtt
+
 ---
+
+Share it with a friend who might not understand it yet.
+
+–––––––––––
+
+MAKE A DONATION TO OUR CAMPAIGN – https://buy.stripe.com/dRm4gs9Nl1L6eqWbUydjO00
+SUPPORT US ON PATREON – https://patreon.com/garyseconomics
+JOIN GARY'S MAILING LIST – https://subscribepage.io/garyseconomics
+GET THE TRADING GAME – https://www.penguin.co.uk/books/455809/the-trading-game-by-stevenson-gary/9781802062731 
+
+–––––––––––
+
+Follow Gary on other channels:
+
+LINKEDIN – https://www.linkedin.com/company/garyseconomics
+SPOTIFY – https://open.spotify.com/show/2807p01KIe4RRFjRTB5o25
+INSTAGRAM – https://www.instagram.com/garyseconomics
+TIKTOK – https://www.tiktok.com/@garyseconomics
+BLUESKY – https://bsky.app/profile/garyseconomics.bsky.social
+X – https://twitter.com/garyseconomics
+FACEBOOK – https://www.facebook.com/garyseconomics
+DISCORD – https://discord.gg/vqME6WsPd7
+WEBSITE – https://www.garyseconomics.org
