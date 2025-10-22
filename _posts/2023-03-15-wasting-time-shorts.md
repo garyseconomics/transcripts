@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wasting Time #shorts
+title: "Wasting Time #shorts"
 author: Garys Economics
 date: 2023-03-15
 youtube_url: https://www.youtube.com/watch?v=QDaXfo_Xtew

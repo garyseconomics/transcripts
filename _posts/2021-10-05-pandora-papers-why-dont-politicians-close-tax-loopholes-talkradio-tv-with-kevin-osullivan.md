@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PANDORA PAPERS: Why don't politicians close tax loopholes? - TalkRadio TV with Kevin O'Sullivan
+title: "PANDORA PAPERS: Why don't politicians close tax loopholes? - TalkRadio TV with Kevin O'Sullivan"
 author: Garys Economics
 date: 2021-10-05
 youtube_url: https://www.youtube.com/watch?v=a0lLxbP4NUQ

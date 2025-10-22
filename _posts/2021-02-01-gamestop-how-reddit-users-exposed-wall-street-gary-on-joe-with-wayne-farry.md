@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GAMESTOP: How Reddit users exposed Wall Street - Gary on JOE with Wayne Farry
+title: "GAMESTOP: How Reddit users exposed Wall Street - Gary on JOE with Wayne Farry"
 author: Garys Economics
 date: 2021-02-01
 youtube_url: https://www.youtube.com/watch?v=QODu2k12nE4

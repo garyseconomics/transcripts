@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Economic Analysis = Entertainment Product #Shorts @NovaraMedia
+title: "Economic Analysis = Entertainment Product #Shorts @NovaraMedia"
 author: Garys Economics
 date: 2022-11-29
 youtube_url: https://www.youtube.com/watch?v=3iphP_NZZRo

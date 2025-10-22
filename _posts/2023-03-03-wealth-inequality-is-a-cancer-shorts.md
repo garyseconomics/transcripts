@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wealth Inequality is a Cancer #Shorts
+title: "Wealth Inequality is a Cancer #Shorts"
 author: Garys Economics
 date: 2023-03-03
 youtube_url: https://www.youtube.com/watch?v=QGpOYIBvU9s

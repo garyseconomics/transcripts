@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Middle Class are Disappearing #Shorts
+title: "The Middle Class are Disappearing #Shorts"
 author: Garys Economics
 date: 2022-09-09
 youtube_url: https://www.youtube.com/watch?v=2Mk2ev4x58E

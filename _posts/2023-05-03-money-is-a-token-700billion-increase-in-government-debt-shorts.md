@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Money is a Token - £700billion Increase in Government Debt #shorts
+title: "Money is a Token - £700billion Increase in Government Debt #shorts"
 author: Garys Economics
 date: 2023-05-03
 youtube_url: https://www.youtube.com/watch?v=4TIEZSZhJcY

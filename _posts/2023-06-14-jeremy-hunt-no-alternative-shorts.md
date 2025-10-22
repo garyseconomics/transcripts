@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jeremy Hunt No Alternative #shorts
+title: "Jeremy Hunt No Alternative #shorts"
 author: Garys Economics
 date: 2023-06-14
 youtube_url: https://www.youtube.com/watch?v=Epr6VjOBrfg

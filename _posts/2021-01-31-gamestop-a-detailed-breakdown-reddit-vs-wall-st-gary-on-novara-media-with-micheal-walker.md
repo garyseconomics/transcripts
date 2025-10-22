@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GAMESTOP: A Detailed Breakdown - Reddit vs Wall St - Gary on Novara Media with Micheal Walker
+title: "GAMESTOP: A Detailed Breakdown - Reddit vs Wall St - Gary on Novara Media with Micheal Walker"
 author: Garys Economics
 date: 2021-01-31
 youtube_url: https://www.youtube.com/watch?v=ua3YbjkSJSo

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: THE BUDGET: Will it Help You Get a House? ...Yes... (if you're rich)
+title: "THE BUDGET: Will it Help You Get a House? ...Yes... (if you're rich)"
 author: Garys Economics
 date: 2021-03-03
 youtube_url: https://www.youtube.com/watch?v=agp15uvQ49I

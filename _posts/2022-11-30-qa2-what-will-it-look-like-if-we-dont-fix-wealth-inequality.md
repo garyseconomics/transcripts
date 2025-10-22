@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #Q&A2 - What will it look like if we don't fix Wealth Inequality?
+title: "#Q&A2 - What will it look like if we don't fix Wealth Inequality?"
 author: Garys Economics
 date: 2022-11-30
 youtube_url: https://www.youtube.com/watch?v=sQvrei7LhEk

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COVID-19 & MONEY: How to protect yourself from Money Printing
+title: "COVID-19 & MONEY: How to protect yourself from Money Printing"
 author: Garys Economics
 date: 2021-03-28
 youtube_url: https://www.youtube.com/watch?v=P5mHPuPboJQ

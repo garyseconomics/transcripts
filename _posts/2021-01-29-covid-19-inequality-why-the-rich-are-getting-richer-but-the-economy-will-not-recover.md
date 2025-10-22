@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COVID-19 & INEQUALITY: Why the rich are getting richer but the economy will NOT recover
+title: "COVID-19 & INEQUALITY: Why the rich are getting richer but the economy will NOT recover"
 author: Garys Economics
 date: 2021-01-29
 youtube_url: https://www.youtube.com/watch?v=1YrDt8z0dKE

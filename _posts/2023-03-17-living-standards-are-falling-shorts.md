@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Living Standards are Falling #shorts
+title: "Living Standards are Falling #shorts"
 author: Garys Economics
 date: 2023-03-17
 youtube_url: https://www.youtube.com/watch?v=-0e745mB8Do

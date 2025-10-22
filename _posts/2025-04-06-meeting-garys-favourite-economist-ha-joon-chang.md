@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting Gary's favourite economist: Ha-Joon Chang
+title: "Meeting Gary's favourite economist: Ha-Joon Chang"
 author: Garys Economics
 date: 2025-04-06
 youtube_url: https://www.youtube.com/watch?v=MGt7swnEb3g

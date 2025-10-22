@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wealth: what it is & how it differs from Income
+title: "Wealth: what it is & how it differs from Income"
 author: Garys Economics
 date: 2021-03-21
 youtube_url: https://www.youtube.com/watch?v=ZXP8gH0wddE

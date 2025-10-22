@@ -1,6 +1,6 @@
 ---
 layout: post
-title: £1million or £100million - Wealth Tax #Shorts @OwenJonesTalks
+title: "£1million or £100million - Wealth Tax #Shorts @OwenJonesTalks"
 author: Garys Economics
 date: 2023-05-12
 youtube_url: https://www.youtube.com/watch?v=BxlQhDcixLA

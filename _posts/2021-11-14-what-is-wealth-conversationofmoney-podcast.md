@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Wealth? - @conversationofmoney podcast
+title: "What is Wealth? - @conversationofmoney podcast"
 author: Garys Economics
 date: 2021-11-14
 youtube_url: https://www.youtube.com/watch?v=-gT-iPxfkM0

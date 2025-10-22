@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being Poor & Mental Health #shorts
+title: "Being Poor & Mental Health #shorts"
 author: Garys Economics
 date: 2023-03-28
 youtube_url: https://www.youtube.com/watch?v=6SKdzFe01ws

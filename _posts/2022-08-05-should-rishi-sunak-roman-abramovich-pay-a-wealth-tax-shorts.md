@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should Rishi Sunak & Roman Abramovich pay a wealth tax? #Shorts
+title: "Should Rishi Sunak & Roman Abramovich pay a wealth tax? #Shorts"
 author: Garys Economics
 date: 2022-08-05
 youtube_url: https://www.youtube.com/watch?v=RDaq2OSrnbw

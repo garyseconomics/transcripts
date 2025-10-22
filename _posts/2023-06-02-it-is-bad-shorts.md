@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It is BAD #shorts
+title: "It is BAD #shorts"
 author: Garys Economics
 date: 2023-06-02
 youtube_url: https://www.youtube.com/watch?v=y5ml2z7ShMw

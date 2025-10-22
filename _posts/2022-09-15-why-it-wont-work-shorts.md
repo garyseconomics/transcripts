@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why It Won't Work #Shorts
+title: "Why It Won't Work #Shorts"
 author: Garys Economics
 date: 2022-09-15
 youtube_url: https://www.youtube.com/watch?v=UqjaReeEwww

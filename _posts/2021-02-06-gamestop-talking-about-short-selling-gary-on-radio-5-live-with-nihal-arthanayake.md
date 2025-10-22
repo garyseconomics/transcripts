@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GAMESTOP: talking about Short Selling - Gary on Radio 5 Live with Nihal Arthanayake
+title: "GAMESTOP: talking about Short Selling - Gary on Radio 5 Live with Nihal Arthanayake"
 author: Garys Economics
 date: 2021-02-06
 youtube_url: https://www.youtube.com/watch?v=st0GcCQBzE4

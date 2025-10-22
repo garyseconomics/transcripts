@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gary EXPOSES the IEA (Institute of Economic Affairs) #Shorts
+title: "Gary EXPOSES the IEA (Institute of Economic Affairs) #Shorts"
 author: Garys Economics
 date: 2023-02-03
 youtube_url: https://www.youtube.com/watch?v=f3vcB0aD8BY

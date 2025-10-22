@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Money? #shorts
+title: "What is Money? #shorts"
 author: Garys Economics
 date: 2022-10-08
 youtube_url: https://www.youtube.com/watch?v=6EKPXArbKkM

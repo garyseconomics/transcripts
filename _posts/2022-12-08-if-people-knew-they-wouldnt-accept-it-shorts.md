@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If People Knew... They Wouldn't Accept It #Shorts
+title: "If People Knew... They Wouldn't Accept It #Shorts"
 author: Garys Economics
 date: 2022-12-08
 youtube_url: https://www.youtube.com/watch?v=axNRCSC-HDk

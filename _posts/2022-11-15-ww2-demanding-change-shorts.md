@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WW2 - Demanding Change #shorts
+title: "WW2 - Demanding Change #shorts"
 author: Garys Economics
 date: 2022-11-15
 youtube_url: https://www.youtube.com/watch?v=TnKuvRrETRI

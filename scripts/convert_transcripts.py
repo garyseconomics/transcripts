@@ -75,7 +75,13 @@ def convert_transcript(transcript_dir):
     with open(post_path, 'w', encoding='utf-8') as f:
         f.write('---\n')
         f.write('layout: post\n')
-        f.write(f'title: {title}\n')
+        # Quote title if it contains special YAML characters
+        if ':' in title or '#' in title or '@' in title or '[' in title or ']' in title:
+            # Escape double quotes in title and wrap in quotes
+            safe_title = title.replace('"', '\\"')
+            f.write(f'title: "{safe_title}"\n')
+        else:
+            f.write(f'title: {title}\n')
         f.write(f'author: {author}\n')
         f.write(f'date: {date}\n')
         f.write(f'youtube_url: https://www.youtube.com/watch?v={youtube_id}\n')
@@ -96,11 +102,17 @@ def convert_transcript(transcript_dir):
         
         # Write description, escaping if needed
         if description:
+            # Check if description contains special YAML characters
+            needs_quoting = ':' in description or '#' in description or '@' in description
             # For multi-line descriptions, use YAML literal block scalar
-            if '\n' in description or len(description) > 80:
+            if '\n' in description:
                 f.write('description: |\n')
                 for line in description.split('\n'):
                     f.write(f'  {line}\n')
+            elif len(description) > 80 or needs_quoting:
+                # Use YAML literal block scalar for long or special descriptions
+                f.write('description: |\n')
+                f.write(f'  {description}\n')
             else:
                 f.write(f'description: {description}\n')
         

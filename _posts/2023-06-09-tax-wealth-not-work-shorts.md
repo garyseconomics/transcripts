@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tax Wealth Not Work #shorts
+title: "Tax Wealth Not Work #shorts"
 author: Garys Economics
 date: 2023-06-09
 youtube_url: https://www.youtube.com/watch?v=1X6eVdTW_oI

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ask Them This Question #shorts
+title: "Ask Them This Question #shorts"
 author: Garys Economics
 date: 2023-05-06
 youtube_url: https://www.youtube.com/watch?v=gbA413Ov-HY

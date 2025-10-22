@@ -1,2 +1,4 @@
 _site
 .tmp/
+vendor/bundle
+.bundle

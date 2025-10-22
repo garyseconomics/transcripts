@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take The Wealth Back - Government Money Printing #Shorts
+title: "Take The Wealth Back - Government Money Printing #Shorts"
 author: Garys Economics
 date: 2022-08-03
 youtube_url: https://www.youtube.com/watch?v=j9lexV-BRt0

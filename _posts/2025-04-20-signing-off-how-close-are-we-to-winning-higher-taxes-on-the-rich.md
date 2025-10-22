@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Signing off: how close are we to winning higher taxes on the rich?
+title: "Signing off: how close are we to winning higher taxes on the rich?"
 author: Garys Economics
 date: 2025-04-20
 youtube_url: https://www.youtube.com/watch?v=zIMtH8W7_Yc

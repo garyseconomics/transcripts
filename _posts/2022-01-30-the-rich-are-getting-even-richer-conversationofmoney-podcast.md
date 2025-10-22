@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Rich are getting even Richer - @conversationofmoney podcast
+title: "The Rich are getting even Richer - @conversationofmoney podcast"
 author: Garys Economics
 date: 2022-01-30
 youtube_url: https://www.youtube.com/watch?v=fffQxDeKvQo

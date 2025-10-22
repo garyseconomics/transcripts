@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autumn Budget Analysis 2021 @conversationofmoney podcast
+title: "Autumn Budget Analysis 2021 @conversationofmoney podcast"
 author: Garys Economics
 date: 2021-11-29
 youtube_url: https://www.youtube.com/watch?v=HNX49tsTFRc

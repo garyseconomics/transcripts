@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inflation below 10%, Cheers Rishi #shorts
+title: "Inflation below 10%, Cheers Rishi #shorts"
 author: Garys Economics
 date: 2023-05-24
 youtube_url: https://www.youtube.com/watch?v=4h9N9i3g2sM

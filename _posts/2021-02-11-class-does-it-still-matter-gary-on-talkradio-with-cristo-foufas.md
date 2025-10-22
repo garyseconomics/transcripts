@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CLASS: Does it still matter? Gary on talkRADIO with Cristo Foufas
+title: "CLASS: Does it still matter? Gary on talkRADIO with Cristo Foufas"
 author: Garys Economics
 date: 2021-02-11
 youtube_url: https://www.youtube.com/watch?v=zxuX4DBiFs4

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are the Tories Levelling Up? #shorts
+title: "Are the Tories Levelling Up? #shorts"
 author: Garys Economics
 date: 2023-01-19
 youtube_url: https://www.youtube.com/watch?v=bp6Hqfir174

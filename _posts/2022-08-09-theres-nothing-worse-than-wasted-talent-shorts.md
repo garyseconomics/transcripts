@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There's Nothing Worse than Wasted Talent #Shorts
+title: "There's Nothing Worse than Wasted Talent #Shorts"
 author: Garys Economics
 date: 2022-08-09
 youtube_url: https://www.youtube.com/watch?v=wuQQWKlJzDA

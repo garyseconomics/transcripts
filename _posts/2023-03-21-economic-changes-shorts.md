@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Economic Changes #shorts
+title: "Economic Changes #shorts"
 author: Garys Economics
 date: 2023-03-21
 youtube_url: https://www.youtube.com/watch?v=CFeTzbHKmyE

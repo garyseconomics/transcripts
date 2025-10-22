@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Competing with the Rich for Houses #Shorts
+title: "Competing with the Rich for Houses #Shorts"
 author: Garys Economics
 date: 2022-11-09
 youtube_url: https://www.youtube.com/watch?v=Lzb-I6d4a78

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Economy: What You've Missed
+title: "The Economy: What You've Missed"
 author: Garys Economics
 date: 2023-12-31
 youtube_url: https://www.youtube.com/watch?v=ri9EMMpdFjU

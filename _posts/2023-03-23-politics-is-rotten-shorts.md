@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Politics is Rotten #shorts
+title: "Politics is Rotten #shorts"
 author: Garys Economics
 date: 2023-03-23
 youtube_url: https://www.youtube.com/watch?v=3LWtksn3L6M

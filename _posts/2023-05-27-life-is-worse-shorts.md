@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Life Is Worse #shorts
+title: "Life Is Worse #shorts"
 author: Garys Economics
 date: 2023-05-27
 youtube_url: https://www.youtube.com/watch?v=fVkI150BPA4

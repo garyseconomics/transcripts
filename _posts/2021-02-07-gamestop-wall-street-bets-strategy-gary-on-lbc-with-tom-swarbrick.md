@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GAMESTOP:  Wall Street Bets Strategy - Gary on LBC with Tom Swarbrick
+title: "GAMESTOP:  Wall Street Bets Strategy - Gary on LBC with Tom Swarbrick"
 author: Garys Economics
 date: 2021-02-07
 youtube_url: https://www.youtube.com/watch?v=woXXdfOLrrQ

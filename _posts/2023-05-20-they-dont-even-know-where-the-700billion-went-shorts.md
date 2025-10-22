@@ -1,6 +1,6 @@
 ---
 layout: post
-title: They Don't Even Know Where the £700billion Went! #shorts
+title: "They Don't Even Know Where the £700billion Went! #shorts"
 author: Garys Economics
 date: 2023-05-20
 youtube_url: https://www.youtube.com/watch?v=iydiBT52U3s

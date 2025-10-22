@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Bank of England: Fixing Inflation but Worsening Inequality #Shorts
+title: "The Bank of England: Fixing Inflation but Worsening Inequality #Shorts"
 author: Garys Economics
 date: 2022-06-03
 youtube_url: https://www.youtube.com/watch?v=8CYpVGCHDIA

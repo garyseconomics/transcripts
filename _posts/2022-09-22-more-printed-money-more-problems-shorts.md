@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More (printed) Money = More Problems #Shorts
+title: "More (printed) Money = More Problems #Shorts"
 author: Garys Economics
 date: 2022-09-22
 youtube_url: https://www.youtube.com/watch?v=7O5C3xBVPPY

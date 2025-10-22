@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Media, Economics & Jobs #shorts
+title: "Media, Economics & Jobs #shorts"
 author: Garys Economics
 date: 2022-10-20
 youtube_url: https://www.youtube.com/watch?v=qZpgHn0vZ2k

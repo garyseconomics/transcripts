@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Government transfers cash to the Richest #shorts
+title: "Government transfers cash to the Richest #shorts"
 author: Garys Economics
 date: 2022-10-13
 youtube_url: https://www.youtube.com/watch?v=J8ixRoCF0fw

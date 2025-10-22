@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tories Increasing Inequality - Pro or Anti Defecit? #Shorts
+title: "Tories Increasing Inequality - Pro or Anti Defecit? #Shorts"
 author: Garys Economics
 date: 2022-10-06
 youtube_url: https://www.youtube.com/watch?v=_CmnHonipxc

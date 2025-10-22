@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multimillionaire Prime Ministers decide Tax Policy - BBC POLITICS LIVE #shorts
+title: "Multimillionaire Prime Ministers decide Tax Policy - BBC POLITICS LIVE #shorts"
 author: Garys Economics
 date: 2023-01-26
 youtube_url: https://www.youtube.com/watch?v=XQneDkzX5Vg

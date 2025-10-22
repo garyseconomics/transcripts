@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post-Budget: Why the Markets Reacted
+title: "Post-Budget: Why the Markets Reacted"
 author: Garys Economics
 date: 2022-09-30
 youtube_url: https://www.youtube.com/watch?v=R3KT0VMnqBo

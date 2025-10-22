@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rishi Sunak  #Shorts
+title: "Rishi Sunak  #Shorts"
 author: Garys Economics
 date: 2022-11-03
 youtube_url: https://www.youtube.com/watch?v=cO66LpZvzuM

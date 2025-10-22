@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inheriting £9billion #Shorts
+title: "Inheriting £9billion #Shorts"
 author: Garys Economics
 date: 2022-09-07
 youtube_url: https://www.youtube.com/watch?v=nnxTVny8AFw

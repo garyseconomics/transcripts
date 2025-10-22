@@ -1,6 +1,6 @@
 ---
 layout: post
-title: United we Stand, Divided we Fall - Young vs Old #Shorts
+title: "United we Stand, Divided we Fall - Young vs Old #Shorts"
 author: Garys Economics
 date: 2022-08-25
 youtube_url: https://www.youtube.com/watch?v=EV03QqMcjCA

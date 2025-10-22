@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GAMESTOP: Armchair Investors - Gary on Sky News Podcast with Dermot Murnaghan
+title: "GAMESTOP: Armchair Investors - Gary on Sky News Podcast with Dermot Murnaghan"
 author: Garys Economics
 date: 2021-02-04
 youtube_url: https://www.youtube.com/watch?v=foYWmPukv_8

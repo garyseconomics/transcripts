@@ -1,6 +1,6 @@
 ---
 layout: post
-title: COVID-19 - Rich get Richer, Poor get Poorer #Shorts
+title: "COVID-19 - Rich get Richer, Poor get Poorer #Shorts"
 author: Garys Economics
 date: 2022-05-31
 youtube_url: https://www.youtube.com/watch?v=qe3NkkhBia8

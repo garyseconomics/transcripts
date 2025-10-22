@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post-Budget: The Reality of the Cost of Living Crisis
+title: "Post-Budget: The Reality of the Cost of Living Crisis"
 author: Garys Economics
 date: 2022-09-25
 youtube_url: https://www.youtube.com/watch?v=91FzQ05S_Dg

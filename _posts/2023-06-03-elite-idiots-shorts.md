@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elite Idiots #shorts
+title: "Elite Idiots #shorts"
 author: Garys Economics
 date: 2023-06-03
 youtube_url: https://www.youtube.com/watch?v=5C4Oh0K6vVM

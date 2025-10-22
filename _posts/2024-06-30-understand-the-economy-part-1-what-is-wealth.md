@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understand the Economy Part 1: What is wealth?
+title: "Understand the Economy Part 1: What is wealth?"
 author: Garys Economics
 date: 2024-06-30
 youtube_url: https://www.youtube.com/watch?v=bReS9FLpgT4

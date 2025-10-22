@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In My Opinion: We NEED A Wealth Tax  -  BBC Radio 5 Live Breakfast with Rachel Burden
+title: "In My Opinion: We NEED A Wealth Tax  -  BBC Radio 5 Live Breakfast with Rachel Burden"
 author: Garys Economics
 date: 2022-02-02
 youtube_url: https://www.youtube.com/watch?v=r9LQzCx9-9o

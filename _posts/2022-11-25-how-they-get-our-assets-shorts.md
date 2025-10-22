@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How they get our Assets #Shorts
+title: "How they get our Assets #Shorts"
 author: Garys Economics
 date: 2022-11-25
 youtube_url: https://www.youtube.com/watch?v=5jrMgAEkcYM

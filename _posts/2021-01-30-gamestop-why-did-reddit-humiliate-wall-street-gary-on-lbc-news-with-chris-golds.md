@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GAMESTOP: Why did Reddit humiliate Wall Street - Gary on LBC News with Chris Golds
+title: "GAMESTOP: Why did Reddit humiliate Wall Street - Gary on LBC News with Chris Golds"
 author: Garys Economics
 date: 2021-01-30
 youtube_url: https://www.youtube.com/watch?v=-Je6ZcSnQuI

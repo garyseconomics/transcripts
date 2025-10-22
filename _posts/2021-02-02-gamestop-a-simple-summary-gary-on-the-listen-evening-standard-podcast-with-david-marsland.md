@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GAMESTOP: A Simple Summary - Gary on The Listen Evening Standard Podcast with David Marsland
+title: "GAMESTOP: A Simple Summary - Gary on The Listen Evening Standard Podcast with David Marsland"
 author: Garys Economics
 date: 2021-02-02
 youtube_url: https://www.youtube.com/watch?v=wXCke9xu7tE

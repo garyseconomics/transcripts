@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conservative Cuts #Shorts @NovaraMedia
+title: "Conservative Cuts #Shorts @NovaraMedia"
 author: Garys Economics
 date: 2022-11-11
 youtube_url: https://www.youtube.com/watch?v=Enm4AsADy2A

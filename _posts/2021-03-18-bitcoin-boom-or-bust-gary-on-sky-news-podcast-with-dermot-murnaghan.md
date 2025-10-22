@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BITCOIN: Boom or Bust? - Gary on Sky News Podcast with Dermot Murnaghan
+title: "BITCOIN: Boom or Bust? - Gary on Sky News Podcast with Dermot Murnaghan"
 author: Garys Economics
 date: 2021-03-18
 youtube_url: https://www.youtube.com/watch?v=oWxjcm1h67g

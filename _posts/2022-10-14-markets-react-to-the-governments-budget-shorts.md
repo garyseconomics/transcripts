@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markets React to the Governments Budget #shorts
+title: "Markets React to the Governments Budget #shorts"
 author: Garys Economics
 date: 2022-10-14
 youtube_url: https://www.youtube.com/watch?v=jpyy4zbk0_c

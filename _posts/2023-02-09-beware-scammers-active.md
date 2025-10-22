@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beware: Scammers Active
+title: "Beware: Scammers Active"
 author: Garys Economics
 date: 2023-02-09
 youtube_url: https://www.youtube.com/watch?v=iEn8xKwbl_s

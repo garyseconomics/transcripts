@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My biggest fear: growing inequality will lead to fascism
+title: "My biggest fear: growing inequality will lead to fascism"
 author: Garys Economics
 date: 2024-08-29
 youtube_url: https://www.youtube.com/watch?v=hZCENTJc2uk

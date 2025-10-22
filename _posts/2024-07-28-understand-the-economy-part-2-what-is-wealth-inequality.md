@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understand the Economy Part 2: What Is Wealth Inequality?
+title: "Understand the Economy Part 2: What Is Wealth Inequality?"
 author: Garys Economics
 date: 2024-07-28
 youtube_url: https://www.youtube.com/watch?v=TflnQb9E6lw

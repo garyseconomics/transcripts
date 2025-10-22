@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's Broken! #Shorts
+title: "It's Broken! #Shorts"
 author: Garys Economics
 date: 2023-02-23
 youtube_url: https://www.youtube.com/watch?v=RSKzGDHW0ec

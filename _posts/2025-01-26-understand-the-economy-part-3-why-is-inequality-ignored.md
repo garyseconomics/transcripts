@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understand the Economy Part 3: Why is Inequality Ignored?
+title: "Understand the Economy Part 3: Why is Inequality Ignored?"
 author: Garys Economics
 date: 2025-01-26
 youtube_url: https://www.youtube.com/watch?v=CivlU8hJVwc

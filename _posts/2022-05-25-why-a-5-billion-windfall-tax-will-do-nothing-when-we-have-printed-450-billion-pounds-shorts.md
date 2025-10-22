@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why a £5 Billion Windfall Tax will do NOTHING when we have printed £450 Billion Pounds! #Shorts
+title: "Why a £5 Billion Windfall Tax will do NOTHING when we have printed £450 Billion Pounds! #Shorts"
 author: Garys Economics
 date: 2022-05-25
 youtube_url: https://www.youtube.com/watch?v=s6ZV1SCOYDc

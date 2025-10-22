@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #Q&A1 - How did Wealth Inequality Improve after World War 2?
+title: "#Q&A1 - How did Wealth Inequality Improve after World War 2?"
 author: Garys Economics
 date: 2022-11-17
 youtube_url: https://www.youtube.com/watch?v=bmogfHcLnV8

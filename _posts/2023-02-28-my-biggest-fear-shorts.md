@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Biggest Fear... #shorts
+title: "My Biggest Fear... #shorts"
 author: Garys Economics
 date: 2023-02-28
 youtube_url: https://www.youtube.com/watch?v=KoqAtPwfavU

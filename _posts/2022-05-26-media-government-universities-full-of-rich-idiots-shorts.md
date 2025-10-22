@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Media, Government & Universities: FULL of Rich Idiots! #Shorts
+title: "Media, Government & Universities: FULL of Rich Idiots! #Shorts"
 author: Garys Economics
 date: 2022-05-26
 youtube_url: https://www.youtube.com/watch?v=bUwrkyOnbP8

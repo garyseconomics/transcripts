@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who pays for this crisis: Rishi Sunak or you? Gary on talkRADIO with Ian Collins
+title: "Who pays for this crisis: Rishi Sunak or you? Gary on talkRADIO with Ian Collins"
 author: Garys Economics
 date: 2020-12-11
 youtube_url: https://www.youtube.com/watch?v=3Qlygh4N8nY

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Money Can Not Run Out! #shorts
+title: "Money Can Not Run Out! #shorts"
 author: Garys Economics
 date: 2023-05-17
 youtube_url: https://www.youtube.com/watch?v=gngU_kC6ZEQ

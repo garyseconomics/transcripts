@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GAMESTOP: Former trader says don't get excited, few will actually benefit - Gary on AJ+
+title: "GAMESTOP: Former trader says don't get excited, few will actually benefit - Gary on AJ+"
 author: Garys Economics
 date: 2021-02-03
 youtube_url: https://www.youtube.com/watch?v=58bTX_27DGk

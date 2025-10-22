@@ -1,6 +1,6 @@
 ---
 layout: post
-title: After Boris #shorts
+title: "After Boris #shorts"
 author: Garys Economics
 date: 2023-06-12
 youtube_url: https://www.youtube.com/watch?v=R4TSFdwEpRM

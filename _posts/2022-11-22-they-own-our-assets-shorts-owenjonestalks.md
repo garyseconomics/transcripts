@@ -1,6 +1,6 @@
 ---
 layout: post
-title: They Own Our Assets #Shorts @OwenJonesTalks
+title: "They Own Our Assets #Shorts @OwenJonesTalks"
 author: Garys Economics
 date: 2022-11-22
 youtube_url: https://www.youtube.com/watch?v=GkrRAELLu-c

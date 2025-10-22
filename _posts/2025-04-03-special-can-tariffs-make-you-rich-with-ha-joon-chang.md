@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Special: Can tariffs make you rich? with Ha-Joon Chang
+title: "Special: Can tariffs make you rich? with Ha-Joon Chang"
 author: Garys Economics
 date: 2025-04-03
 youtube_url: https://www.youtube.com/watch?v=Shz3mSMqW04
