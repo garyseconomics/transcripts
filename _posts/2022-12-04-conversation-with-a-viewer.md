@@ -10,27 +10,27 @@ like_count: 1253
 duration_seconds: 1487
 categories:
 - News & Politics
-description: |
-  Gary has a casual chat about the channel with an anonymous friend who often watches the channel
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics - https://twitter.com/garyseconomics
-  FACEBOOK - @garyseconomics - https://www.facebook.com/garyseconomics/
-  INSTAGRAM - @garyseconomics - https://www.instagram.com/garyseconomics/
-  TIKTOK - @garyseconomics - https://www.tiktok.com/@garyseconomics?lang=en
-  YOUTUBE - @garyseconomics - https://www.youtube.com/@GarysEconomics
-  
-  Performed by Gary Stevenson
-  GARYSECONOMICS
-  
-  
-  Produced by Simran Mohan
-  MOHAN MEDIA
+description: Gary has a casual chat about the channel with an anonymous friend who often watches the channel
 thumbnail: https://i.ytimg.com/vi_webp/YYBWo3pNRKw/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/YYBWo3pNRKw.vtt
+
 ---
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics - https://twitter.com/garyseconomics
+- FACEBOOK - @garyseconomics - https://www.facebook.com/garyseconomics/
+- INSTAGRAM - @garyseconomics - https://www.instagram.com/garyseconomics/
+- TIKTOK - @garyseconomics - https://www.tiktok.com/@garyseconomics?lang=en
+- YOUTUBE - @garyseconomics - https://www.youtube.com/@GarysEconomics
+
+Performed by Gary Stevenson
+GARYSECONOMICS
+
+
+Produced by Simran Mohan
+MOHAN MEDIA

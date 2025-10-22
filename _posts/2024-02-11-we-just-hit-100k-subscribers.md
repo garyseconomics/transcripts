@@ -22,28 +22,28 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  Gary answers some of your questions, and gives an update on the channel.
-  
-  Preorder your copy of THE TRADING GAME from B&N using code TRADINGGAME25 for 25% off, this offer ends Feb 27: https://www.barnesandnoble.com/w/the-trading-game-gary-stevenson/1143777131
-  
-  UNDERSTAND, SHARE & PUSH BACK
-  
-  WEBSITE - https://www.garyseconomics.org
-  TWITTER  - https://twitter.com/garyseconomics
-  FACEBOOK - https://www.facebook.com/garyseconomics
-  INSTAGRAM  - https://www.instagram.com/garyseconomics
-  TIKTOK - https://www.tiktok.com/@garyseconomics
-  YOUTUBE -  https://www.youtube.com/garyseconomics
-  PATREON - https://patreon.com/garyseconomics
-  DISCORD - https://discord.gg/vqME6WsPd7
-  BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  Performed by Gary Stevenson
-  @garyseconomics
+description: Gary answers some of your questions, and gives an update on the channel.
 thumbnail: https://i.ytimg.com/vi_webp/wF3A4JyS8OQ/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/wF3A4JyS8OQ.vtt
+
 ---
+
+Preorder your copy of THE TRADING GAME from B&N using code TRADINGGAME25 for 25% off, this offer ends Feb 27: https://www.barnesandnoble.com/w/the-trading-game-gary-stevenson/1143777131
+
+UNDERSTAND, SHARE & PUSH BACK
+
+- WEBSITE - https://www.garyseconomics.org
+- TWITTER  - https://twitter.com/garyseconomics
+- FACEBOOK - https://www.facebook.com/garyseconomics
+- INSTAGRAM  - https://www.instagram.com/garyseconomics
+- TIKTOK - https://www.tiktok.com/@garyseconomics
+- YOUTUBE -  https://www.youtube.com/garyseconomics
+- PATREON - https://patreon.com/garyseconomics
+- DISCORD - https://discord.gg/vqME6WsPd7
+- BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+Performed by Gary Stevenson
+@garyseconomics

@@ -10,13 +10,11 @@ like_count: 48809
 duration_seconds: 56
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from a previous full length video 
-  "The City, Levelling Up & £700billion - Gary on Politics Live" 
-  https://youtu.be/e1sD80TXKwQ
-  
-  #enoughisenough #richgetricher #poorgetpoorer #economics101 #wealthinequality # taxwealthnotwork
+description: "This #Short is a snippet from a previous full length video \"The City, Levelling Up & £700billion - Gary on Politics Live\" https://youtu.be/e1sD80TXKwQ"
 thumbnail: https://i.ytimg.com/vi_webp/f3vcB0aD8BY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/f3vcB0aD8BY.vtt
+
 ---
+
+#enoughisenough #richgetricher #poorgetpoorer #economics101 #wealthinequality # taxwealthnotwork

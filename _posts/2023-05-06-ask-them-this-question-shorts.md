@@ -22,13 +22,11 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  This #Short is a snippet from a previous full length video 
-  "Where is the Money? - What I Learnt on the BBC"" 
-  https://youtu.be/olhY3NI7jbE
-  
-  #billionaire #wealthinequality #richgetricher #poorgetpoorer #askthem   #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis #whereisthemoney
+description: "This #Short is a snippet from a previous full length video \"Where is the Money? - What I Learnt on the BBC\"\" https://youtu.be/olhY3NI7jbE"
 thumbnail: https://i.ytimg.com/vi_webp/gbA413Ov-HY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/gbA413Ov-HY.vtt
+
 ---
+
+#billionaire #wealthinequality #richgetricher #poorgetpoorer #askthem   #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis #whereisthemoney
