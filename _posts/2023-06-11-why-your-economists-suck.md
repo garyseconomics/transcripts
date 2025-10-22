@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: "Academia are trying to write fancy papers, Media are trying to present professional looking content but none of them really care about being right. In the central bank they they are slightly more tied to reality but as you can see the central bank has done a phenomenally poor job of managing inflation in the last few years and they've done a phenomenally poor job of managing the economy in the last 20 years, you know & does anybody get fired? does anybody get fined?"
+description: "\"Academia are trying to write fancy papers, Media are trying to present professional looking content but none of them really care about being right. In the central bank they they are slightly more tied to reality but as you can see the central bank has done a phenomenally poor job of managing inflation in the last few years and they've done a phenomenally poor job of managing the economy in the last 20 years, you know & does anybody get fired? does anybody get fined?\""
 thumbnail: https://i.ytimg.com/vi_webp/NqtHN2RKdqI/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/NqtHN2RKdqI.vtt

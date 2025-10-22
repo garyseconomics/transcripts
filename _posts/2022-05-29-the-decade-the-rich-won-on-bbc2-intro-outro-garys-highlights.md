@@ -10,7 +10,7 @@ like_count: 413
 duration_seconds: 780
 categories:
 - News & Politics
-description: Featuring: Gary Stevenson, George Osbourne, Philip Hamond, Nick Clegg, Iain Duncan-Smith, Alistair Darling, Mervyn King, Nick Bannon, Will Tanner, Nick Timothy, Andrew Huszar & many more...
+description: "Featuring: Gary Stevenson, George Osbourne, Philip Hamond, Nick Clegg, Iain Duncan-Smith, Alistair Darling, Mervyn King, Nick Bannon, Will Tanner, Nick Timothy, Andrew Huszar & many more..."
 thumbnail: https://i.ytimg.com/vi_webp/ZExFBJkvGTM/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/ZExFBJkvGTM.vtt

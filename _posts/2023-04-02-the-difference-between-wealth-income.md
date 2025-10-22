@@ -10,7 +10,7 @@ like_count: 2231
 duration_seconds: 353
 categories:
 - News & Politics
-description: "We have never once supported higher taxes on working people, this channel has always been about higher taxes on people with huge amounts of accumulated hoarded wealth.
+description: We have never once supported higher taxes on working people, this channel has always been about higher taxes on people with huge amounts of accumulated hoarded wealth.
 thumbnail: https://i.ytimg.com/vi_webp/rZHdXOWMChE/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/rZHdXOWMChE.vtt

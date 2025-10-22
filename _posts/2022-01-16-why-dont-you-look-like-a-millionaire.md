@@ -10,7 +10,7 @@ like_count: 2085
 duration_seconds: 429
 categories:
 - News & Politics
-description: "if you work your whole life to buy like a dream car, then go and buy it, but for me it was never really about that. I just wanted to be a damn good trader, and i was & also to just not have those worries that my parents had & that i had when i was a kid"
+description: "\"if you work your whole life to buy like a dream car, then go and buy it, but for me it was never really about that. I just wanted to be a damn good trader, and i was & also to just not have those worries that my parents had & that i had when i was a kid\""
 thumbnail: https://i.ytimg.com/vi_webp/vsw2ihh9U9U/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/vsw2ihh9U9U.vtt

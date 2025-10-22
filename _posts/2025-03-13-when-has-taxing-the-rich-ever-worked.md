@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: From this interview: https://www.youtube.com/watch?v=03lydX8XHF4&ab_channel=PiersMorganUncensored
+description: "From this interview: https://www.youtube.com/watch?v=03lydX8XHF4&ab_channel=PiersMorganUncensored"
 thumbnail: https://i.ytimg.com/vi_webp/z6i5LNkNzq0/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/z6i5LNkNzq0.vtt

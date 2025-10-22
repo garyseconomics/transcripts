@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: JOIN THE MAILING LIST: https://subscribepage.io/garyseconomics
+description: "JOIN THE MAILING LIST: https://subscribepage.io/garyseconomics"
 thumbnail: https://i.ytimg.com/vi_webp/IGOuU2_K2EA/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/IGOuU2_K2EA.vtt

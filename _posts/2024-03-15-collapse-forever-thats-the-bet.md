@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Gary on @NovaraMedia
+description: "Gary on @NovaraMedia"
 thumbnail: https://i.ytimg.com/vi_webp/iIi9Kk1rN3A/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/iIi9Kk1rN3A.vtt

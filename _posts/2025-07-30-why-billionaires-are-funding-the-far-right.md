@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: From this interview with @LeadingTRIP: https://www.youtube.com/watch?v=iD2sPL7k98c&list=PL6FSkqQfijfW6g3l6_EErsOc0szsoEvue
+description: "From this interview with @LeadingTRIP: https://www.youtube.com/watch?v=iD2sPL7k98c&list=PL6FSkqQfijfW6g3l6_EErsOc0szsoEvue"
 thumbnail: https://i.ytimg.com/vi_webp/oaNJ48SP998/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/oaNJ48SP998.vtt

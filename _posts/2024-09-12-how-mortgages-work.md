@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Note: this was filmed in 2023 when the Tories were the government.
+description: "Note: this was filmed in 2023 when the Tories were the government."
 thumbnail: https://i.ytimg.com/vi_webp/vBgeVukN0Ik/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/vBgeVukN0Ik.vtt

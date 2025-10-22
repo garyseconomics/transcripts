@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Me arguing for a wealth tax on @gmb this morning.
+description: "Me arguing for a wealth tax on @gmb this morning."
 thumbnail: https://i.ytimg.com/vi_webp/WEFxxtX4Xm8/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/WEFxxtX4Xm8.vtt

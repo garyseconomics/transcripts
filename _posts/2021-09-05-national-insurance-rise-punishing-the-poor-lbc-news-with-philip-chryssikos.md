@@ -10,7 +10,7 @@ like_count: 104
 duration_seconds: 231
 categories:
 - News & Politics
-description: Gary on LBC News with Philip Chryssikos Broadcast on 03/09/2021 @ 13:23 Uploaded with permission from LBC NEWS https://www.lbc.co.uk/news/
+description: "Gary on LBC News with Philip Chryssikos Broadcast on 03/09/2021 @ 13:23 Uploaded with permission from LBC NEWS https://www.lbc.co.uk/news/"
 thumbnail: https://i.ytimg.com/vi_webp/5QvennZEpPs/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/5QvennZEpPs.vtt

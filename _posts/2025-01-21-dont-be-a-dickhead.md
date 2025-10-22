@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: From this interview with @tilojung https://www.youtube.com/watch?v=Zhsx7pogODA&t=7603s&ab_channel=Jung%26Naiv
+description: "From this interview with @tilojung https://www.youtube.com/watch?v=Zhsx7pogODA&t=7603s&ab_channel=Jung%26Naiv"
 thumbnail: https://i.ytimg.com/vi_webp/7GExSKwC4og/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/7GExSKwC4og.vtt

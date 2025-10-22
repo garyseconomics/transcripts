@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: From this interview with @Motleyfoolpodcasts https://www.youtube.com/watch?v=CWjT_helhx0&t=1071s&ab_channel=MotleyFoolPodcasts
+description: "From this interview with @Motleyfoolpodcasts https://www.youtube.com/watch?v=CWjT_helhx0&t=1071s&ab_channel=MotleyFoolPodcasts"
 thumbnail: https://i.ytimg.com/vi_webp/oDJordhQWGY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/oDJordhQWGY.vtt

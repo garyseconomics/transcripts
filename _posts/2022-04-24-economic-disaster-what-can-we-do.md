@@ -10,7 +10,7 @@ like_count: 710
 duration_seconds: 619
 categories:
 - News & Politics
-description: Gary answers a commonly asked question "What can we do to fix wealth inequality?"
+description: "Gary answers a commonly asked question \"What can we do to fix wealth inequality?\""
 thumbnail: https://i.ytimg.com/vi_webp/tpFJ4KAvzes/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/tpFJ4KAvzes.vtt

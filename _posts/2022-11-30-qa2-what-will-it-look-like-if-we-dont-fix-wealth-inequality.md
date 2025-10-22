@@ -10,7 +10,7 @@ like_count: 586
 duration_seconds: 207
 categories:
 - News & Politics
-description: "If we do continue down this path and just make so many things unaffordable for people, basically make families unaffordable, what does that look like?"
+description: "\"If we do continue down this path and just make so many things unaffordable for people, basically make families unaffordable, what does that look like?\""
 thumbnail: https://i.ytimg.com/vi_webp/sQvrei7LhEk/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/sQvrei7LhEk.vtt

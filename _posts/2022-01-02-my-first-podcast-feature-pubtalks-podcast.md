@@ -10,7 +10,7 @@ like_count: 199
 duration_seconds: 5300
 categories:
 - News & Politics
-description: My first ever appearance on a podcast (or any media!) Original Introduction: "Gary Stevenson is not from your cliche city stock.
+description: "My first ever appearance on a podcast (or any media!) Original Introduction: \"Gary Stevenson is not from your cliche city stock."
 thumbnail: https://i.ytimg.com/vi_webp/jVJIDooWUKQ/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/jVJIDooWUKQ.vtt

@@ -10,7 +10,7 @@ like_count: 373
 duration_seconds: 209
 categories:
 - News & Politics
-description: This snippet was taken from the full interview available here: https://youtu.be/hK2VyOGb6CI
+description: "This snippet was taken from the full interview available here: https://youtu.be/hK2VyOGb6CI"
 thumbnail: https://i.ytimg.com/vi_webp/LEyne0lCpIM/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/LEyne0lCpIM.vtt

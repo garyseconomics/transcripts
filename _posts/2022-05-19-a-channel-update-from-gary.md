@@ -10,7 +10,7 @@ like_count: 365
 duration_seconds: 154
 categories:
 - News & Politics
-description: Gary updates us on what he has been up to: Shooting Videos, Doing Media & Writing a Book!
+description: "Gary updates us on what he has been up to: Shooting Videos, Doing Media & Writing a Book!"
 thumbnail: https://i.ytimg.com/vi_webp/IdxoZveGkUE/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/IdxoZveGkUE.vtt

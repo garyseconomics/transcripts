@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: How's your local high street doing?
+description: "How's your local high street doing?"
 thumbnail: https://i.ytimg.com/vi_webp/bMRSQ023yGo/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/bMRSQ023yGo.vtt

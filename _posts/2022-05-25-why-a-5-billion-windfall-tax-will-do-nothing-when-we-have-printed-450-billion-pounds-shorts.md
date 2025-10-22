@@ -10,7 +10,7 @@ like_count: 576
 duration_seconds: 60
 categories:
 - News & Politics
-description: This #Short is a snippet from the full length video 'What's Wrong with Economics?" Full Video: https://youtu.be/EwB5ihGu4Jw "If i was to come to you 3 years ago before Covid and say imagine the government printed £450 billion pounds and gave it to the rich, what do you think would happen?
+description: "This #Short is a snippet from the full length video 'What's Wrong with Economics?\" Full Video: https://youtu.be/EwB5ihGu4Jw \"If i was to come to you 3 years ago before Covid and say imagine the government printed £450 billion pounds and gave it to the rich, what do you think would happen?"
 thumbnail: https://i.ytimg.com/vi_webp/s6ZV1SCOYDc/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/s6ZV1SCOYDc.vtt

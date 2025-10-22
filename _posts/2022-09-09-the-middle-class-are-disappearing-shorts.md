@@ -10,7 +10,7 @@ like_count: 4075
 duration_seconds: 57
 categories:
 - News & Politics
-description: This #Short is a snippet from a previous full length video
+description: "This #Short is a snippet from a previous full length video"
 thumbnail: https://i.ytimg.com/vi_webp/2Mk2ev4x58E/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/2Mk2ev4x58E.vtt

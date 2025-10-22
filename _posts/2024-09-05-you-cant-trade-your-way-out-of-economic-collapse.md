@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: From this interview with @makingmoneypodcast : https://www.youtube.com/watch?v=oLsV8eD-DfM&t=3242s&ab_channel=MakingMoneyPodcast
+description: "From this interview with @makingmoneypodcast : https://www.youtube.com/watch?v=oLsV8eD-DfM&t=3242s&ab_channel=MakingMoneyPodcast"
 thumbnail: https://i.ytimg.com/vi_webp/4GY5X2jDvSs/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/4GY5X2jDvSs.vtt

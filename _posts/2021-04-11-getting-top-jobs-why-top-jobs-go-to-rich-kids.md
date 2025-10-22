@@ -10,7 +10,7 @@ like_count: 1314
 duration_seconds: 828
 categories:
 - News & Politics
-description: Gary talks about schools, universities & jobs.
+description: "Gary talks about schools, universities & jobs."
 thumbnail: https://i.ytimg.com/vi_webp/EtmUtgNvpJg/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/EtmUtgNvpJg.vtt

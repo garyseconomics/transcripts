@@ -10,7 +10,7 @@ like_count: 758
 duration_seconds: 80
 categories:
 - News & Politics
-description: With more and more scammers active on thew channel (targeting our viewers by impersonating Gary and then asking viewers to contact this imposter on other platforms) Gary issues a warning to viewers - be careful!
+description: "With more and more scammers active on thew channel (targeting our viewers by impersonating Gary and then asking viewers to contact this imposter on other platforms) Gary issues a warning to viewers - be careful!"
 thumbnail: https://i.ytimg.com/vi_webp/iEn8xKwbl_s/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/iEn8xKwbl_s.vtt

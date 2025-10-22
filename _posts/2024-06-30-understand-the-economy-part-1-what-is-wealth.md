@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Introducing my new course on economics: PART 1 What is Wealth?
+description: "Introducing my new course on economics: PART 1 What is Wealth?"
 thumbnail: https://i.ytimg.com/vi_webp/bReS9FLpgT4/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/bReS9FLpgT4.vtt

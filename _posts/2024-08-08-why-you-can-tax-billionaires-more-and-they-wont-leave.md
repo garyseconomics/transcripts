@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Watch the full interview with @NovaraMedia here: https://www.youtube.com/watch?v=ViY-zI3b5JQ
+description: "Watch the full interview with @NovaraMedia here: https://www.youtube.com/watch?v=ViY-zI3b5JQ"
 thumbnail: https://i.ytimg.com/vi_webp/GSwFZqHtOX0/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/GSwFZqHtOX0.vtt

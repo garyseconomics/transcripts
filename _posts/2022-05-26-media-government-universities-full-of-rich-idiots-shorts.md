@@ -10,7 +10,7 @@ like_count: 52884
 duration_seconds: 56
 categories:
 - News & Politics
-description: This #Short is a snippet from the full length video 'What's Wrong with Economics?" Full Video: https://youtu.be/EwB5ihGu4Jw "If you run a global organization based in London and you don't have a single person on your staff who sounds like me, you f***ed up because how can you possibly have the best people?
+description: "This #Short is a snippet from the full length video 'What's Wrong with Economics?\" Full Video: https://youtu.be/EwB5ihGu4Jw \"If you run a global organization based in London and you don't have a single person on your staff who sounds like me, you f***ed up because how can you possibly have the best people?"
 thumbnail: https://i.ytimg.com/vi_webp/bUwrkyOnbP8/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/bUwrkyOnbP8.vtt

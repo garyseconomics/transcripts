@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: From this interview with @TheProfGPod : https://www.youtube.com/watch?v=cP5h_C1tu_U&ab_channel=TheProfGPod%E2%80%93ScottGalloway
+description: "From this interview with @TheProfGPod : https://www.youtube.com/watch?v=cP5h_C1tu_U&ab_channel=TheProfGPod%E2%80%93ScottGalloway"
 thumbnail: https://i.ytimg.com/vi_webp/BNFdglvJ0sY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/BNFdglvJ0sY.vtt

@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Worsening mental health outcomes are often spoken about as if they are the fault of the individual, but is insecure mental health a natural outcome of an insecure economy?
+description: "Worsening mental health outcomes are often spoken about as if they are the fault of the individual, but is insecure mental health a natural outcome of an insecure economy?"
 thumbnail: https://i.ytimg.com/vi_webp/L5QyBl85u1I/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/L5QyBl85u1I.vtt

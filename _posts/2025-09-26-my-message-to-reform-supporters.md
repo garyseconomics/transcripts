@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Full video: https://www.youtube.com/watch?v=mcu03c2dZQI
+description: "Full video: https://www.youtube.com/watch?v=mcu03c2dZQI"
 thumbnail: https://i.ytimg.com/vi_webp/FFBujbEv5-Y/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/FFBujbEv5-Y.vtt

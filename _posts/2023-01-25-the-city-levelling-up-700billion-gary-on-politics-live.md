@@ -10,7 +10,7 @@ like_count: 8795
 duration_seconds: 961
 categories:
 - News & Politics
-description: Topic Introductions and Gary's Opinion Segments only - for other panelists response please visit iPlayer for the full episode (details below) Hosted by Jo Coburn & Featuring Nickie Aikin, Angela Eagle, Annabelle Denham & Gary Stevenson Is taxing multimillionaires more the way to save the economy?
+description: "Topic Introductions and Gary's Opinion Segments only - for other panelists response please visit iPlayer for the full episode (details below) Hosted by Jo Coburn & Featuring Nickie Aikin, Angela Eagle, Annabelle Denham & Gary Stevenson Is taxing multimillionaires more the way to save the economy?"
 thumbnail: https://i.ytimg.com/vi_webp/e1sD80TXKwQ/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/e1sD80TXKwQ.vtt

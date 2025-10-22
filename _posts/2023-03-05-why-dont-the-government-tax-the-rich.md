@@ -10,7 +10,7 @@ like_count: 5367
 duration_seconds: 1093
 categories:
 - News & Politics
-description: "it goes a lot deeper than simply rich people in government who don't give a ****, there is a problem of our Economic Institutions are intellectually bankrupt and that sounds extreme but listen I've got a degree from LSE, I've got a degree from Oxford, I've worked, I've been in think tanks, I've been in the City, I've been in Economics for 18 years now in many different spaces my honest opinion is that economics is intellectually bankrupt as a discipline"
+description: "\"it goes a lot deeper than simply rich people in government who don't give a ****, there is a problem of our Economic Institutions are intellectually bankrupt and that sounds extreme but listen I've got a degree from LSE, I've got a degree from Oxford, I've worked, I've been in think tanks, I've been in the City, I've been in Economics for 18 years now in many different spaces my honest opinion is that economics is intellectually bankrupt as a discipline\""
 thumbnail: https://i.ytimg.com/vi_webp/U0XntlILeHU/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/U0XntlILeHU.vtt

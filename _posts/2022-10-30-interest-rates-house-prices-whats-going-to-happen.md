@@ -10,7 +10,7 @@ like_count: 4463
 duration_seconds: 822
 categories:
 - News & Politics
-description: It feels like an age since Gary last discussed low interest rates - things have changed drastically since and so Gary updates us on where he thinks Interest Rates & House Prices will go from here.
+description: "It feels like an age since Gary last discussed low interest rates - things have changed drastically since and so Gary updates us on where he thinks Interest Rates & House Prices will go from here."
 thumbnail: https://i.ytimg.com/vi_webp/36gw4ONk5pg/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/36gw4ONk5pg.vtt

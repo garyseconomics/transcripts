@@ -10,7 +10,7 @@ like_count: 196
 duration_seconds: 465
 categories:
 - News & Politics
-description: Gary Stevenson explains the Gamestop short-selling situation & why we should be careful before investing
+description: "Gary Stevenson explains the Gamestop short-selling situation & why we should be careful before investing"
 thumbnail: https://i.ytimg.com/vi_webp/-Je6ZcSnQuI/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/-Je6ZcSnQuI.vtt

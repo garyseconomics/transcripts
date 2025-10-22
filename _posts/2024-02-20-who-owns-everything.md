@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Gary on @MakingMoneyPodcast
+description: "Gary on @MakingMoneyPodcast"
 thumbnail: https://i.ytimg.com/vi_webp/-JTRC8YkhdY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/-JTRC8YkhdY.vtt

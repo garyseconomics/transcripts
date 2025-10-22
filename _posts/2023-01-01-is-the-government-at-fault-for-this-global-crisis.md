@@ -10,7 +10,7 @@ like_count: 1772
 duration_seconds: 539
 categories:
 - News & Politics
-description: 'so there's a housing crisis in most major cities & countries by extension, possibly a cost of living crisis in all countries, so why are we so hard on our government here? is it not not their fault?'
+description: "so there's a housing crisis in most major cities & countries by extension, possibly a cost of living crisis in all countries, so why are we so hard on our government here? is it not not their fault?'"
 thumbnail: https://i.ytimg.com/vi_webp/Kincw-merD8/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/Kincw-merD8.vtt

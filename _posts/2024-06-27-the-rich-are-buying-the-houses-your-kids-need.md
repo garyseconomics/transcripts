@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Gary on @PoliticsJOE
+description: "Gary on @PoliticsJOE"
 thumbnail: https://i.ytimg.com/vi_webp/_poXyDTgXPY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/_poXyDTgXPY.vtt

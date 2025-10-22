@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Who actually ends up with that mortgage payment you make every month?
+description: "Who actually ends up with that mortgage payment you make every month?"
 thumbnail: https://i.ytimg.com/vi_webp/kidX8prVIgY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/kidX8prVIgY.vtt

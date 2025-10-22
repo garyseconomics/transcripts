@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Own a house?
+description: "Own a house?"
 thumbnail: https://i.ytimg.com/vi_webp/ITg2wrnt-VU/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/ITg2wrnt-VU.vtt

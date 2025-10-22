@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: This #Short is a snippet from a previous full length video "Where is the Money? - What I Learnt on the BBC"" https://youtu.be/olhY3NI7jbE
+description: "This #Short is a snippet from a previous full length video \"Where is the Money? - What I Learnt on the BBC\"\" https://youtu.be/olhY3NI7jbE"
 thumbnail: https://i.ytimg.com/vi_webp/iydiBT52U3s/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/iydiBT52U3s.vtt

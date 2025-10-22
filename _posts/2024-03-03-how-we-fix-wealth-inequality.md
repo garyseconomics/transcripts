@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: We know what the problems are, so what about the solutions?
+description: "We know what the problems are, so what about the solutions?"
 thumbnail: https://i.ytimg.com/vi_webp/jFHGiq063rA/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/jFHGiq063rA.vtt

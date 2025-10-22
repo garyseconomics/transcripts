@@ -10,7 +10,7 @@ like_count: 123
 duration_seconds: 565
 categories:
 - News & Politics
-description: Gary on LBC with Clive Bull Broadcast on 23/05/2021 @ 00:20 Uploaded with permission from LBC https://www.lbc.co.uk/
+description: "Gary on LBC with Clive Bull Broadcast on 23/05/2021 @ 00:20 Uploaded with permission from LBC https://www.lbc.co.uk/"
 thumbnail: https://i.ytimg.com/vi_webp/Ehj85AsZVmY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/Ehj85AsZVmY.vtt

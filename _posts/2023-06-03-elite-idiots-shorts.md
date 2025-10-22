@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: This #Short is a snippet from a previous full length video "Does GDP Matter to Ordinary People?" https://youtu.be/18noQG38tiY
+description: "This #Short is a snippet from a previous full length video \"Does GDP Matter to Ordinary People?\" https://youtu.be/18noQG38tiY"
 thumbnail: https://i.ytimg.com/vi_webp/5C4Oh0K6vVM/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/5C4Oh0K6vVM.vtt

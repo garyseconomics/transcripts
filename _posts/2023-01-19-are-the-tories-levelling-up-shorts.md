@@ -10,7 +10,7 @@ like_count: 6536
 duration_seconds: 60
 categories:
 - News & Politics
-description: If i gave a poor person £2.80 and gave a rich person £700 - is that levelling up?
+description: "If i gave a poor person £2.80 and gave a rich person £700 - is that levelling up?"
 thumbnail: https://i.ytimg.com/vi_webp/bp6Hqfir174/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/bp6Hqfir174.vtt

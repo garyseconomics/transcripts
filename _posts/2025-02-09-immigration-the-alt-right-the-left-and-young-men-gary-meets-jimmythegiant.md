@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Gary talks to @JimmyTheGiant.
+description: "Gary talks to @JimmyTheGiant."
 thumbnail: https://i.ytimg.com/vi_webp/MCqfr91vFws/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/MCqfr91vFws.vtt

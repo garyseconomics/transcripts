@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: From this interview with @ladbiblestories https://www.youtube.com/watch?v=VlvoNgUi8EU
+description: "From this interview with @ladbiblestories https://www.youtube.com/watch?v=VlvoNgUi8EU"
 thumbnail: https://i.ytimg.com/vi_webp/hS-Dwy_XQ30/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/hS-Dwy_XQ30.vtt

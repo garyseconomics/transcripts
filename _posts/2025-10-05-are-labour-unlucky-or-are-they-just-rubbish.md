@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Is the Labour government failing to change anything because of bad choices – or because the economic situation makes them powerless to act?
+description: "Is the Labour government failing to change anything because of bad choices – or because the economic situation makes them powerless to act?"
 thumbnail: https://i.ytimg.com/vi_webp/lgzn2AsFULE/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/lgzn2AsFULE.vtt

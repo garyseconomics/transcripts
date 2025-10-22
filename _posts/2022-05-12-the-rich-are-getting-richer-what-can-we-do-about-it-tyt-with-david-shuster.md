@@ -10,7 +10,7 @@ like_count: 293
 duration_seconds: 716
 categories:
 - News & Politics
-description: Gary Does his first American Media Interview, with Cenk Uygur from The Yound Turks!
+description: "Gary Does his first American Media Interview, with Cenk Uygur from The Yound Turks!"
 thumbnail: https://i.ytimg.com/vi_webp/aTqC2w_4KYA/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/aTqC2w_4KYA.vtt

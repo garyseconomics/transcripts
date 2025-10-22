@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Gary on @podsavetheworld
+description: "Gary on @podsavetheworld"
 thumbnail: https://i.ytimg.com/vi_webp/a9_BnsQ9K4M/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/a9_BnsQ9K4M.vtt

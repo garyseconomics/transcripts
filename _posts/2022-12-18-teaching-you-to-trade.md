@@ -10,7 +10,7 @@ like_count: 21852
 duration_seconds: 1148
 categories:
 - News & Politics
-description: Why do you bother making all these videos trying to save the economy? if you're such a good trader why don't you just teach us all to trade and then we could all be millionaires...
+description: "Why do you bother making all these videos trying to save the economy? if you're such a good trader why don't you just teach us all to trade and then we could all be millionaires..."
 thumbnail: https://i.ytimg.com/vi_webp/1K187kvyFBw/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/1K187kvyFBw.vtt

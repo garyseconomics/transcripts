@@ -10,7 +10,7 @@ like_count: 67
 duration_seconds: 172
 categories:
 - News & Politics
-description: Better late than never!
+description: "Better late than never!"
 thumbnail: https://i.ytimg.com/vi_webp/58bTX_27DGk/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/58bTX_27DGk.vtt

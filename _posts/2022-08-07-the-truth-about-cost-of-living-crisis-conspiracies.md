@@ -10,7 +10,7 @@ like_count: 2146
 duration_seconds: 486
 categories:
 - News & Politics
-description: Brexit?
+description: "Brexit?"
 thumbnail: https://i.ytimg.com/vi_webp/7wq-eiLGhdU/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/7wq-eiLGhdU.vtt

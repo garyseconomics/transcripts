@@ -10,7 +10,7 @@ like_count: 114
 duration_seconds: 537
 categories:
 - News & Politics
-description: Job Vacancies & House Prices are on the rise - has Covid and/or Brexit contributed?
+description: "Job Vacancies & House Prices are on the rise - has Covid and/or Brexit contributed?"
 thumbnail: https://i.ytimg.com/vi_webp/e1ZoqvjbZyY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/e1ZoqvjbZyY.vtt

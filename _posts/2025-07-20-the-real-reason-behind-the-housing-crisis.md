@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Why is the UK in a housing crisis?
+description: "Why is the UK in a housing crisis?"
 thumbnail: https://i.ytimg.com/vi_webp/BTlUyS-T-_4/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/BTlUyS-T-_4.vtt

@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Watch the full interview from @Channel4News: https://www.youtube.com/watch?v=0quhLtBXijM&ab_channel=Channel4News
+description: "Watch the full interview from @Channel4News: https://www.youtube.com/watch?v=0quhLtBXijM&ab_channel=Channel4News"
 thumbnail: https://i.ytimg.com/vi_webp/o2J7SmssHY0/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/o2J7SmssHY0.vtt

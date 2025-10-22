@@ -10,7 +10,7 @@ like_count: 887
 duration_seconds: 537
 categories:
 - News & Politics
-description: https://www.ft.com/content/6321c063-556a-4f14-a996-5b290af265bd What is fascinating to me about the article is that it explains rising rents purely referring to supply/demand for rental property, and with no reference to supply/demand for money.
+description: "https://www.ft.com/content/6321c063-556a-4f14-a996-5b290af265bd What is fascinating to me about the article is that it explains rising rents purely referring to supply/demand for rental property, and with no reference to supply/demand for money."
 thumbnail: https://i.ytimg.com/vi_webp/Qn-nDz2zwUM/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/Qn-nDz2zwUM.vtt

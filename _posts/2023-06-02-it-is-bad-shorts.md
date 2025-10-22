@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: This #Short is a snippet from a previous full length video "Rishi Sunak's Nonsense "Pledge"" https://youtu.be/aCpv9u0SsGI
+description: "This #Short is a snippet from a previous full length video \"Rishi Sunak's Nonsense \"Pledge\"\" https://youtu.be/aCpv9u0SsGI"
 thumbnail: https://i.ytimg.com/vi_webp/y5ml2z7ShMw/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/y5ml2z7ShMw.vtt

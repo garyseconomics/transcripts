@@ -10,7 +10,7 @@ like_count: 345
 duration_seconds: 204
 categories:
 - News & Politics
-description: “Raise taxes on the rich, the super rich or millionaires like me, or millionaires like Rishi himself, so that we can support the ordinary, hard working families of this country.” Former trader turned inequality economist @GarysEconomics tells Times Radio he wants to pay more tax on his wealth.
+description: "“Raise taxes on the rich, the super rich or millionaires like me, or millionaires like Rishi himself, so that we can support the ordinary, hard working families of this country.” Former trader turned inequality economist @GarysEconomics tells Times Radio he wants to pay more tax on his wealth."
 thumbnail: https://i.ytimg.com/vi_webp/AWjry6SOZfE/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/AWjry6SOZfE.vtt

@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Yes, Jeremy Hunt did buy 7 flats and paid less stamp duty because of a loophole that benefits bulk buyers of property. https://www.theguardian.com/politics/2018/apr/18/jeremy-hunt-investigated-breach-money-laundering-rules-luxury-flats On Question Time 27 March 2025.
+description: "Yes, Jeremy Hunt did buy 7 flats and paid less stamp duty because of a loophole that benefits bulk buyers of property. https://www.theguardian.com/politics/2018/apr/18/jeremy-hunt-investigated-breach-money-laundering-rules-luxury-flats On Question Time 27 March 2025."
 thumbnail: https://i.ytimg.com/vi_webp/gO-uw0ZswFQ/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/gO-uw0ZswFQ.vtt

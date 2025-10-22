@@ -10,7 +10,7 @@ like_count: 80
 duration_seconds: 847
 categories:
 - News & Politics
-description: Excerpts of Gary on Dermot Murnaghan's Sky News Daily Podcast Broadcast on 04/02/2021 & uploaded with permission from Sky News SKY'S WEBSITE: https://news.sky.com/ SKY'S YOUTUBE CHANNEL: http://www.youtube.com/skynews​ FULL SKY NEWS DAILY PODCAST: https://news.sky.com/story/gamestop-how-armchair-investors-are-leading-the-war-against-wall-street-12207814 SKY NEWS DAILY PODCAST DESCRIPTION: The stock market frenzy surrounding videogame store, GameStop seemed to come out of nowhere.
+description: "Excerpts of Gary on Dermot Murnaghan's Sky News Daily Podcast Broadcast on 04/02/2021 & uploaded with permission from Sky News SKY'S WEBSITE: https://news.sky.com/ SKY'S YOUTUBE CHANNEL: http://www.youtube.com/skynews​ FULL SKY NEWS DAILY PODCAST: https://news.sky.com/story/gamestop-how-armchair-investors-are-leading-the-war-against-wall-street-12207814 SKY NEWS DAILY PODCAST DESCRIPTION: The stock market frenzy surrounding videogame store, GameStop seemed to come out of nowhere."
 thumbnail: https://i.ytimg.com/vi_webp/foYWmPukv_8/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/foYWmPukv_8.vtt

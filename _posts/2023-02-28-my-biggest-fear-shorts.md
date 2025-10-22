@@ -10,7 +10,7 @@ like_count: 1330
 duration_seconds: 60
 categories:
 - News & Politics
-description: This #Short is a snippet from a previous full length video "Rishi Sunak's Nonsense "Pledge"" https://youtu.be/aCpv9u0SsGI
+description: "This #Short is a snippet from a previous full length video \"Rishi Sunak's Nonsense \"Pledge\"\" https://youtu.be/aCpv9u0SsGI"
 thumbnail: https://i.ytimg.com/vi_webp/KoqAtPwfavU/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/KoqAtPwfavU.vtt

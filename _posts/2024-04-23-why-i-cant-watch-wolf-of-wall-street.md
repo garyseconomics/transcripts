@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Gary on @thecalumjohnsonshow.
+description: "Gary on @thecalumjohnsonshow."
 thumbnail: https://i.ytimg.com/vi_webp/SFOoXMh_PU4/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/SFOoXMh_PU4.vtt

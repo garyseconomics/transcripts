@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: From this interview with @OnTheMendPodcast
+description: "From this interview with @OnTheMendPodcast"
 thumbnail: https://i.ytimg.com/vi_webp/nlesl4eEMk4/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/nlesl4eEMk4.vtt

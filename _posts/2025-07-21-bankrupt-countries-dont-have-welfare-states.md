@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: On @LBCOfficial just now, with Andrew Marr.
+description: "On @LBCOfficial just now, with Andrew Marr."
 thumbnail: https://i.ytimg.com/vi_webp/52Wh54CMNpQ/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/52Wh54CMNpQ.vtt

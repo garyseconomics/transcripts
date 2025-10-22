@@ -10,7 +10,7 @@ like_count: 347
 duration_seconds: 1208
 categories:
 - News & Politics
-description: As GameStop shares keep rising while hedge funds lick their wounds, are Reddit users a real threat to the power of Wall Street?
+description: "As GameStop shares keep rising while hedge funds lick their wounds, are Reddit users a real threat to the power of Wall Street?"
 thumbnail: https://i.ytimg.com/vi_webp/ua3YbjkSJSo/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/ua3YbjkSJSo.vtt

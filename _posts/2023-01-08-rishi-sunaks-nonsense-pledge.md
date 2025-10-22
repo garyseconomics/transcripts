@@ -10,7 +10,7 @@ like_count: 2212
 duration_seconds: 620
 categories:
 - News & Politics
-description: Watch Rishi's Announcement - https://www.youtube.com/watch?v=l6hKne-BmTc&ab_channel=DailyRecord
+description: "Watch Rishi's Announcement - https://www.youtube.com/watch?v=l6hKne-BmTc&ab_channel=DailyRecord"
 thumbnail: https://i.ytimg.com/vi_webp/aCpv9u0SsGI/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/aCpv9u0SsGI.vtt

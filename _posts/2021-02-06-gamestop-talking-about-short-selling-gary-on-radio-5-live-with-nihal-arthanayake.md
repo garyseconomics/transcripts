@@ -10,7 +10,7 @@ like_count: 69
 duration_seconds: 376
 categories:
 - News & Politics
-description: Excerpts of Gary on Radio 5 Live with Nihal Arthanayake Broadcast on 29/01/2021 BBC WEBSITE: https://bbc.com/ BBC SOUNDS: https://www.bbc.co.uk/sounds BBC TWITTER: https://twitter.com/bbc5live BBC TWITTER DESCRIPTION: What is short selling?
+description: "Excerpts of Gary on Radio 5 Live with Nihal Arthanayake Broadcast on 29/01/2021 BBC WEBSITE: https://bbc.com/ BBC SOUNDS: https://www.bbc.co.uk/sounds BBC TWITTER: https://twitter.com/bbc5live BBC TWITTER DESCRIPTION: What is short selling?"
 thumbnail: https://i.ytimg.com/vi_webp/st0GcCQBzE4/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/st0GcCQBzE4.vtt

@@ -10,7 +10,7 @@ like_count: 11267
 duration_seconds: 50
 categories:
 - News & Politics
-description: Why don't we tax millionaires as effectively as working people?
+description: "Why don't we tax millionaires as effectively as working people?"
 thumbnail: https://i.ytimg.com/vi_webp/XQneDkzX5Vg/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/XQneDkzX5Vg.vtt

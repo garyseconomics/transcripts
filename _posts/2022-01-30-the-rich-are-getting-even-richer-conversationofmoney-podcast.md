@@ -10,7 +10,7 @@ like_count: 505
 duration_seconds: 3229
 categories:
 - News & Politics
-description: Original Intro - "How the rich get richer during pandemic aided by our government and how are you going to pay for it?
+description: "Original Intro - \"How the rich get richer during pandemic aided by our government and how are you going to pay for it?"
 thumbnail: https://i.ytimg.com/vi_webp/fffQxDeKvQo/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/fffQxDeKvQo.vtt

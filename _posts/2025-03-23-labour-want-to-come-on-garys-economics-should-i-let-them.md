@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: We've been approached by some Labour MPs who want to come on the channel – should we let them?
+description: "We've been approached by some Labour MPs who want to come on the channel – should we let them?"
 thumbnail: https://i.ytimg.com/vi_webp/AuQINQfDc3M/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/AuQINQfDc3M.vtt

@@ -10,7 +10,7 @@ like_count: 8620
 duration_seconds: 1140
 categories:
 - News & Politics
-description: Gary helps us to understand how wealth flows throughout the Economy *The return on Rishi Sunaks wealth has been underestimated heavily - it should be 30million rather than 3million*
+description: "Gary helps us to understand how wealth flows throughout the Economy *The return on Rishi Sunaks wealth has been underestimated heavily - it should be 30million rather than 3million*"
 thumbnail: https://i.ytimg.com/vi_webp/KdOU-KfIuQU/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/KdOU-KfIuQU.vtt

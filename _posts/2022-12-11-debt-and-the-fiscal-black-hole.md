@@ -10,7 +10,7 @@ like_count: 2910
 duration_seconds: 735
 categories:
 - News & Politics
-description: "Whenever you hear in the media the term 'Fiscal Black Hole' I want you to hear 'Fiscal enormous pile of money', because it is not possible for debt to grow without private wealth growing. And whenever anybody tells you: 'How do we pay the debt back?' I want you to turn around and say to them: Where has the money gone? Who has the money now? Why don't we tax them?"
+description: "\"Whenever you hear in the media the term 'Fiscal Black Hole' I want you to hear 'Fiscal enormous pile of money', because it is not possible for debt to grow without private wealth growing. And whenever anybody tells you: 'How do we pay the debt back?' I want you to turn around and say to them: Where has the money gone? Who has the money now? Why don't we tax them?\""
 thumbnail: https://i.ytimg.com/vi_webp/hviZpLtmOUE/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/hviZpLtmOUE.vtt

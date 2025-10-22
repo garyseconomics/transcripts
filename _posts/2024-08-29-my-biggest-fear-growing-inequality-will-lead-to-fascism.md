@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: From this interview with @OwenJonesTalks https://www.youtube.com/watch?v=WwLjRZ-p5KI&t=2817s&ab_channel=OwenJones
+description: "From this interview with @OwenJonesTalks https://www.youtube.com/watch?v=WwLjRZ-p5KI&t=2817s&ab_channel=OwenJones"
 thumbnail: https://i.ytimg.com/vi_webp/hZCENTJc2uk/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/hZCENTJc2uk.vtt

@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: From @TheDiaryOfACEO: https://www.youtube.com/watch?v=4yohVh4qcas&ab_channel=TheDiaryOfACEO
+description: "From @TheDiaryOfACEO: https://www.youtube.com/watch?v=4yohVh4qcas&ab_channel=TheDiaryOfACEO"
 thumbnail: https://i.ytimg.com/vi_webp/glQ6J4Gsri8/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/glQ6J4Gsri8.vtt

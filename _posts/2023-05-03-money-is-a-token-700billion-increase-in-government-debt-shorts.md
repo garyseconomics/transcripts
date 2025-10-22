@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: This #Short is a snippet from a previous full length video "What is Money?"" https://youtu.be/_gcNMu40jqs
+description: "This #Short is a snippet from a previous full length video \"What is Money?\"\" https://youtu.be/_gcNMu40jqs"
 thumbnail: https://i.ytimg.com/vi_webp/4TIEZSZhJcY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/4TIEZSZhJcY.vtt

@@ -20,7 +20,7 @@ tags:
 - another europe
 categories:
 - News & Politics
-description: Audio from Gary Stevenson's appearance on episode 62 of the Another Europe podcast with Luke Cooper & Zoe Williams - discussing wealth inequality.
+description: "Audio from Gary Stevenson's appearance on episode 62 of the Another Europe podcast with Luke Cooper & Zoe Williams - discussing wealth inequality."
 thumbnail: https://i.ytimg.com/vi_webp/FvOa5EmckHE/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/FvOa5EmckHE.vtt

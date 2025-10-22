@@ -10,7 +10,7 @@ like_count: 898
 duration_seconds: 400
 categories:
 - News & Politics
-description: Question & Answer - Gary answers frequently asked questions "What's given me hope previously is when you mentioned things can change.
+description: "Question & Answer - Gary answers frequently asked questions \"What's given me hope previously is when you mentioned things can change."
 thumbnail: https://i.ytimg.com/vi_webp/bmogfHcLnV8/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/bmogfHcLnV8.vtt

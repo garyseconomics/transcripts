@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Watch the full video on mental health here: https://www.youtube.com/watch?v=L5QyBl85u1I
+description: "Watch the full video on mental health here: https://www.youtube.com/watch?v=L5QyBl85u1I"
 thumbnail: https://i.ytimg.com/vi_webp/5QsZbvJlqXY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/5QsZbvJlqXY.vtt

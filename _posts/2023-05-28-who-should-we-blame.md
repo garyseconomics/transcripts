@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Gary Answers 5 of Sims Questions about the Media & Politics
+description: "Gary Answers 5 of Sims Questions about the Media & Politics"
 thumbnail: https://i.ytimg.com/vi_webp/Re87rAP62to/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/Re87rAP62to.vtt

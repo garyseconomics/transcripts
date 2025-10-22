@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Don't believe the media hype: inflation will fall but it won't make a big difference to your life.
+description: "Don't believe the media hype: inflation will fall but it won't make a big difference to your life."
 thumbnail: https://i.ytimg.com/vi_webp/RD6J1e0zlS4/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/RD6J1e0zlS4.vtt

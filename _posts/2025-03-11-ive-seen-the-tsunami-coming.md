@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: On @Channel4News.
+description: "On @Channel4News."
 thumbnail: https://i.ytimg.com/vi_webp/-EabK6ab5Es/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/-EabK6ab5Es.vtt

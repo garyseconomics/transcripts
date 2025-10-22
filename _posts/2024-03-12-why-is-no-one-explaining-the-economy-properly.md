@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Gary on @ITVNews London, Monday 11 March 2024.
+description: "Gary on @ITVNews London, Monday 11 March 2024."
 thumbnail: https://i.ytimg.com/vi_webp/_3i80TVuTIA/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/_3i80TVuTIA.vtt

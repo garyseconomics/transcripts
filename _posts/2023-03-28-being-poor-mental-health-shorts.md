@@ -10,7 +10,7 @@ like_count: 1190
 duration_seconds: 51
 categories:
 - News & Politics
-description: This #Short is a snippet from a previous full length video "The Asset Economy"" https://youtu.be/MSdhijZ7Uz4
+description: "This #Short is a snippet from a previous full length video \"The Asset Economy\"\" https://youtu.be/MSdhijZ7Uz4"
 thumbnail: https://i.ytimg.com/vi_webp/6SKdzFe01ws/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/6SKdzFe01ws.vtt

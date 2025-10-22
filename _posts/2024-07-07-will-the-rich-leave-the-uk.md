@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: If you tax them more, won't the rich just leave?
+description: "If you tax them more, won't the rich just leave?"
 thumbnail: https://i.ytimg.com/vi_webp/luobN4xGOdA/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/luobN4xGOdA.vtt

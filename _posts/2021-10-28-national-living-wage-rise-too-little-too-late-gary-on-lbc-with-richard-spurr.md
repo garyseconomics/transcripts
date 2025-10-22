@@ -10,7 +10,7 @@ like_count: 91
 duration_seconds: 460
 categories:
 - News & Politics
-description: Gary on LBC News with Richard Spurr Broadcast on 26/10/2021 @ 01:13 Uploaded with permission from LBC https://www.lbc.co.uk
+description: "Gary on LBC News with Richard Spurr Broadcast on 26/10/2021 @ 01:13 Uploaded with permission from LBC https://www.lbc.co.uk"
 thumbnail: https://i.ytimg.com/vi_webp/yUv09-F_1Iw/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/yUv09-F_1Iw.vtt

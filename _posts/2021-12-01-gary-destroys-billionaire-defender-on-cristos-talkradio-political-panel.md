@@ -10,7 +10,7 @@ like_count: 4187
 duration_seconds: 1238
 categories:
 - News & Politics
-description: Gary Stevenson joins Cristo Foufas again - this time while he covers for Jeremy Kyle - and features on the Political Panel alongside old foe Annabel Denham (Previous debate with Annabel: https://youtu.be/wBN4qs-KM3k ) (Previous appearance on Cristo's show: https://youtu.be/zxuX4DBiFs4 ) "How can you defend raising taxes specifically on working people while specifically excluding billionaires?
+description: "Gary Stevenson joins Cristo Foufas again - this time while he covers for Jeremy Kyle - and features on the Political Panel alongside old foe Annabel Denham (Previous debate with Annabel: https://youtu.be/wBN4qs-KM3k ) (Previous appearance on Cristo's show: https://youtu.be/zxuX4DBiFs4 ) \"How can you defend raising taxes specifically on working people while specifically excluding billionaires?"
 thumbnail: https://i.ytimg.com/vi_webp/Nkb8dWeLYDA/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/Nkb8dWeLYDA.vtt

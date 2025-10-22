@@ -10,7 +10,7 @@ like_count: 4406
 duration_seconds: 57
 categories:
 - News & Politics
-description: This #Short is a snippet from a previous full length video "Why Don't the Government Tax the Rich?"" https://youtu.be/U0XntlILeHU
+description: "This #Short is a snippet from a previous full length video \"Why Don't the Government Tax the Rich?\"\" https://youtu.be/U0XntlILeHU"
 thumbnail: https://i.ytimg.com/vi_webp/QDaXfo_Xtew/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/QDaXfo_Xtew.vtt

@@ -10,7 +10,7 @@ like_count: 599
 duration_seconds: 58
 categories:
 - News & Politics
-description: This #Short is a snippet from our NEXT full length video 'Rising Interest Rates & The Bank of England"
+description: "This #Short is a snippet from our NEXT full length video 'Rising Interest Rates & The Bank of England\""
 thumbnail: https://i.ytimg.com/vi_webp/8CYpVGCHDIA/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/8CYpVGCHDIA.vtt

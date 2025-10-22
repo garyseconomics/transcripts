@@ -10,7 +10,7 @@ like_count: 2547
 duration_seconds: 550
 categories:
 - News & Politics
-description: These media snippets were taken from this Youtube Video: https://www.youtube.com/watch?v=cgSUpyo86ZI No Copyright Infringement Intended
+description: "These media snippets were taken from this Youtube Video: https://www.youtube.com/watch?v=cgSUpyo86ZI No Copyright Infringement Intended"
 thumbnail: https://i.ytimg.com/vi_webp/dJmsUJZW2nU/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/dJmsUJZW2nU.vtt

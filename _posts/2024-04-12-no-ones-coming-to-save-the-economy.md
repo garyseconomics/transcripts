@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: The people whose job it is to protect you are not going to protect you – Gary talking to @OwenJonesTalks.
+description: "The people whose job it is to protect you are not going to protect you – Gary talking to @OwenJonesTalks."
 thumbnail: https://i.ytimg.com/vi_webp/2aLjoYHySAw/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/2aLjoYHySAw.vtt

@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: UNDERSTAND, SHARE & PUSH BACK
+description: "UNDERSTAND, SHARE & PUSH BACK"
 thumbnail: https://i.ytimg.com/vi_webp/2B2L37aelb4/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/2B2L37aelb4.vtt

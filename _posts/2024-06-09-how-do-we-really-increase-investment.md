@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Are investments from rich people helping our economy to grow?
+description: "Are investments from rich people helping our economy to grow?"
 thumbnail: https://i.ytimg.com/vi_webp/7dY7eBjqsA8/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/7dY7eBjqsA8.vtt

@@ -10,7 +10,7 @@ like_count: 649
 duration_seconds: 622
 categories:
 - News & Politics
-description: FULL REACTION TO THE BUDGET COMING THIS SUNDAY!
+description: "FULL REACTION TO THE BUDGET COMING THIS SUNDAY!"
 thumbnail: https://i.ytimg.com/vi_webp/R3KT0VMnqBo/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/R3KT0VMnqBo.vtt

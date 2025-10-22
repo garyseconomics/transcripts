@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - News & Politics
-description: This #short is a snippet from the Own Jones Show - "Millionaire Trader Destroys The Case for Austerity"
+description: "This #short is a snippet from the Own Jones Show - \"Millionaire Trader Destroys The Case for Austerity\""
 thumbnail: https://i.ytimg.com/vi_webp/BxlQhDcixLA/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/BxlQhDcixLA.vtt

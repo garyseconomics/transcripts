@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: In this last video before a break, Gary asks: just how close we are to convincing the government to tax the rich more?
+description: "In this last video before a break, Gary asks: just how close we are to convincing the government to tax the rich more?"
 thumbnail: https://i.ytimg.com/vi_webp/zIMtH8W7_Yc/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/zIMtH8W7_Yc.vtt

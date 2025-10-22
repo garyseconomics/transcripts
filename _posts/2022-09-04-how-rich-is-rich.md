@@ -10,7 +10,7 @@ like_count: 3516
 duration_seconds: 777
 categories:
 - News & Politics
-description: A lot of viewers have messaged to say that they agree with the message, but worry that Gary is suggesting taxing them more, so Gary takes a moment out to explain the the difference between Rich & Super Rich.
+description: "A lot of viewers have messaged to say that they agree with the message, but worry that Gary is suggesting taxing them more, so Gary takes a moment out to explain the the difference between Rich & Super Rich."
 thumbnail: https://i.ytimg.com/vi_webp/AU8UTIVjZ0Y/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/AU8UTIVjZ0Y.vtt

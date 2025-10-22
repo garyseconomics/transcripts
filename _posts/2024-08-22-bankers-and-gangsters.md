@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Full interview with @BusinessInsider here: https://www.youtube.com/watch?v=9GumiLIxLMM&t=1615s&ab_channel=Insider
+description: "Full interview with @BusinessInsider here: https://www.youtube.com/watch?v=9GumiLIxLMM&t=1615s&ab_channel=Insider"
 thumbnail: https://i.ytimg.com/vi_webp/FkB7gX9KQb0/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/FkB7gX9KQb0.vtt

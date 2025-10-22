@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: This #Short is a snippet from a previous full length video "The Difference Between Wealth & Income" https://youtu.be/rZHdXOWMChE
+description: "This #Short is a snippet from a previous full length video \"The Difference Between Wealth & Income\" https://youtu.be/rZHdXOWMChE"
 thumbnail: https://i.ytimg.com/vi_webp/1X6eVdTW_oI/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/1X6eVdTW_oI.vtt

@@ -22,7 +22,7 @@ tags:
 - Poverty
 categories:
 - Education
-description: Tell your MP to tax the super rich: https://taxjustice.eaction.org.uk/taxthesuperrich
+description: "Tell your MP to tax the super rich: https://taxjustice.eaction.org.uk/taxthesuperrich"
 thumbnail: https://i.ytimg.com/vi_webp/LoPDnY4RdYU/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/LoPDnY4RdYU.vtt
