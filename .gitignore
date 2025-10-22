@@ -2,3 +2,6 @@ _site
 .tmp/
 vendor/bundle
 .bundle
+__pycache__/
+*.py[cod]
+*$py.class
