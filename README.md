@@ -1,4 +1,4 @@
-# transcripts.garyseconomics.com
+# garyseconomics.github.io/transcripts
 
 This is an experiment to set up a part of Gary's web presence for people who want to learn more about his ideas.
 
