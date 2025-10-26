@@ -16,21 +16,6 @@ import traceback
 from pathlib import Path
 
 
-def extract_youtube_id_from_vtt_filename(filename):
-    """Extract YouTube ID from VTT filename.
-    
-    Files can be named like:
-    - VIDEO_ID.vtt (primary)
-    - VIDEO_ID.lang.vtt (language variants)
-    """
-    # Remove .vtt extension
-    name = filename.replace('.vtt', '')
-    
-    # If it has a language suffix (e.g., VIDEO_ID.en-GB), split and take first part
-    parts = name.split('.')
-    return parts[0]
-
-
 def extract_youtube_id_from_post(post_path):
     """Extract YouTube ID from post file's frontmatter."""
     try:
@@ -64,7 +49,15 @@ def get_all_vtt_files(captions_dir):
     
     for filename in os.listdir(captions_dir):
         if filename.endswith('.vtt'):
-            youtube_id = extract_youtube_id_from_vtt_filename(filename)
+            # Extract YouTube ID from VTT filename
+            # Files can be named like:
+            # - VIDEO_ID.vtt (primary)
+            # - VIDEO_ID.lang.vtt (language variants)
+            # Remove .vtt extension and split on '.' to get base ID
+            name = filename.replace('.vtt', '')
+            parts = name.split('.')
+            youtube_id = parts[0]
+            
             if youtube_id not in vtt_files:
                 vtt_files[youtube_id] = []
             vtt_files[youtube_id].append(filename)
