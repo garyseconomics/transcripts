@@ -12,6 +12,7 @@ This script verifies that:
 import os
 import re
 import sys
+import traceback
 from pathlib import Path
 
 
@@ -177,7 +178,6 @@ def main():
         sys.exit(0 if success else 1)
     except Exception as e:
         print(f"❌ Error: {e}")
-        import traceback
         traceback.print_exc()
         sys.exit(1)
 

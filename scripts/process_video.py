@@ -9,7 +9,9 @@ and creates a corresponding Jekyll post file in _posts/ with YAML front matter.
 import os
 import sys
 import json
+import re
 import argparse
+import traceback
 from subprocess import run
 from datetime import datetime
 import shutil
@@ -17,7 +19,6 @@ import shutil
 
 def slugify(s):
     """Convert string to URL-friendly slug."""
-    import re
     s = s.lower().strip()
     s = re.sub(r"[^\w\s-]", "", s)
     s = re.sub(r"[\s_-]+", "-", s)
@@ -54,7 +55,7 @@ def download_metadata(video_id):
     )
     
     if not os.path.exists(f"{dl_path}.info.json"):
-        raise Exception("Failed to download metadata")
+        raise RuntimeError("Failed to download metadata")
     
     with open(f"{dl_path}.info.json", encoding="utf-8") as f:
         return json.load(f)
@@ -293,7 +294,6 @@ def main():
         sys.exit(0 if success else 1)
     except Exception as e:
         print(f"❌ Error: {e}")
-        import traceback
         traceback.print_exc()
         sys.exit(1)
 
