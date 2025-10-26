@@ -43,12 +43,83 @@ layout: default
         {{ content }}
 
         {% with_vtt {{ page.caption_file }} %}
-            {% for cue in cues %}
-            <div class="transcript-line">
-                <a class="transcript-timestamp" href="https://youtube.com/watch?v={{ page.youtube_id }}&t={{ cue.start }}s" target="_blank" rel="noopener noreferrer">{{ cue.timestamp }}</a>
-                <p class="transcript-text">{{ cue.text }}</p>
+            {% if languages.size > 1 %}
+            <div class="language-selector">
+                <label for="language-select">Language:</label>
+                <select id="language-select" class="language-select">
+                    {% for language in languages %}
+                    <option value="{{ language.code }}" {% if language.code == default_language %}selected{% endif %}>
+                        {{ language.name }}
+                    </option>
+                    {% endfor %}
+                </select>
             </div>
-            {% endfor %}
+            {% endif %}
+
+            <div id="transcript-container">
+                {% for language in languages %}
+                <div class="transcript-language" data-language="{{ language.code }}" {% if language.code != default_language %}style="display: none;"{% endif %}>
+                    {% for cue in language.cues %}
+                    <div class="transcript-line">
+                        <a class="transcript-timestamp" href="https://youtube.com/watch?v={{ page.youtube_id }}&t={{ cue.start }}s" target="_blank" rel="noopener noreferrer">{{ cue.timestamp }}</a>
+                        <p class="transcript-text">{{ cue.text }}</p>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% endfor %}
+            </div>
+
+            <script>
+                // Language switcher functionality
+                (function() {
+                    const languageSelect = document.getElementById('language-select');
+                    if (!languageSelect) return;
+
+                    languageSelect.addEventListener('change', function() {
+                        const selectedLang = this.value;
+                        const allTranscripts = document.querySelectorAll('.transcript-language');
+                        
+                        allTranscripts.forEach(function(transcript) {
+                            if (transcript.dataset.language === selectedLang) {
+                                transcript.style.display = 'block';
+                            } else {
+                                transcript.style.display = 'none';
+                            }
+                        });
+
+                        // Clear any active search when switching languages
+                        const searchInput = document.getElementById('search-input');
+                        const clearBtn = document.getElementById('clear-search');
+                        if (searchInput && searchInput.value) {
+                            searchInput.value = '';
+                            if (clearBtn) clearBtn.style.display = 'none';
+                            // Trigger input event to clear highlights
+                            searchInput.dispatchEvent(new Event('input'));
+                        }
+
+                        // Store preference in localStorage
+                        try {
+                            localStorage.setItem('preferred_language', selectedLang);
+                        } catch (e) {
+                            // Ignore localStorage errors
+                        }
+                    });
+
+                    // Restore preferred language from localStorage
+                    try {
+                        const preferredLang = localStorage.getItem('preferred_language');
+                        if (preferredLang) {
+                            const option = languageSelect.querySelector('option[value="' + preferredLang + '"]');
+                            if (option) {
+                                languageSelect.value = preferredLang;
+                                languageSelect.dispatchEvent(new Event('change'));
+                            }
+                        }
+                    } catch (e) {
+                        // Ignore localStorage errors
+                    }
+                })();
+            </script>
         {% endwith_vtt %}
     </div>
 </article>
