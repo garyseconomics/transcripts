@@ -87,6 +87,16 @@ layout: default
                             }
                         });
 
+                        // Clear any active search when switching languages
+                        const searchInput = document.getElementById('search-input');
+                        const clearBtn = document.getElementById('clear-search');
+                        if (searchInput && searchInput.value) {
+                            searchInput.value = '';
+                            if (clearBtn) clearBtn.style.display = 'none';
+                            // Trigger input event to clear highlights
+                            searchInput.dispatchEvent(new Event('input'));
+                        }
+
                         // Store preference in localStorage
                         try {
                             localStorage.setItem('preferred_language', selectedLang);

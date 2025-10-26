@@ -29,8 +29,18 @@
     return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   }
 
+  function getVisibleTranscriptLines() {
+    // Get only the lines from the currently visible language
+    const visibleTranscript = document.querySelector('.transcript-language:not([style*="display: none"])');
+    if (visibleTranscript) {
+      return visibleTranscript.querySelectorAll('.transcript-line');
+    }
+    // Fallback to all lines if no language selector is present
+    return document.querySelectorAll('.transcript-line');
+  }
+
   function highlightSearchResults(query) {
-    const lines = document.querySelectorAll('.transcript-line');
+    const lines = getVisibleTranscriptLines();
 
     lines.forEach((line) => {
       const textElement = line.querySelector('.transcript-text');
@@ -47,8 +57,8 @@
   }
 
   function clearHighlights() {
-    const transcriptElements = document.querySelectorAll('.transcript-line');
-    transcriptElements.forEach((line) => {
+    const lines = getVisibleTranscriptLines();
+    lines.forEach((line) => {
       line.style.display = '';
       const textElement = line.querySelector('.transcript-text');
       textElement.innerHTML = textElement.textContent; // Reset to original text
