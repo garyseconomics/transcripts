@@ -2,3 +2,5 @@ _site
 .tmp/
 vendor/bundle
 .bundle
+_includes/captions/cookies.txt
+
