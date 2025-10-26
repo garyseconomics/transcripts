@@ -64,7 +64,7 @@
 
 **Steps**:
 1. Select "English" as the language
-2. Enter a search term that appears in the English transcript (e.g., "economics")
+2. Enter a search term that you can see in the displayed transcript (look for a common word in the first few lines)
 3. Observe the search results
 4. Switch to "French"
 5. Observe what happens to the search
@@ -78,7 +78,7 @@
 **Objective**: Verify that existing posts with single VTT files still work
 
 **Steps**:
-1. Navigate to an existing post (e.g., `/transcript/making-money-my-first-bonus-investment-advice-a-warning/`)
+1. Navigate to any existing post with a transcript (check the homepage for available posts)
 2. Check if the transcript displays correctly
 3. Check if there's a language selector
 

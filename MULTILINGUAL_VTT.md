@@ -59,7 +59,7 @@ caption_file: captions/Ja9dTjY3uWU.vtt
 ---
 ```
 
-The plugin automatically finds all language variants based on the video ID, regardless of whether the base `.vtt` file exists or not.
+The plugin automatically finds all language variants based on the video ID extracted from the file path. The base `.vtt` file (e.g., `Ja9dTjY3uWU.vtt`) does not need to exist - the plugin works with only language-specific files (e.g., `Ja9dTjY3uWU.en.vtt`, `Ja9dTjY3uWU.fr.vtt`) as long as at least one matching file is found.
 
 ## User Features
 
