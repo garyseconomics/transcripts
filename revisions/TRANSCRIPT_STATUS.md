@@ -2,8 +2,8 @@
 
 **Total transcripts:** 350
 **Manually reviewed:** 45
-**AI-reviewed:** 1
-**Not yet reviewed:** 304
+**AI-reviewed:** 2
+**Not yet reviewed:** 303
 
 ## Manually Reviewed Transcripts
 
@@ -59,11 +59,12 @@
 
 ## AI-Reviewed Transcripts
 
-1 transcript has been AI-reviewed but not yet manually reviewed.
+2 transcripts have been AI-reviewed but not yet manually reviewed.
 
 | Reviewed File | Source Folder |
 |---------------|---------------|
 | `RMlfcVUajd0__2020-07-15_Why_Jeremy_Hunt_Doesnt_Pay_Stamp_Duty.srt` *(multi-speaker)* | `2020-07-15-why-jeremy-hunt-doesnt-pay-stamp-duty-gary-on-bbc-radio-4-today-show-with-nick-robinson` |
+| `MHFD7PyEiIg__2020-07-22_Millionaires_For_Humanity.srt` *(multi-speaker)* | `2020-07-22-millionaires-for-humanity-gary-on-lbc-with-ian-payne` |
 
 Note: `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado_Toast.srt` has both an AI review and a manual review.
 
@@ -73,7 +74,6 @@ Note: `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado
 
 | Transcript Folder |
 |-------------------|
-| `2020-07-22-millionaires-for-humanity-gary-on-lbc-with-ian-payne` |
 | `2020-08-22-i-made-millions-from-the-financial-crisis-trust-me-the-system-is-broken-gary-on-ae-podcast` |
 | `2020-10-26-will-we-pay-back-the-government-debt-gary-stevenson-on-lbc-with-tom-swarbrick` |
 | `2020-12-11-who-pays-for-this-crisis-rishi-sunak-or-you-gary-on-talkradio-with-ian-collins` |

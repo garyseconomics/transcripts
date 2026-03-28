@@ -179,6 +179,8 @@ Some videos feature guests — interviews, podcast appearances, or panel discuss
 - Gary Stevenson should always be labelled as `[Gary]`.
 - Place the reviewed file in `revisions/1_AI_reviewed/multi_speaker/` instead of `revisions/1_AI_reviewed/`. These files need human review to verify that speaker turns are attributed correctly.
 
+**Repeat labels for long stretches:** The transcripts are chunked at 1024 tokens for the vector database. If a single speaker talks for longer than ~1000 tokens without a label, insert a reminder label (e.g., `[Gary]`) at the start of a cue near that boundary so every chunk has speaker attribution.
+
 **If the transcript has only one speaker (Gary):** no labels are needed.
 
 ### 10. End-of-video fragments
