@@ -13,8 +13,10 @@ Produce reviewed, corrected versions of all transcripts in SRT format. The auto-
   - **`revisions/0_agency_reviewed/`** — Transcripts reviewed by the agency. These serve as the gold standard for quality.
   - **`revisions/1_AI_reviewed/`** — AI-reviewed transcripts in SRT format. New AI-reviewed transcripts go here.
     - **`revisions/1_AI_reviewed/multi_speaker/`** — Transcripts with more than one speaker (e.g., interviews, panel appearances). These require human review to verify speaker identification.
-  - **`revisions/2_To_be_reviewed_by_volunteers/`** — Corrections documents (`.md` files) for volunteers to review.
+  - **`revisions/2_To_be_reviewed_by_volunteers/`** — Corrections documents (`.md` files) for volunteers to review. This folder is shared with volunteers directly.
+    - **`revisions/2_To_be_reviewed_by_volunteers/done/`** — Corrections documents that have already been reviewed by a volunteer. Moved here to avoid duplicate work.
   - **`revisions/3_volunteer_reviewed/`** — Transcripts that have been through both AI and volunteer review. These are ready for export.
+  - **`revisions/TRANSCRIPT_STATUS.md`** — Tracks which transcripts have been reviewed and which are next. Consult this to find the next transcript to review.
 
 ## Review workflow
 
