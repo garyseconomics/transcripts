@@ -9,25 +9,30 @@ Produce reviewed, corrected versions of all transcripts in SRT format. The auto-
 ## Folder structure
 
 - **`transcripts/`** — Auto-extracted transcripts. Each video has its own subfolder (named `YYYY-MM-DD-video-title`) containing a `transcript.vtt` and a `meta.json`.
-- **`transcripts_manually_reviewed/`** — Manually corrected transcripts in SRT format. Filename format: `youtubeID__date_video_title.srt`. These serve as the gold standard for quality.
-- **`transcripts_reviewed/`** — AI-reviewed transcripts in SRT format. New reviewed transcripts go here.
-  - **`transcripts_reviewed/multi_speaker/`** — Transcripts with more than one speaker (e.g., interviews, panel appearances). These require human review to verify speaker identification.
+- **`revisions/`** — All reviewed transcripts, organised by stage in the review pipeline. Filename format: `youtubeID__date_video_title.srt`.
+  - **`revisions/0_agency_reviewed/`** — Transcripts reviewed by the agency. These serve as the gold standard for quality.
+  - **`revisions/1_AI_reviewed/`** — AI-reviewed transcripts in SRT format. New AI-reviewed transcripts go here.
+    - **`revisions/1_AI_reviewed/multi_speaker/`** — Transcripts with more than one speaker (e.g., interviews, panel appearances). These require human review to verify speaker identification.
+  - **`revisions/2_To_be_reviewed_by_volunteers/`** — Corrections documents (`.md` files) for volunteers to review.
+  - **`revisions/3_volunteer_reviewed/`** — Transcripts that have been through both AI and volunteer review. These are ready for export.
 
 ## Review workflow
 
 The full process for getting transcripts reviewed and into production:
 
-1. **AI reviews the transcript** — The AI reviews the raw VTT transcript following the correction instructions below, producing a clean SRT file in `transcripts_reviewed/`.
+1. **AI reviews the transcript** — The AI reviews the raw VTT transcript following the correction instructions below, producing a clean SRT file in `revisions/1_AI_reviewed/`.
 
-2. **AI generates a corrections document** — The AI creates a `.md` file with:
+2. **AI generates a corrections document** — The AI creates a `.md` file in `revisions/2_To_be_reviewed_by_volunteers/` with:
    - A link to the YouTube video at the top
-   - The full transcript with all corrections **marked in bold** and removed words in ~~strikethrough~~
-   - Unchanged cues shown without markup, so volunteers can focus on what matters
-   - See `transcripts_reviewed/GpYBEG_2egc__2021-12-30_corrections.md` for an example.
+   - The full transcript grouped into paragraphs of flowing text — **not** one line per cue
+   - Each paragraph preceded by a single timestamp (`HH:MM:SS`) indicating where it starts in the video
+   - Sentences are never split across paragraphs — keep whole sentences together, grouping by natural topic or paragraph breaks in the speech
+   - Corrections **marked in bold**, removed words in ~~strikethrough~~, unchanged text shown without markup
+   - See `revisions/2_To_be_reviewed_by_volunteers/EiblHqbpXHs__2020-07-14_How_COVID-19_Makes_the_Rich_Richer.md` for an example.
 
 3. **Volunteers review** — Volunteers watch the video, read along with the corrections document, and edit it where they spot issues. They send the edited file back (by email, most likely).
 
-4. **AI incorporates volunteer revisions** — We place the edited files in a local folder and ask the AI to apply the volunteer's changes to the already-reviewed SRT transcript.
+4. **AI incorporates volunteer revisions** — We place the edited files in a local folder and ask the AI to apply the volunteer's changes to the already-reviewed SRT transcript. The final result goes in `revisions/3_volunteer_reviewed/`.
 
 5. **Export to chatbot repo** — The final reviewed SRT is copied to [`garyseconomics/chatbot/docs/video_transcripts/to_be_imported`](https://github.com/garyseconomics/chatbot/tree/main/docs/video_transcripts/to_be_imported).
 
@@ -169,7 +174,7 @@ Some videos feature guests — interviews, podcast appearances, or panel discuss
 **If the transcript has multiple speakers:**
 - Add speaker labels to each cue using the format `[Speaker Name] text goes here`. Use the speaker's real name when known from `meta.json`, or `[Host]`/`[Guest]` as a fallback.
 - Gary Stevenson should always be labelled as `[Gary]`.
-- Place the reviewed file in `transcripts_reviewed/multi_speaker/` instead of `transcripts_reviewed/`. These files need human review to verify that speaker turns are attributed correctly.
+- Place the reviewed file in `revisions/1_AI_reviewed/multi_speaker/` instead of `revisions/1_AI_reviewed/`. These files need human review to verify that speaker turns are attributed correctly.
 
 **If the transcript has only one speaker (Gary):** no labels are needed.
 
