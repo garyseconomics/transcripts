@@ -29,8 +29,9 @@ The full process for getting transcripts reviewed and into production:
    - The full transcript grouped into paragraphs of flowing text — **not** one line per cue
    - Each paragraph preceded by a single timestamp (`HH:MM:SS`) indicating where it starts in the video
    - Sentences are never split across paragraphs — keep whole sentences together, grouping by natural topic or paragraph breaks in the speech
-   - Corrections **marked in bold**, removed words in ~~strikethrough~~, unchanged text shown without markup
-   - See `revisions/2_To_be_reviewed_by_volunteers/EiblHqbpXHs__2020-07-14_How_COVID-19_Makes_the_Rich_Richer.md` for an example.
+   - Corrected or added **words** marked in bold, removed words in ~~strikethrough~~, unchanged text shown without markup
+   - Do **not** bold added punctuation (commas, periods, etc.) — just insert it normally. Only bold word-level changes.
+   - See `revisions/2_To_be_reviewed_by_volunteers/done/EiblHqbpXHs__2020-07-14_How_COVID-19_Makes_the_Rich_Richer.md` for an example.
 
 3. **Volunteers review** — Volunteers watch the video, read along with the corrections document, and edit it where they spot issues. They send the edited file back (by email, most likely).
 

@@ -1,13 +1,13 @@
 # Transcript Review Status
 
 **Total transcripts:** 350
-**Manually reviewed:** 44
+**Manually reviewed:** 45
 **AI-reviewed:** 1
-**Not yet reviewed:** 305
+**Not yet reviewed:** 304
 
 ## Manually Reviewed Transcripts
 
-44 transcripts have been manually reviewed and matched to their source folder.
+45 transcripts have been manually reviewed and matched to their source folder.
 
 | Reviewed File | Source Folder |
 |---------------|---------------|
@@ -55,6 +55,7 @@
 | `mcu03c2dZQI__2025-09-21_Predicting_The_Election.srt` | `2025-09-21-will-reform-win-the-next-uk-election` |
 | `gHrxoKEnvEs__2025-08-31_Implementation.srt` | `2025-08-31-is-a-wealth-tax-actually-possible` |
 | `Z7ulJrZa8n4__2025-10-12_Can_Labour_be_Saved.srt` | `2025-10-12-is-the-labour-government-over` |
+| `EiblHqbpXHs__2020-07-14_How_COVID-19_Makes_the_Rich_Richer.srt` | `2020-07-14-how-covid-19-makes-the-rich-richer-gary-explains-the-theory` |
 
 ## AI-Reviewed Transcripts
 
@@ -62,17 +63,16 @@
 
 | Reviewed File | Source Folder |
 |---------------|---------------|
-| `EiblHqbpXHs__2020-07-14_How_COVID-19_Makes_the_Rich_Richer.srt` | `2020-07-14-how-covid-19-makes-the-rich-richer-gary-explains-the-theory` |
+| `RMlfcVUajd0__2020-07-15_Why_Jeremy_Hunt_Doesnt_Pay_Stamp_Duty.srt` *(multi-speaker)* | `2020-07-15-why-jeremy-hunt-doesnt-pay-stamp-duty-gary-on-bbc-radio-4-today-show-with-nick-robinson` |
 
 Note: `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado_Toast.srt` has both an AI review and a manual review.
 
 ## Not Yet Reviewed
 
-305 transcripts have not been reviewed yet.
+304 transcripts have not been reviewed yet.
 
 | Transcript Folder |
 |-------------------|
-| `2020-07-15-why-jeremy-hunt-doesnt-pay-stamp-duty-gary-on-bbc-radio-4-today-show-with-nick-robinson` |
 | `2020-07-22-millionaires-for-humanity-gary-on-lbc-with-ian-payne` |
 | `2020-08-22-i-made-millions-from-the-financial-crisis-trust-me-the-system-is-broken-gary-on-ae-podcast` |
 | `2020-10-26-will-we-pay-back-the-government-debt-gary-stevenson-on-lbc-with-tom-swarbrick` |
