@@ -1,0 +1,527 @@
+1
+00:00:04,160 --> 00:00:06,789
+[Chris] LBC News, time 6:31. It's Chris Golds
+with you here,
+
+2
+00:00:06,799 --> 00:00:10,310
+live across the UK this Thursday evening.
+We're on
+
+3
+00:00:10,320 --> 00:00:14,070
+DAB digital radio, on your smart speaker,
+and on Global Player, of course.
+
+4
+00:00:14,080 --> 00:00:18,310
+The FTSE 100 has ended the penultimate
+day of trading this week in the red,
+
+5
+00:00:18,320 --> 00:00:22,790
+down 41 points at 6,526. We'll find out
+where it opens with
+
+6
+00:00:22,800 --> 00:00:29,589
+Lisa Aziz at about eight o'clock tomorrow
+morning. She is, of course, live on
+breakfast from six.
+
+7
+00:00:29,599 --> 00:00:33,910
+Now, if you've been on social media over
+the last 24 to 48 hours or so, you will
+have seen this story, but
+
+8
+00:00:33,920 --> 00:00:38,630
+maybe you've been slightly confused by
+it. I know I have.
+
+9
+00:00:38,640 --> 00:00:44,069
+And it's market regulators in the US that
+are going to review this rally in shares
+of the struggling retailer
+
+10
+00:00:44,079 --> 00:00:48,430
+GameStop, following an internet campaign.
+Stocks have risen over
+
+11
+00:00:48,440 --> 00:00:54,310
+1,700% in the past couple of weeks,
+mostly driven by users of the social
+media platform Reddit.
+
+12
+00:00:54,320 --> 00:00:57,990
+They were trying to show how easy it is
+to manipulate the system.
+
+13
+00:00:58,000 --> 00:01:02,950
+Confused? Well, let's try and break it
+down for you here on LBC News. I'd like
+to say I'm joined by
+
+14
+00:01:02,960 --> 00:01:07,990
+Gary Stevenson, who joins us now. He's an
+ex-City trader and is now an economist.
+
+15
+00:01:08,000 --> 00:01:12,070
+Evening to you, Gary.
+
+[Gary] Hi, Chris.
+
+[Chris] So what has gone on here? What sparked
+
+16
+00:01:12,080 --> 00:01:15,910
+it? Why GameStop? What's going on? Give
+us the detail.
+
+17
+00:01:15,920 --> 00:01:18,870
+[Gary] Okay, so first, give you a little bit
+of background. The US is obviously going
+through a very similar massive COVID
+
+18
+00:01:18,880 --> 00:01:22,000
+epidemic, like we are. A lot of people
+lost their jobs, a lot of people lost
+incomes,
+
+19
+00:01:22,000 --> 00:01:26,390
+a lot of people are sitting at home,
+unable to work, and the government's been
+sending out stimulus cheques to support
+these people.
+
+20
+00:01:26,400 --> 00:01:29,510
+Now, at the same time, the US stock
+market has been on an absolute surge.
+
+21
+00:01:29,520 --> 00:01:34,880
+It's nearly doubled in the last nine
+months, and some stocks like Tesla have
+gone up nearly six times.
+
+22
+00:01:34,880 --> 00:01:38,710
+Other things like Bitcoin absolutely
+exploding. So we've got a load of people
+sitting at home,
+
+23
+00:01:38,720 --> 00:01:42,630
+they can't work, they're not making any
+money. At the same time, the richest
+people in the country, like Jeff Bezos,
+
+24
+00:01:42,640 --> 00:01:46,310
+the value of their companies are
+doubling. And this is on the back of ten
+years of stock markets exploding in that
+country.
+
+25
+00:01:46,320 --> 00:01:50,710
+So people at home are starting to think,
+"Listen, I'm not happy with this. Work
+isn't working for me,
+
+26
+00:01:50,720 --> 00:01:53,109
+I'm not making any money and the super-
+rich are just getting super-rich on the
+stock markets," and they want to get
+involved.
+
+27
+00:01:53,119 --> 00:01:57,190
+So they're surging onto the internet, and
+they're going through this website,
+Reddit,
+
+28
+00:01:57,200 --> 00:02:01,910
+which is a social media site, it's a
+message board site. There's an area on
+there called WallStreetBets, that's where
+people go to
+
+29
+00:02:01,920 --> 00:02:04,950
+talk about how to make money on the
+markets, what stocks to buy, this kind of
+thing.
+
+30
+00:02:04,960 --> 00:02:08,000
+And some people came up with the idea
+about GameStop. So what you need to
+understand about GameStop
+
+31
+00:02:08,000 --> 00:02:11,509
+is there's a big hedge fund, well a few
+hedge funds, that decided that this was a
+weak
+
+32
+00:02:11,519 --> 00:02:14,640
+company. They decided to try and push the
+stock price down by short selling it.
+
+33
+00:02:14,640 --> 00:02:19,430
+So you need to know a little bit about
+short selling, alright? So, to short sell
+a stock,
+
+34
+00:02:19,440 --> 00:02:23,110
+normally if you think a stock price is
+going to go up, you buy it. But how do
+you make money if a stock price is going
+to go down?
+
+35
+00:02:23,120 --> 00:02:27,190
+Well, the way you do is you borrow the
+stock, for example for a week, from
+someone who has it, and then you sell it,
+
+36
+00:02:27,200 --> 00:02:30,080
+hoping to buy it back later at a lower
+price.
+
+37
+00:02:30,080 --> 00:02:36,959
+Now, these hedge funds had shorted a lot
+of this stock, and some people on Reddit
+figured it out. So they said, "Look, if
+we all go together and we buy loads and
+loads of this stock, we can push the
+price up massively.
+
+38
+00:02:36,959 --> 00:02:42,400
+We'll refuse to lend out any of the stock
+to the short sellers, and then the short
+sellers will have to buy the stock back
+when their loans of the stock run out.
+That means we can push the price up, and
+then the hedge funds will have to buy at
+a massively high price, and we'll make
+loads of money."
+
+39
+00:02:42,400 --> 00:02:48,480
+Now, this is a thing which is relatively
+well known historically in financial
+markets. It's called a short squeeze. You
+push the price up so that all the shorts
+lose loads of money and they have to buy
+at higher prices.
+
+40
+00:02:48,480 --> 00:02:53,109
+There was a massive short squeeze in the
+gold market, for example, in the '80s.
+Sometimes it's called cornering the
+market.
+
+41
+00:02:53,119 --> 00:02:58,000
+There've even been guys who've done this
+with sort of food markets, like wheat.
+"We're going to buy all the wheat, and
+the people who need it, we're going to
+charge exorbitant prices."
+
+42
+00:02:58,000 --> 00:03:04,309
+So, basically, amazingly, this horde of
+sort of unrelated people who were sitting
+at home trading on the internet
+
+43
+00:03:04,319 --> 00:03:09,440
+managed to push GameStop up 1,500% in
+about two weeks, which was phenomenal.
+
+44
+00:03:09,440 --> 00:03:14,640
+That caused this one hedge fund, I think
+it's Melvin is the name, to almost go
+bankrupt. They lost about, I think, 30%
+of their assets under management.
+
+45
+00:03:14,640 --> 00:03:19,430
+I mean, it really is a phenomenal story.
+But I think what this tells you is
+
+46
+00:03:19,440 --> 00:03:25,190
+people are starting to react to this
+situation where the way we deal with
+crises is to bail out the stock market
+but not to bail out ordinary people, and
+people want to get involved.
+
+47
+00:03:25,200 --> 00:03:30,080
+But I mean, the way it's played out has
+been really phenomenal. My big concern
+now is, and I think I would like to tell
+people listening at home,
+
+48
+00:03:30,080 --> 00:03:34,320
+really be careful before you get involved
+in things like this, because it is
+inevitable, in my opinion,
+
+49
+00:03:34,320 --> 00:03:38,400
+I think most market professionals would
+agree, that this stock will collapse back
+down at some point.
+
+50
+00:03:38,400 --> 00:03:42,400
+And some people are going to make a lot
+of money on this. You know, there's
+someone on this Reddit website who claims
+to have turned
+
+51
+00:03:42,400 --> 00:03:47,680
+$50,000 into $47 million. Yeah, if you
+get involved now, that's not going to be
+you. And at some point, this is going to
+collapse
+
+52
+00:03:47,680 --> 00:03:53,589
+and some people are going to be holding
+it. So, just a real note of caution to
+people listening: don't rush in and get
+involved in this. That's my strong
+recommendation.
+
+53
+00:03:53,599 --> 00:03:56,070
+[Chris] Do you think this is going to spark
+some sort of trend?
+
+54
+00:03:56,080 --> 00:04:01,429
+[Gary] But it's already a trend! I mean, look
+at Bitcoin, look at Tesla, look at that.
+I mean,
+
+55
+00:04:01,439 --> 00:04:05,429
+the thing is, you need to understand what
+is happening with regards to the
+coronavirus crisis. Governments all
+over...
+
+56
+00:04:05,439 --> 00:04:10,949
+[Chris] Tesla's stock's not going up because
+lots of people are chatting about it on
+Reddit, though.
+
+57
+00:04:10,959 --> 00:04:14,630
+[Gary] I've been on this website, these guys
+love Tesla. I mean, listen, I'm not an
+expert exactly on Tesla.
+
+58
+00:04:14,640 --> 00:04:19,430
+Yeah, I mean, it's very, very expensive
+compared to other car makers, and there
+is a huge... like, I go on this, I've
+been on this,
+
+59
+00:04:19,440 --> 00:04:24,469
+you know, I trade markets and I look at
+this website. They love Tesla, they love
+Elon Musk. Oh, you know, not all of them,
+but
+
+60
+00:04:24,479 --> 00:04:28,710
+if Elon Musk tweets something, that will
+move... you know, these guys, they look at
+that guy. And
+
+61
+00:04:28,720 --> 00:04:33,029
+the fact is, you know, governments have
+printed lots of money. That's how they've
+dealt with this crisis,
+
+62
+00:04:33,039 --> 00:04:37,590
+and that means there's a lot of money
+sloshing about in the system, and largely
+it's ended up with richer people.
+
+63
+00:04:37,600 --> 00:04:42,230
+And if you give a lot of money to a lot
+of rich people, they're going to buy
+stocks. And I think what's relevant to
+the UK, they're going to buy houses as
+well.
+
+64
+00:04:42,240 --> 00:04:49,029
+And, you know, we're starting to see, in
+the middle of the worst economic crisis
+in our lifetimes, house prices are going
+up at record pace.
+
+65
+00:04:49,039 --> 00:04:53,510
+[Chris] What do you think is going to happen
+to GameStop themselves?
+
+66
+00:04:53,520 --> 00:04:57,029
+[Gary] I mean, the company... the hedge funds
+which looked at this company, they
+analysed it to be a weak company.
+
+67
+00:04:57,039 --> 00:05:00,710
+I mean, I'll tell you one thing, they've
+definitely got a lot of free advertising
+and publicity over the last few days,
+which will
+
+68
+00:05:00,720 --> 00:05:07,670
+probably support the company. But if we
+assume, and I think it is likely, that
+this stock price will simply rise and
+fall, that doesn't actually really
+benefit the company themselves.
+
+69
+00:05:07,680 --> 00:05:11,990
+It's purely a game between people who
+hold the stock, the short sellers, and
+this army on Reddit, essentially.
+
+70
+00:05:12,000 --> 00:05:16,550
+You know, the company gets some free
+advertising, but it was judged by many
+hedge funds to be a weak stock. It's
+trying to
+
+71
+00:05:16,560 --> 00:05:22,720
+compete with a massive giant like Amazon.
+But realistically, presuming the stock
+falls back down, it doesn't really change
+the outlook for the company itself.
+
+72
+00:05:22,720 --> 00:05:30,070
+[Chris] Do you think we'll see a move away from
+stock markets and how they work and how
+massive a part they play in their
+countries' economies,
+
+73
+00:05:30,080 --> 00:05:34,309
+or is this the model that is going to be
+around for a while?
+
+74
+00:05:34,319 --> 00:05:38,950
+[Gary] Well, I mean, already there's such a
+divergence between countries' economies
+and the stock market. I mean,
+
+75
+00:05:38,960 --> 00:05:43,750
+just look at what's happened since 2008.
+You know, the UK stock market's up, I
+think, two or three times in that time.
+The US is up even more.
+
+76
+00:05:43,760 --> 00:05:49,270
+Stock markets just seem to go up and up,
+and the reason for this is, and this is
+another thing that these guys on Reddit
+love to talk about, is
+
+77
+00:05:49,280 --> 00:05:53,109
+whenever there's a strong economy, stock
+markets go up. But whenever there's a
+weak economy,
+
+78
+00:05:53,119 --> 00:05:57,990
+central banks print billions of dollars
+and that pushes stock markets up. So it
+creates a situation where it feels like
+stock markets can only go up,
+
+79
+00:05:58,000 --> 00:06:01,910
+whether it's a strong economy or a weak
+economy. And what that means is, whether
+workers and ordinary families do well or
+badly,
+
+80
+00:06:01,920 --> 00:06:05,430
+the rich always do well.
+
+81
+00:06:05,440 --> 00:06:10,949
+So, if that's the situation, and if we
+look at the last twelve years, that seems
+to be the situation, you can kind of
+understand why now ordinary people are
+surging in to buy these stocks.
+
+82
+00:06:10,959 --> 00:06:16,710
+[Chris] Well, fascinating talking to you. I
+think you've made some sense of all those
+memes and various different videos I've
+seen online, so thank you very much for
+joining us here on LBC News.
+
+83
+00:06:16,720 --> 00:06:22,790
+That's Gary Stevenson, an ex-City trader
+and an economist. This is LBC News, the
+headlines are next.
+

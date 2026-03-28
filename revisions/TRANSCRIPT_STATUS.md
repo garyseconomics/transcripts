@@ -2,8 +2,8 @@
 
 **Total transcripts:** 350
 **Manually reviewed:** 45
-**AI-reviewed:** 2
-**Not yet reviewed:** 303
+**AI-reviewed:** 7
+**Not yet reviewed:** 298
 
 ## Manually Reviewed Transcripts
 
@@ -59,26 +59,27 @@
 
 ## AI-Reviewed Transcripts
 
-2 transcripts have been AI-reviewed but not yet manually reviewed.
+7 transcripts have been AI-reviewed but not yet manually reviewed.
 
 | Reviewed File | Source Folder |
 |---------------|---------------|
 | `RMlfcVUajd0__2020-07-15_Why_Jeremy_Hunt_Doesnt_Pay_Stamp_Duty.srt` *(multi-speaker)* | `2020-07-15-why-jeremy-hunt-doesnt-pay-stamp-duty-gary-on-bbc-radio-4-today-show-with-nick-robinson` |
 | `MHFD7PyEiIg__2020-07-22_Millionaires_For_Humanity.srt` *(multi-speaker)* | `2020-07-22-millionaires-for-humanity-gary-on-lbc-with-ian-payne` |
+| `PkMaglDTyJs__2020-10-26_Will_We_Pay_Back_the_Government_Debt.srt` *(multi-speaker)* | `2020-10-26-will-we-pay-back-the-government-debt-gary-stevenson-on-lbc-with-tom-swarbrick` |
+| `3Qlygh4N8nY__2020-12-11_Who_Pays_for_This_Crisis.srt` *(multi-speaker)* | `2020-12-11-who-pays-for-this-crisis-rishi-sunak-or-you-gary-on-talkradio-with-ian-collins` |
+| `1YrDt8z0dKE__2021-01-29_COVID-19_and_Inequality.srt` | `2021-01-29-covid-19-inequality-why-the-rich-are-getting-richer-but-the-economy-will-not-recover` |
+| `-Je6ZcSnQuI__2021-01-30_GameStop_Why_Did_Reddit_Humiliate_Wall_Street.srt` *(multi-speaker)* | `2021-01-30-gamestop-why-did-reddit-humiliate-wall-street-gary-on-lbc-news-with-chris-golds` |
+| `8BzLx-6WNP8__2021-02-09_Making_Money_My_First_Bonus.srt` | `2021-02-09-making-money-my-first-bonus-investment-advice-a-warning` |
 
 Note: `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado_Toast.srt` has both an AI review and a manual review.
 
 ## Not Yet Reviewed
 
-304 transcripts have not been reviewed yet.
+299 transcripts have not been reviewed yet.
 
 | Transcript Folder |
 |-------------------|
 | `2020-08-22-i-made-millions-from-the-financial-crisis-trust-me-the-system-is-broken-gary-on-ae-podcast` |
-| `2020-10-26-will-we-pay-back-the-government-debt-gary-stevenson-on-lbc-with-tom-swarbrick` |
-| `2020-12-11-who-pays-for-this-crisis-rishi-sunak-or-you-gary-on-talkradio-with-ian-collins` |
-| `2021-01-29-covid-19-inequality-why-the-rich-are-getting-richer-but-the-economy-will-not-recover` |
-| `2021-01-30-gamestop-why-did-reddit-humiliate-wall-street-gary-on-lbc-news-with-chris-golds` |
 | `2021-01-31-gamestop-a-detailed-breakdown-reddit-vs-wall-st-gary-on-novara-media-with-micheal-walker` |
 | `2021-02-01-gamestop-how-reddit-users-exposed-wall-street-gary-on-joe-with-wayne-farry` |
 | `2021-02-02-gamestop-a-simple-summary-gary-on-the-listen-evening-standard-podcast-with-david-marsland` |
@@ -86,7 +87,6 @@ Note: `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado
 | `2021-02-04-gamestop-armchair-investors-gary-on-sky-news-podcast-with-dermot-murnaghan` |
 | `2021-02-06-gamestop-talking-about-short-selling-gary-on-radio-5-live-with-nihal-arthanayake` |
 | `2021-02-07-gamestop-wall-street-bets-strategy-gary-on-lbc-with-tom-swarbrick` |
-| `2021-02-09-making-money-my-first-bonus-investment-advice-a-warning` |
 | `2021-02-11-class-does-it-still-matter-gary-on-talkradio-with-cristo-foufas` |
 | `2021-03-03-the-budget-will-it-help-you-get-a-house-yes-if-youre-rich` |
 | `2021-03-18-bitcoin-boom-or-bust-gary-on-sky-news-podcast-with-dermot-murnaghan` |
