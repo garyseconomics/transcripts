@@ -1,0 +1,2824 @@
+1
+00:00:00,080 --> 00:00:02,550
+[Michael] Are you confused? Don't worry if you are,
+
+2
+00:00:02,560 --> 00:00:04,150
+because I have Gary Stevenson,
+
+3
+00:00:04,160 --> 00:00:05,829
+former city trader, now inequality
+
+4
+00:00:05,839 --> 00:00:08,070
+economist, on the show to explain it all.
+
+5
+00:00:08,080 --> 00:00:10,390
+Gary, thank you so much for joining us.
+
+6
+00:00:10,400 --> 00:00:13,669
+[Gary] Hi, Michael. Thanks for having me.
+
+7
+00:00:13,679 --> 00:00:16,070
+[Michael] So, to start, now, you know, you're talking to
+
+8
+00:00:16,080 --> 00:00:17,269
+someone with not a great deal of
+
+9
+00:00:17,279 --> 00:00:18,550
+knowledge about the stock market. And so
+
+10
+00:00:18,560 --> 00:00:19,830
+what I know about, you know, hedge funds,
+
+11
+00:00:19,840 --> 00:00:21,429
+they normally gamble on the stock market,
+
+12
+00:00:21,439 --> 00:00:23,269
+sometimes they win money, sometimes they
+
+13
+00:00:23,279 --> 00:00:23,910
+lose.
+
+14
+00:00:23,920 --> 00:00:26,070
+The same goes for retail investors, they...
+
+15
+00:00:26,080 --> 00:00:27,349
+lots of ordinary people
+
+16
+00:00:27,359 --> 00:00:28,950
+bet on the stock market, sometimes they
+
+17
+00:00:28,960 --> 00:00:31,349
+win, sometimes they lose.
+
+18
+00:00:31,359 --> 00:00:33,350
+You know, on one level, that's just
+
+19
+00:00:33,360 --> 00:00:34,470
+what's happening
+
+20
+00:00:34,480 --> 00:00:36,870
+here. So what's special about
+
+21
+00:00:36,880 --> 00:00:38,950
+what's been going on with GameStop
+
+22
+00:00:38,960 --> 00:00:40,389
+this week?
+
+23
+00:00:40,399 --> 00:00:42,389
+[Gary] Well, I mean, the reason it's all over the
+
+24
+00:00:42,399 --> 00:00:44,229
+news, the scale of what's happened
+
+25
+00:00:44,239 --> 00:00:45,830
+this week is phenomenal, right? Like you
+
+26
+00:00:45,840 --> 00:00:47,270
+said, it's gone seventeen
+
+27
+00:00:47,280 --> 00:00:47,830
+hundred
+
+28
+00:00:47,840 --> 00:00:50,069
+percent in about two weeks. That's,
+
+29
+00:00:50,079 --> 00:00:51,670
+you know, it increases 17 times.
+
+30
+00:00:51,680 --> 00:00:54,630
+The speed and the scale is
+
+31
+00:00:54,640 --> 00:00:55,350
+enormous. And
+
+32
+00:00:55,360 --> 00:00:56,869
+we don't normally see things like this.
+
+33
+00:00:56,879 --> 00:00:58,549
+It's basically taking down a massive
+
+34
+00:00:58,559 --> 00:00:59,670
+Wall Street hedge fund.
+
+35
+00:00:59,680 --> 00:01:02,709
+I think we need to put this in a
+
+36
+00:01:02,719 --> 00:01:03,750
+little bit of context of what's been
+
+37
+00:01:03,760 --> 00:01:04,950
+happening over the last year, right?
+
+38
+00:01:04,960 --> 00:01:06,310
+Obviously, the US is in the middle of
+
+39
+00:01:06,320 --> 00:01:08,230
+corona. It's like us, there's millions of
+
+40
+00:01:08,240 --> 00:01:09,990
+people sitting at home, they can't work,
+
+41
+00:01:10,000 --> 00:01:12,149
+they're not able to get an income. And in
+
+42
+00:01:12,159 --> 00:01:13,910
+that period, the stock market has been
+
+43
+00:01:13,920 --> 00:01:15,270
+flying through the roof.
+
+44
+00:01:15,280 --> 00:01:17,030
+Amazon stock price has doubled, that's
+
+45
+00:01:17,040 --> 00:01:18,950
+Jeff Bezos's net worth.
+
+46
+00:01:18,960 --> 00:01:21,109
+Tesla's up about five times, Bitcoin's
+
+47
+00:01:21,119 --> 00:01:22,789
+doing whatever Bitcoin is doing.
+
+48
+00:01:22,799 --> 00:01:24,070
+Ordinary people are sitting at home, trying
+
+49
+00:01:24,080 --> 00:01:25,670
+to work, but work's not working for them,
+
+50
+00:01:25,680 --> 00:01:26,950
+right? They can't make any money
+
+51
+00:01:26,960 --> 00:01:29,190
+and they're just seeing the wealthiest
+
+52
+00:01:29,200 --> 00:01:30,789
+people, their money in the stock market
+
+53
+00:01:30,799 --> 00:01:31,109
+just
+
+54
+00:01:31,119 --> 00:01:32,789
+absolutely making tons. And this is on
+
+55
+00:01:32,799 --> 00:01:35,350
+[Gary] top of 12 years since 2008, when the
+
+56
+00:01:35,360 --> 00:01:36,710
+stock market has gone up I think five or
+
+57
+00:01:36,720 --> 00:01:37,830
+six times.
+
+58
+00:01:37,840 --> 00:01:39,749
+So I think what you're seeing is
+
+59
+00:01:39,759 --> 00:01:41,990
+ordinary people starting to realise that,
+
+60
+00:01:42,000 --> 00:01:44,230
+you know, we have a stock market that
+
+61
+00:01:44,240 --> 00:01:46,069
+goes up in good times and it goes up in
+
+62
+00:01:46,079 --> 00:01:46,710
+bad times.
+
+63
+00:01:46,720 --> 00:01:48,389
+Whatever happens, the rich seem to be
+
+64
+00:01:48,399 --> 00:01:49,910
+protected and ordinary workers are not.
+
+65
+00:01:49,920 --> 00:01:51,190
+So they want to get involved.
+
+66
+00:01:51,200 --> 00:01:52,710
+I think really this is the culmination
+
+67
+00:01:52,720 --> 00:01:54,789
+of many years of ordinary people getting
+
+68
+00:01:54,799 --> 00:01:55,590
+left behind,
+
+69
+00:01:55,600 --> 00:01:57,190
+of the stock market getting bailed
+
+70
+00:01:57,200 --> 00:01:59,109
+out when ordinary people aren't.
+
+71
+00:01:59,119 --> 00:02:02,310
+And yeah, obviously this is
+
+72
+00:02:02,320 --> 00:02:03,429
+the culmination of it. People getting
+
+73
+00:02:03,439 --> 00:02:05,429
+together on Reddit and starting to...
+
+74
+00:02:05,439 --> 00:02:06,870
+it's not really... it's not even just
+
+75
+00:02:06,880 --> 00:02:08,150
+GameStop, they're going into other things
+
+76
+00:02:08,160 --> 00:02:09,109
+now.
+
+77
+00:02:09,119 --> 00:02:11,430
+I think this is ordinary people, they
+
+78
+00:02:11,440 --> 00:02:12,470
+don't want to...
+
+79
+00:02:12,480 --> 00:02:13,589
+well, they want their share of the pie,
+
+80
+00:02:13,599 --> 00:02:15,110
+basically. They see it keep going, just
+
+81
+00:02:15,120 --> 00:02:16,550
+the stock markets, and they want to get
+
+82
+00:02:16,560 --> 00:02:18,229
+involved.
+
+83
+00:02:18,239 --> 00:02:19,750
+[Michael] Yes, you brought up, this is, you know,
+
+84
+00:02:19,760 --> 00:02:21,110
+ordinary people against Wall Street.
+
+85
+00:02:21,120 --> 00:02:21,990
+That's what we're going to discuss
+
+86
+00:02:22,000 --> 00:02:23,670
+next, you know, the extent to which this
+
+87
+00:02:23,680 --> 00:02:25,670
+is a popular uprising or just a
+
+88
+00:02:25,680 --> 00:02:27,430
+get-rich-quick plan by some
+
+89
+00:02:27,440 --> 00:02:30,309
+people on Reddit. But before we do that,
+
+90
+00:02:30,319 --> 00:02:31,430
+to sort of frame this discussion, I want
+
+91
+00:02:31,440 --> 00:02:32,790
+to go to a couple of clips
+
+92
+00:02:32,800 --> 00:02:34,869
+from CNBC. So that's the financial
+
+93
+00:02:34,879 --> 00:02:36,070
+news channel in the United
+
+94
+00:02:36,080 --> 00:02:37,350
+States. So the first clip I'm going to
+
+95
+00:02:37,360 --> 00:02:39,270
+show you is from William Legate. He is
+
+96
+00:02:39,280 --> 00:02:39,910
+founder
+
+97
+00:02:39,920 --> 00:02:42,550
+and CEO of a cryptocurrency platform, and
+
+98
+00:02:42,560 --> 00:02:44,150
+a follower of the Wall Street Bets
+
+99
+00:02:44,160 --> 00:02:45,750
+subreddit. He explained how he
+
+100
+00:02:45,760 --> 00:02:48,150
+characterises the GameStop phenomenon.
+
+101
+00:02:48,160 --> 00:02:51,270
+[Legate] These people are just
+
+102
+00:02:51,280 --> 00:02:53,430
+in general wanting to give Wall Street
+
+103
+00:02:53,440 --> 00:02:54,710
+the finger, quite frankly.
+
+104
+00:02:54,720 --> 00:02:56,869
+They view the system as being
+
+105
+00:02:56,879 --> 00:02:58,470
+rigged against them. I think that this
+
+106
+00:02:58,480 --> 00:02:59,750
+entire movement has
+
+107
+00:02:59,760 --> 00:03:01,990
+really validated that and made it very
+
+108
+00:03:02,000 --> 00:03:03,990
+clear to most Americans that is the
+
+109
+00:03:04,000 --> 00:03:04,550
+case.
+
+110
+00:03:04,560 --> 00:03:07,509
+You have... if I personally invested my
+
+111
+00:03:07,519 --> 00:03:09,030
+own money and lost half of my portfolio
+
+112
+00:03:09,040 --> 00:03:09,670
+overnight,
+
+113
+00:03:09,680 --> 00:03:10,949
+no one on Wall Street would, you know,
+
+114
+00:03:10,959 --> 00:03:12,710
+care at all. If a hedge fund loses
+
+115
+00:03:12,720 --> 00:03:13,830
+half their money overnight, all of a
+
+116
+00:03:13,840 --> 00:03:14,309
+sudden
+
+117
+00:03:14,319 --> 00:03:16,630
+you can't trade anymore. And, you know,
+
+118
+00:03:16,640 --> 00:03:17,350
+they stop
+
+119
+00:03:17,360 --> 00:03:19,430
+the free market in order to allow these
+
+120
+00:03:19,440 --> 00:03:21,750
+funds to rebalance their positions. I
+
+121
+00:03:21,760 --> 00:03:23,670
+think that's extremely wrong and
+
+122
+00:03:23,680 --> 00:03:25,110
+against, you know, everything that the
+
+123
+00:03:25,120 --> 00:03:27,030
+market's supposed to be standing for.
+
+124
+00:03:27,040 --> 00:03:29,430
+[CNBC Host] From your following of them, do the
+
+125
+00:03:29,440 --> 00:03:31,509
+people in this subreddit
+
+126
+00:03:31,519 --> 00:03:33,190
+who are calling to take down the hedge
+
+127
+00:03:33,200 --> 00:03:35,110
+funds realise that there could be some
+
+128
+00:03:35,120 --> 00:03:36,949
+serious unintended consequences that
+
+129
+00:03:36,959 --> 00:03:38,630
+could hurt everyday people?
+
+130
+00:03:38,640 --> 00:03:40,869
+[Legate] For the most part, I think, absolutely.
+
+131
+00:03:40,879 --> 00:03:42,789
+This subreddit is pretty
+
+132
+00:03:42,799 --> 00:03:44,710
+crude, I guess you could say. And a lot
+
+133
+00:03:44,720 --> 00:03:46,710
+of people, a big part of it, even before
+
+134
+00:03:46,720 --> 00:03:47,910
+this Wall Street Bets movement, was
+
+135
+00:03:47,920 --> 00:03:48,869
+posting people's
+
+136
+00:03:48,879 --> 00:03:50,710
+losses. And that's just part of the
+
+137
+00:03:50,720 --> 00:03:52,070
+culture of the subreddit.
+
+138
+00:03:52,080 --> 00:03:53,830
+A lot of these people are not in
+
+139
+00:03:53,840 --> 00:03:55,270
+this necessarily for the money.
+
+140
+00:03:55,280 --> 00:03:57,750
+Certainly some retail traders are, and
+
+141
+00:03:57,760 --> 00:03:58,309
+I
+
+142
+00:03:58,319 --> 00:03:59,910
+feel like some people will end up, you
+
+143
+00:03:59,920 --> 00:04:01,750
+know, getting left holding the bag.
+
+144
+00:04:01,760 --> 00:04:04,309
+But for the most part, these people
+
+145
+00:04:04,319 --> 00:04:05,910
+are just wanting to make a statement. And
+
+146
+00:04:05,920 --> 00:04:07,429
+they kind of view this as class warfare,
+
+147
+00:04:07,439 --> 00:04:09,429
+quite frankly. Kind of
+
+148
+00:04:09,439 --> 00:04:12,309
+Occupy Wall Street 2.0, but on their
+
+149
+00:04:12,319 --> 00:04:13,589
+own terms, and with real financial
+
+150
+00:04:13,599 --> 00:04:15,910
+consequences.
+
+151
+00:04:15,920 --> 00:04:17,990
+[Michael] Saying this is class warfare, but with
+
+152
+00:04:18,000 --> 00:04:18,949
+real financial
+
+153
+00:04:18,959 --> 00:04:21,189
+consequences. Now, someone from the ruling
+
+154
+00:04:21,199 --> 00:04:22,790
+class who was getting pretty upset about
+
+155
+00:04:22,800 --> 00:04:24,629
+it is a Wall Street trader, Leon
+
+156
+00:04:24,639 --> 00:04:26,550
+Cooperman. Now, he is a hedge fund manager,
+
+157
+00:04:26,560 --> 00:04:28,070
+he's worth $3.2
+
+158
+00:04:28,080 --> 00:04:29,909
+billion. Here again, he is
+
+159
+00:04:29,919 --> 00:04:33,590
+speaking. This, again, is on CNBC.
+
+160
+00:04:33,600 --> 00:04:35,189
+[Cooperman] The reason the market is doing what it's
+
+161
+00:04:35,199 --> 00:04:37,189
+doing is people are sitting at home
+
+162
+00:04:37,199 --> 00:04:39,030
+getting their checks from the government.
+
+163
+00:04:39,040 --> 00:04:41,670
+Okay? And this "fair share" is a
+
+164
+00:04:41,680 --> 00:04:43,030
+concept...
+
+165
+00:04:43,040 --> 00:04:44,710
+it's just a way of attacking wealthy
+
+166
+00:04:44,720 --> 00:04:46,150
+people. And,
+
+167
+00:04:46,160 --> 00:04:47,749
+you know, I think it's inappropriate. We
+
+168
+00:04:47,759 --> 00:04:49,189
+all got to work together and pull
+
+169
+00:04:49,199 --> 00:04:52,550
+together.
+
+170
+00:04:52,560 --> 00:04:55,510
+[Michael] So, he... "fair share" being a
+
+171
+00:04:55,520 --> 00:04:57,030
+concept that was about tax,
+
+172
+00:04:57,040 --> 00:04:58,710
+I think. But he basically has the
+
+173
+00:04:58,720 --> 00:05:00,310
+analysis that the problem here is that
+
+174
+00:05:00,320 --> 00:05:01,510
+too many people are getting government
+
+175
+00:05:01,520 --> 00:05:02,230
+checks,
+
+176
+00:05:02,240 --> 00:05:04,070
+and then the plebs are investing on
+
+177
+00:05:04,080 --> 00:05:05,510
+the stock market, and this is messing the
+
+178
+00:05:05,520 --> 00:05:06,550
+whole thing up.
+
+179
+00:05:06,560 --> 00:05:08,310
+Gary, I want to bring you in. I mean,
+
+180
+00:05:08,320 --> 00:05:10,870
+they've brought up class war there.
+
+181
+00:05:10,880 --> 00:05:13,990
+Is this a genuine sort of redistribution
+
+182
+00:05:14,000 --> 00:05:15,909
+of wealth and power from corporate
+
+183
+00:05:15,919 --> 00:05:17,590
+elites to the ordinary man?
+
+184
+00:05:17,600 --> 00:05:19,990
+Is that a legitimate analysis of
+
+185
+00:05:20,000 --> 00:05:20,629
+what's
+
+186
+00:05:20,639 --> 00:05:22,870
+been going on over the past week?
+
+187
+00:05:22,880 --> 00:05:23,990
+[Gary] I wish, I wish
+
+188
+00:05:24,000 --> 00:05:26,550
+there was, Michael. It's so... it's so
+
+189
+00:05:26,560 --> 00:05:28,469
+fascinating, isn't it? That sort of...
+
+190
+00:05:28,479 --> 00:05:29,830
+this is the space we've reached now,
+
+191
+00:05:29,840 --> 00:05:31,670
+where it's such an interesting
+
+192
+00:05:31,680 --> 00:05:33,110
+combination of
+
+193
+00:05:33,120 --> 00:05:34,629
+people out there trying to make money in
+
+194
+00:05:34,639 --> 00:05:35,909
+the markets, which is such a sort of
+
+195
+00:05:35,919 --> 00:05:37,590
+individualistic, "I want to
+
+196
+00:05:37,600 --> 00:05:37,990
+make money
+
+197
+00:05:38,000 --> 00:05:40,550
+for me" idea, but they're coming together
+
+198
+00:05:40,560 --> 00:05:41,749
+on this message board to try and do it
+
+199
+00:05:41,759 --> 00:05:43,510
+together. It's this... so it's this super
+
+200
+00:05:43,520 --> 00:05:44,950
+combination of
+
+201
+00:05:44,960 --> 00:05:46,469
+"I want to make money for me" and "we need
+
+202
+00:05:46,479 --> 00:05:48,950
+to do it together." I think this is...
+
+203
+00:05:48,960 --> 00:05:50,790
+in a sense, it was kind of inevitable
+
+204
+00:05:50,800 --> 00:05:52,629
+that we were gonna reach this space,
+
+205
+00:05:52,639 --> 00:05:54,710
+right? Because,
+
+206
+00:05:54,720 --> 00:05:56,469
+you know, people are told that you live
+
+207
+00:05:56,479 --> 00:05:57,909
+in a meritocracy, you have to do what you
+
+208
+00:05:57,919 --> 00:05:59,830
+can, get a job, save up your money, buy a
+
+209
+00:05:59,840 --> 00:06:01,110
+house.
+
+210
+00:06:01,120 --> 00:06:02,550
+But increasingly, that doesn't work. And
+
+211
+00:06:02,560 --> 00:06:04,629
+then at the same time, you see people...
+
+212
+00:06:04,639 --> 00:06:06,390
+you know, I come from a poor background.
+
+213
+00:06:06,400 --> 00:06:08,390
+I made my money in the City, basically
+
+214
+00:06:08,400 --> 00:06:11,510
+gambling. And I don't know many people
+
+215
+00:06:11,520 --> 00:06:12,710
+who come from ordinary backgrounds
+
+216
+00:06:12,720 --> 00:06:14,150
+who've been able to, for example, buy a
+
+217
+00:06:14,160 --> 00:06:15,110
+house
+
+218
+00:06:15,120 --> 00:06:17,110
+just by working an ordinary job. But
+
+219
+00:06:17,120 --> 00:06:18,550
+people see, oh, this guy's made money on
+
+220
+00:06:18,560 --> 00:06:19,189
+Bitcoin,
+
+221
+00:06:19,199 --> 00:06:20,150
+that guy's made money in the stock
+
+222
+00:06:20,160 --> 00:06:22,309
+markets. So I think it's kind of reached
+
+223
+00:06:22,319 --> 00:06:24,070
+this inevitable conclusion where
+
+224
+00:06:24,080 --> 00:06:25,590
+people have realised that even just to
+
+225
+00:06:25,600 --> 00:06:27,270
+achieve your basic goals,
+
+226
+00:06:27,280 --> 00:06:30,710
+it's not working. Work isn't working. So
+
+227
+00:06:30,720 --> 00:06:32,629
+they've tried to get together and
+
+228
+00:06:32,639 --> 00:06:34,150
+they've tried to rebalance it, you know,
+
+229
+00:06:34,160 --> 00:06:35,749
+on an internet messaging board. But,
+
+230
+00:06:35,759 --> 00:06:37,510
+to be honest, I don't think this is gonna
+
+231
+00:06:37,520 --> 00:06:39,029
+look fantastic for the people who made
+
+232
+00:06:39,039 --> 00:06:41,270
+money on this. But my concern really is
+
+233
+00:06:41,280 --> 00:06:42,629
+people are gonna maybe watch this, or
+
+234
+00:06:42,639 --> 00:06:43,670
+it's been all over the news the last
+
+235
+00:06:43,680 --> 00:06:45,590
+couple of days, they're gonna see it now,
+
+236
+00:06:45,600 --> 00:06:46,629
+they're gonna think, well, this is my
+
+237
+00:06:46,639 --> 00:06:48,629
+chance. They're going to jump in. And,
+
+238
+00:06:48,639 --> 00:06:49,670
+you know, at some point this stock is
+
+239
+00:06:49,680 --> 00:06:51,350
+going to fall. And I just want
+
+240
+00:06:51,360 --> 00:06:53,670
+to tell the people that are listening,
+
+241
+00:06:53,680 --> 00:06:55,270
+don't take any mad risks and run into
+
+242
+00:06:55,280 --> 00:06:57,189
+this now, because it's not easy
+
+243
+00:06:57,199 --> 00:06:58,629
+money to be made, basically. And
+
+244
+00:06:58,639 --> 00:07:01,189
+this is, you know... I wish the revolution
+
+245
+00:07:01,199 --> 00:07:01,830
+could happen
+
+246
+00:07:01,840 --> 00:07:03,589
+from people at home trading the stock
+
+247
+00:07:03,599 --> 00:07:05,749
+markets in their underpants, but I think
+
+248
+00:07:05,759 --> 00:07:08,950
+it's not going to go like that.
+
+249
+00:07:08,960 --> 00:07:10,710
+[Michael] I'm not sure anyone watches this show
+
+250
+00:07:10,720 --> 00:07:12,309
+for financial advice, so you probably
+
+251
+00:07:12,319 --> 00:07:13,749
+don't need to worry too much
+
+252
+00:07:13,759 --> 00:07:14,710
+about that. But
+
+253
+00:07:14,720 --> 00:07:16,150
+I do want to focus on that question
+
+254
+00:07:16,160 --> 00:07:17,430
+actually, in terms of what is going to
+
+255
+00:07:17,440 --> 00:07:18,390
+happen
+
+256
+00:07:18,400 --> 00:07:19,990
+next for the people who've invested in
+
+257
+00:07:20,000 --> 00:07:21,430
+this company, especially because
+
+258
+00:07:21,440 --> 00:07:24,309
+presumably at this point GameStop is
+
+259
+00:07:24,319 --> 00:07:26,469
+overvalued. So it's worth a hell of a lot
+
+260
+00:07:26,479 --> 00:07:27,909
+on the stock market at the moment, even
+
+261
+00:07:27,919 --> 00:07:29,350
+though the underlying business
+
+262
+00:07:29,360 --> 00:07:30,710
+isn't particularly valuable. And if
+
+263
+00:07:30,720 --> 00:07:32,309
+you've got a bubble, you normally expect
+
+264
+00:07:32,319 --> 00:07:33,830
+it to burst at some point. So
+
+265
+00:07:33,840 --> 00:07:35,749
+that share price is going to collapse,
+
+266
+00:07:35,759 --> 00:07:37,350
+and if you're still holding shares at
+
+267
+00:07:37,360 --> 00:07:38,790
+that point in time,
+
+268
+00:07:38,800 --> 00:07:41,990
+then you lose a lot. Is that
+
+269
+00:07:42,000 --> 00:07:43,990
+inevitable now? Are we just going to
+
+270
+00:07:44,000 --> 00:07:46,869
+inevitably see lots of Reddit users or
+
+271
+00:07:46,879 --> 00:07:48,550
+people who've piled in because of this,
+
+272
+00:07:48,560 --> 00:07:49,830
+you know, because of the publicity
+
+273
+00:07:49,840 --> 00:07:51,670
+around this, lose a bunch of
+
+274
+00:07:51,680 --> 00:07:53,670
+money? Or is there a different possible
+
+275
+00:07:53,680 --> 00:07:56,469
+route, you know, out of this current
+
+276
+00:07:56,479 --> 00:07:57,749
+moment than that?
+
+277
+00:07:57,759 --> 00:08:00,629
+[Gary] I mean, this is such an interesting
+
+278
+00:08:00,639 --> 00:08:01,830
+bubble, right? Because normally when you
+
+279
+00:08:01,840 --> 00:08:02,950
+have a bubble, there's some people out
+
+280
+00:08:02,960 --> 00:08:04,150
+there saying, "No, it's not a bubble,
+
+281
+00:08:04,160 --> 00:08:05,589
+it's different, this is real fundamental
+
+282
+00:08:05,599 --> 00:08:07,350
+value." Here is a bubble, here is a
+
+283
+00:08:07,360 --> 00:08:08,710
+massively overvalued stock, where
+
+284
+00:08:08,720 --> 00:08:10,150
+literally everyone who's driving the
+
+285
+00:08:10,160 --> 00:08:11,029
+bubble
+
+286
+00:08:11,039 --> 00:08:12,869
+thinks it's overvalued. It's just...
+
+287
+00:08:12,879 --> 00:08:14,309
+everybody knows it's a bad investment,
+
+288
+00:08:14,319 --> 00:08:15,270
+they're still doing it. And,
+
+289
+00:08:15,280 --> 00:08:16,629
+you know, I use this message board, Wall
+
+290
+00:08:16,639 --> 00:08:18,150
+Street Bets. Like, I've been going on it
+
+291
+00:08:18,160 --> 00:08:18,550
+for
+
+292
+00:08:18,560 --> 00:08:19,909
+a year. If you get some free time,
+
+293
+00:08:19,919 --> 00:08:22,230
+have a look, it's a fascinating place.
+
+294
+00:08:22,240 --> 00:08:24,390
+I was on it this morning. People are
+
+295
+00:08:24,400 --> 00:08:26,230
+going... it's like a religion. People are
+
+296
+00:08:26,240 --> 00:08:27,909
+screaming at each other, "Don't sell!"
+
+297
+00:08:27,919 --> 00:08:29,189
+They think they're starting a revolution,
+
+298
+00:08:29,199 --> 00:08:31,830
+basically. So,
+
+299
+00:08:31,840 --> 00:08:33,430
+it's driven by this sort of collective
+
+300
+00:08:33,440 --> 00:08:35,110
+madness. And I totally understand, I
+
+301
+00:08:35,120 --> 00:08:36,949
+totally understand this feeling that
+
+302
+00:08:36,959 --> 00:08:38,230
+these guys on Wall Street are making
+
+303
+00:08:38,240 --> 00:08:39,829
+millions, you know, Jeff Bezos is making
+
+304
+00:08:39,839 --> 00:08:41,269
+billions, Elon Musk is making billions.
+
+305
+00:08:41,279 --> 00:08:42,389
+We're sitting at home, we can't even work.
+
+306
+00:08:42,399 --> 00:08:43,750
+I totally, I totally understand that
+
+307
+00:08:43,760 --> 00:08:44,470
+sentiment.
+
+308
+00:08:44,480 --> 00:08:46,470
+But, to be honest, I cannot see this
+
+309
+00:08:46,480 --> 00:08:48,070
+playing out any other way than it
+
+310
+00:08:48,080 --> 00:08:48,870
+eventually
+
+311
+00:08:48,880 --> 00:08:50,870
+collapsing. And there will be people left
+
+312
+00:08:50,880 --> 00:08:52,070
+holding it that will lose
+
+313
+00:08:52,080 --> 00:08:53,990
+money when it happens. I would be very,
+
+314
+00:08:54,000 --> 00:08:55,829
+very, very surprised. And, to be honest,
+
+315
+00:08:55,839 --> 00:08:57,910
+I think even the people driving it would
+
+316
+00:08:57,920 --> 00:08:59,509
+surely be surprised. It's the most
+
+317
+00:08:59,519 --> 00:09:00,230
+phenomenal
+
+318
+00:09:00,240 --> 00:09:01,590
+bubble where everybody knows it's a
+
+319
+00:09:01,600 --> 00:09:04,070
+bubble. But,
+
+320
+00:09:04,080 --> 00:09:05,910
+[Gary] I think it's important to understand,
+
+321
+00:09:05,920 --> 00:09:07,350
+this is not coming out of nowhere, right?
+
+322
+00:09:07,360 --> 00:09:09,110
+Last year, in the COVID crisis, the
+
+323
+00:09:09,120 --> 00:09:10,710
+government spent £450 billion,
+
+324
+00:09:10,720 --> 00:09:11,910
+right? That's £10,000
+
+325
+00:09:11,920 --> 00:09:13,990
+for every adult in the country.
+
+326
+00:09:14,000 --> 00:09:15,750
+They didn't raise any taxes,
+
+327
+00:09:15,760 --> 00:09:17,509
+they didn't borrow money from external
+
+328
+00:09:17,519 --> 00:09:19,190
+investors. They printed all of that money
+
+329
+00:09:19,200 --> 00:09:20,550
+and they pumped it into the system.
+
+330
+00:09:20,560 --> 00:09:21,990
+So what you have here is a government
+
+331
+00:09:22,000 --> 00:09:24,310
+that thinks we can deal with the crisis
+
+332
+00:09:24,320 --> 00:09:26,150
+by printing money and giving it to the
+
+333
+00:09:26,160 --> 00:09:27,350
+rich, because the data shows all that
+
+334
+00:09:27,360 --> 00:09:28,470
+money ended up with the rich.
+
+335
+00:09:28,480 --> 00:09:30,870
+Look, if you try and fix a crisis that
+
+336
+00:09:30,880 --> 00:09:32,310
+has inequality at its core
+
+337
+00:09:32,320 --> 00:09:34,389
+by giving money to the rich, you can't be
+
+338
+00:09:34,399 --> 00:09:35,829
+surprised when suddenly you see massive
+
+339
+00:09:35,839 --> 00:09:36,790
+stock market bubbles.
+
+340
+00:09:36,800 --> 00:09:38,389
+And my big concern is that that spreads
+
+341
+00:09:38,399 --> 00:09:39,990
+into UK property and we see a massive
+
+342
+00:09:40,000 --> 00:09:41,269
+rise in UK property now.
+
+343
+00:09:41,279 --> 00:09:43,350
+And what that will mean for young people
+
+344
+00:09:43,360 --> 00:09:44,389
+in this country...
+
+345
+00:09:44,399 --> 00:09:45,750
+if we start seeing this bubble move into
+
+346
+00:09:45,760 --> 00:09:47,430
+UK property, which I think quite possibly
+
+347
+00:09:47,440 --> 00:09:49,190
+it will...
+
+348
+00:09:49,200 --> 00:09:51,110
+[Michael] I think we should definitely... let's park
+
+349
+00:09:51,120 --> 00:09:52,710
+the UK property question for a moment,
+
+350
+00:09:52,720 --> 00:09:53,750
+because I think we should definitely get
+
+351
+00:09:53,760 --> 00:09:54,630
+you back on,
+
+352
+00:09:54,640 --> 00:09:56,470
+you know, especially on that
+
+353
+00:09:56,480 --> 00:09:57,750
+question, which might have more practical
+
+354
+00:09:57,760 --> 00:09:58,710
+significance for a lot of people
+
+355
+00:09:58,720 --> 00:09:59,910
+watching this. But I want to stick to
+
+356
+00:09:59,920 --> 00:10:00,949
+this phenomenon
+
+357
+00:10:00,959 --> 00:10:02,949
+of GameStop and specifically now move on
+
+358
+00:10:02,959 --> 00:10:04,150
+to the role of Robinhood.
+
+359
+00:10:04,160 --> 00:10:06,230
+Because Robinhood is the
+
+360
+00:10:06,240 --> 00:10:08,630
+app where people can trade stocks and
+
+361
+00:10:08,640 --> 00:10:09,990
+shares without any commissions. So this
+
+362
+00:10:10,000 --> 00:10:11,350
+is the kind of app which has
+
+363
+00:10:11,360 --> 00:10:13,269
+allowed ordinary people to trade
+
+364
+00:10:13,279 --> 00:10:14,710
+on the stock market without having,
+
+365
+00:10:14,720 --> 00:10:17,430
+you know, a broker or an agent. And
+
+366
+00:10:17,440 --> 00:10:18,150
+yesterday,
+
+367
+00:10:18,160 --> 00:10:19,750
+when this, you know, the prices of
+
+368
+00:10:19,760 --> 00:10:21,509
+GameStop were really surging,
+
+369
+00:10:21,519 --> 00:10:23,670
+they suspended trading. And this was
+
+370
+00:10:23,680 --> 00:10:25,190
+incredibly controversial. People thought
+
+371
+00:10:25,200 --> 00:10:27,030
+this was sort of market manipulation,
+
+372
+00:10:27,040 --> 00:10:29,269
+the big guys coming in to stop the
+
+373
+00:10:29,279 --> 00:10:30,069
+little guy
+
+374
+00:10:30,079 --> 00:10:33,110
+having some influence. And opposition to
+
+375
+00:10:33,120 --> 00:10:34,790
+the suspension came from
+
+376
+00:10:34,800 --> 00:10:36,949
+all sides of the political spectrum.
+
+377
+00:10:36,959 --> 00:10:38,389
+So, to
+
+378
+00:10:38,399 --> 00:10:40,069
+prove that to you, the evidence: this is
+
+379
+00:10:40,079 --> 00:10:42,630
+[Michael] Alexandria Ocasio-Cortez.
+
+380
+00:10:42,640 --> 00:10:45,269
+She tweeted, "This is unacceptable. We now
+
+381
+00:10:45,279 --> 00:10:47,190
+need to know more about Robinhood app's
+
+382
+00:10:47,200 --> 00:10:48,790
+decision to block retail investors from
+
+383
+00:10:48,800 --> 00:10:49,829
+purchasing stock,
+
+384
+00:10:49,839 --> 00:10:51,430
+while hedge funds are freely able to
+
+385
+00:10:51,440 --> 00:10:53,350
+trade the stock as they see fit.
+
+386
+00:10:53,360 --> 00:10:54,949
+As a member of the Financial Services
+
+387
+00:10:54,959 --> 00:10:57,030
+Committee, I'd support a hearing
+
+388
+00:10:57,040 --> 00:11:00,470
+if necessary." You also got someone from
+
+389
+00:11:00,480 --> 00:11:02,069
+the right wing of the Republican Party,
+
+390
+00:11:02,079 --> 00:11:03,030
+Ted Cruz,
+
+391
+00:11:03,040 --> 00:11:05,350
+tweeting in agreement. So he quote-
+
+392
+00:11:05,360 --> 00:11:06,790
+tweeted that tweet I've just read to you,
+
+393
+00:11:06,800 --> 00:11:07,350
+saying,
+
+394
+00:11:07,360 --> 00:11:10,389
+"Fully agree." Now, Robinhood
+
+395
+00:11:10,399 --> 00:11:12,389
+themselves, the firm, the CEO has gone
+
+396
+00:11:12,399 --> 00:11:13,590
+on television saying this is just
+
+397
+00:11:13,600 --> 00:11:15,350
+because of volatile trading, meaning that
+
+398
+00:11:15,360 --> 00:11:17,190
+they had a bit of a cash flow problem,
+
+399
+00:11:17,200 --> 00:11:18,870
+not them intervening on behalf of any
+
+400
+00:11:18,880 --> 00:11:20,710
+hedge funds who were losing money.
+
+401
+00:11:20,720 --> 00:11:23,910
+Although, I can see in the comments,
+
+402
+00:11:23,920 --> 00:11:25,190
+someone has tweeted
+
+403
+00:11:25,200 --> 00:11:28,389
+with a £10 superchat. That's Kishor
+
+404
+00:11:28,399 --> 00:11:30,870
+Kukandraja. I hope I pronounce your
+
+405
+00:11:30,880 --> 00:11:31,829
+name correctly.
+
+406
+00:11:31,839 --> 00:11:33,590
+They say, "Gary, what do you think of
+
+407
+00:11:33,600 --> 00:11:35,190
+Citadel's role in Robinhood in all of
+
+408
+00:11:35,200 --> 00:11:36,630
+this?" And that's a reference to... some
+
+409
+00:11:36,640 --> 00:11:37,829
+people are suggesting
+
+410
+00:11:37,839 --> 00:11:39,590
+that there could be connections between
+
+411
+00:11:39,600 --> 00:11:41,430
+Robinhood and Citadel, who are a hedge
+
+412
+00:11:41,440 --> 00:11:43,350
+fund who are losing money
+
+413
+00:11:43,360 --> 00:11:45,509
+on GameStop shares because they'd short-
+
+414
+00:11:45,519 --> 00:11:47,110
+sold it. And they think that maybe there
+
+415
+00:11:47,120 --> 00:11:48,790
+was some collusion going on here. I don't
+
+416
+00:11:48,800 --> 00:11:49,590
+know. Gary, what
+
+417
+00:11:49,600 --> 00:11:51,190
+do you make of this decision by the
+
+418
+00:11:51,200 --> 00:11:53,190
+Robinhood app to suspend
+
+419
+00:11:53,200 --> 00:11:55,990
+trading? [Gary] I mean, it's such a story, isn't
+
+420
+00:11:56,000 --> 00:11:57,350
+it? Who would have thought, finally the
+
+421
+00:11:57,360 --> 00:11:59,350
+thing to unite the political divide in the
+
+422
+00:11:59,360 --> 00:12:00,389
+US would be
+
+423
+00:12:00,399 --> 00:12:01,910
+the right of people to do wild
+
+424
+00:12:01,920 --> 00:12:03,590
+speculative gambling on the stock market.
+
+425
+00:12:03,600 --> 00:12:04,310
+Finally,
+
+426
+00:12:04,320 --> 00:12:05,829
+finally something that everybody can
+
+427
+00:12:05,839 --> 00:12:07,590
+agree on. Listen,
+
+428
+00:12:07,600 --> 00:12:09,269
+I would have loved to have been a fly on
+
+429
+00:12:09,279 --> 00:12:10,870
+the wall in that Robinhood head office
+
+430
+00:12:10,880 --> 00:12:12,230
+when they decided to suspend
+
+431
+00:12:12,240 --> 00:12:15,190
+trading. And there's lots of people
+
+432
+00:12:15,200 --> 00:12:16,230
+with lots of ideas about what's
+
+433
+00:12:16,240 --> 00:12:17,509
+happening. People are saying that,
+
+434
+00:12:17,519 --> 00:12:19,350
+yeah, it's owned by Citadel, and Citadel's
+
+435
+00:12:19,360 --> 00:12:21,430
+got powerful political connections, and
+
+436
+00:12:21,839 --> 00:12:24,069
+they don't want Wall Street to get hurt.
+
+437
+00:12:24,079 --> 00:12:25,829
+Listen, I can't tell you whether that's
+
+438
+00:12:25,839 --> 00:12:27,509
+what happened. I'm sure that Robinhood
+
+439
+00:12:27,519 --> 00:12:28,629
+themselves would say, "We're trying to
+
+440
+00:12:28,639 --> 00:12:30,629
+protect investors," or, "We have legitimate
+
+441
+00:12:30,639 --> 00:12:32,389
+financial reasons why we can't do it."
+
+442
+00:12:32,399 --> 00:12:34,870
+Listen, I guarantee you, there'll be
+
+443
+00:12:34,880 --> 00:12:36,389
+people on Wall Street that are not happy
+
+444
+00:12:36,399 --> 00:12:37,110
+about
+
+445
+00:12:37,120 --> 00:12:39,509
+[Gary] suddenly a huge amount of financial
+
+446
+00:12:39,519 --> 00:12:41,269
+market power being held by
+
+447
+00:12:41,279 --> 00:12:44,310
+random guys trading on Reddit.
+
+448
+00:12:44,320 --> 00:12:46,710
+But I wouldn't be able to tell you with
+
+449
+00:12:46,720 --> 00:12:47,910
+any certainty
+
+450
+00:12:47,920 --> 00:12:49,430
+whether there was actually a shady
+
+451
+00:12:49,440 --> 00:12:52,470
+meeting behind closed doors between
+
+452
+00:12:52,480 --> 00:12:54,389
+Wall Street bankers and politicians and
+
+453
+00:12:54,399 --> 00:12:56,470
+the guys who own Robinhood.
+
+454
+00:12:56,480 --> 00:12:57,750
+I would love to know more, and hopefully
+
+455
+00:12:57,760 --> 00:12:59,910
+Alexandria Ocasio-Cortez will
+
+456
+00:12:59,920 --> 00:13:01,670
+get her request for more information,
+
+457
+00:13:01,680 --> 00:13:03,269
+because the people on Reddit are
+
+458
+00:13:03,279 --> 00:13:04,389
+furious about it. And I can totally
+
+459
+00:13:04,399 --> 00:13:05,269
+understand. I mean,
+
+460
+00:13:05,279 --> 00:13:06,310
+they've got a massive position and
+
+461
+00:13:06,320 --> 00:13:07,430
+suddenly they can't trade. If it was me,
+
+462
+00:13:07,440 --> 00:13:09,190
+I'd be furious too. But
+
+463
+00:13:09,200 --> 00:13:11,030
+I wish I could tell you the exact
+
+464
+00:13:11,040 --> 00:13:12,790
+reasons, that there were some shady
+
+465
+00:13:12,800 --> 00:13:14,150
+dealings behind closed doors. I'm afraid
+
+466
+00:13:14,160 --> 00:13:16,389
+I don't know the truth.
+
+467
+00:13:16,399 --> 00:13:17,829
+[Michael] I want to talk now a bit more about
+
+468
+00:13:17,839 --> 00:13:20,069
+whether this phenomenon, which is sort of
+
+469
+00:13:20,079 --> 00:13:20,389
+like
+
+470
+00:13:20,399 --> 00:13:22,310
+individual retail traders,
+
+471
+00:13:22,320 --> 00:13:23,910
+individual people
+
+472
+00:13:23,920 --> 00:13:25,670
+in their bedrooms,
+
+473
+00:13:25,680 --> 00:13:27,269
+trading on the stock market but
+
+474
+00:13:27,279 --> 00:13:29,350
+talking to each other about it, could
+
+475
+00:13:29,360 --> 00:13:31,829
+transform capitalism in some way. Now,
+
+476
+00:13:31,839 --> 00:13:33,509
+there are lots of people saying,
+
+477
+00:13:33,519 --> 00:13:35,509
+discussing, quite rightly, that this sort
+
+478
+00:13:35,519 --> 00:13:37,990
+of adds an element of unpredictability
+
+479
+00:13:38,000 --> 00:13:39,670
+into the stock market. Because it's not
+
+480
+00:13:39,680 --> 00:13:40,069
+just
+
+481
+00:13:40,079 --> 00:13:42,710
+GameStop who have gone up in value, it's
+
+482
+00:13:42,720 --> 00:13:43,430
+lots of
+
+483
+00:13:43,440 --> 00:13:45,590
+other brands which were seen as not
+
+484
+00:13:45,600 --> 00:13:46,949
+having much of a future by
+
+485
+00:13:46,959 --> 00:13:48,310
+Wall Street. And they're often brands
+
+486
+00:13:48,320 --> 00:13:49,670
+which, you know, people have some
+
+487
+00:13:49,680 --> 00:13:51,350
+emotional connection to. So GameStop was
+
+488
+00:13:51,360 --> 00:13:52,550
+a shop people
+
+489
+00:13:52,560 --> 00:13:54,150
+shopped at in their childhood.
+
+490
+00:13:54,160 --> 00:13:55,350
+A bit like, you know, you think of
+
+491
+00:13:55,360 --> 00:13:56,310
+Blockbusters
+
+492
+00:13:56,320 --> 00:13:58,069
+[Michael] here. I know, you have Game. It wasn't
+
+493
+00:13:58,079 --> 00:13:59,509
+particularly meaningful to me.
+
+494
+00:13:59,519 --> 00:14:01,509
+Also, I think Nokia's doing quite well,
+
+495
+00:14:01,519 --> 00:14:03,030
+BlackBerry's doing quite well, there's a
+
+496
+00:14:03,040 --> 00:14:04,069
+cinema chain
+
+497
+00:14:04,079 --> 00:14:05,750
+in the United States that's doing
+
+498
+00:14:05,760 --> 00:14:07,110
+quite well, because people are piling in
+
+499
+00:14:07,120 --> 00:14:07,590
+money.
+
+500
+00:14:07,600 --> 00:14:09,590
+And one analysis is that this is sort of
+
+501
+00:14:09,600 --> 00:14:11,829
+basically, you know, it's kind of like
+
+502
+00:14:11,839 --> 00:14:14,069
+financial shitposting, in a way.
+
+503
+00:14:14,079 --> 00:14:15,590
+Other people, though, are arguing that
+
+504
+00:14:15,600 --> 00:14:18,230
+this distributed manner of investing
+
+505
+00:14:18,240 --> 00:14:19,670
+could itself be
+
+506
+00:14:19,680 --> 00:14:21,990
+a more efficient form of capitalism than
+
+507
+00:14:22,000 --> 00:14:23,350
+that which is managed on
+
+508
+00:14:23,360 --> 00:14:25,910
+Wall Street. And, to introduce this point,
+
+509
+00:14:25,920 --> 00:14:26,949
+I want to show you
+
+510
+00:14:26,959 --> 00:14:29,110
+a video which is of the CEO of Social
+
+511
+00:14:29,120 --> 00:14:31,670
+Capital, explaining, again, to CNBC,
+
+512
+00:14:31,680 --> 00:14:33,750
+why he thinks that Wall Street Bets is
+
+513
+00:14:33,760 --> 00:14:35,430
+not just an FU to the Wall Street
+
+514
+00:14:35,440 --> 00:14:37,110
+establishment. It is also that,
+
+515
+00:14:37,120 --> 00:14:39,189
+but that it's also the site of better
+
+516
+00:14:39,199 --> 00:14:40,790
+investments than what hedge funds
+
+517
+00:14:40,800 --> 00:14:43,269
+are capable of. [Chamath] And I would encourage
+
+518
+00:14:43,279 --> 00:14:44,230
+anybody who
+
+519
+00:14:44,240 --> 00:14:47,030
+is dismissive of this thing to go into
+
+520
+00:14:47,040 --> 00:14:48,790
+Wall Street Bets and actually just read
+
+521
+00:14:48,800 --> 00:14:49,590
+the forums.
+
+522
+00:14:49,600 --> 00:14:52,230
+And I think that you're going to see
+
+523
+00:14:52,240 --> 00:14:54,550
+three kinds of posts.
+
+524
+00:14:54,560 --> 00:14:56,629
+The first kind of content are a lot of
+
+525
+00:14:56,639 --> 00:14:57,750
+people doing some
+
+526
+00:14:57,760 --> 00:14:59,829
+incredible fundamental diligence on
+
+527
+00:14:59,839 --> 00:15:01,030
+companies,
+
+528
+00:15:01,040 --> 00:15:03,030
+trying to think about long-term value.
+
+529
+00:15:03,040 --> 00:15:04,949
+And, in my opinion, many of them are doing
+
+530
+00:15:04,959 --> 00:15:06,150
+as good, and, frankly,
+
+531
+00:15:06,160 --> 00:15:08,470
+a better job than a lot of hedge fund
+
+532
+00:15:08,480 --> 00:15:10,069
+analysts that I work with.
+
+533
+00:15:10,079 --> 00:15:12,790
+That's number one. The second are a lot
+
+534
+00:15:12,800 --> 00:15:13,990
+of people who believe
+
+535
+00:15:14,000 --> 00:15:16,710
+that, you know, coming out of 2008, what
+
+536
+00:15:16,720 --> 00:15:18,150
+happened was Wall Street took an
+
+537
+00:15:18,160 --> 00:15:19,990
+enormous amount of risk,
+
+538
+00:15:20,000 --> 00:15:22,550
+and they left retail as the bag holder.
+
+539
+00:15:22,560 --> 00:15:23,990
+And a lot of these kids
+
+540
+00:15:24,000 --> 00:15:25,590
+[Chamath] were in grade school and high school
+
+541
+00:15:25,600 --> 00:15:27,750
+when that happened. They lost their homes,
+
+542
+00:15:27,760 --> 00:15:29,829
+their parents lost their jobs. And
+
+543
+00:15:29,839 --> 00:15:31,590
+they've always wondered, like, why
+
+544
+00:15:31,600 --> 00:15:33,829
+did those folks get bailed out for
+
+545
+00:15:33,839 --> 00:15:35,670
+taking enormous amounts of risk,
+
+546
+00:15:35,680 --> 00:15:37,590
+and nobody helped, and showed up to help
+
+547
+00:15:37,600 --> 00:15:39,269
+my family?
+
+548
+00:15:39,279 --> 00:15:40,550
+And then the third thing is a
+
+549
+00:15:40,560 --> 00:15:43,350
+realisation that, instead of having
+
+550
+00:15:43,360 --> 00:15:46,710
+idea dinners, or, you know, quiet whispered
+
+551
+00:15:46,720 --> 00:15:48,710
+conversations amongst hedge funds in the
+
+552
+00:15:48,720 --> 00:15:49,590
+Hamptons,
+
+553
+00:15:49,600 --> 00:15:51,910
+these kids have the courage to do it
+
+554
+00:15:51,920 --> 00:15:53,829
+transparently in a forum. And I'm not
+
+555
+00:15:53,839 --> 00:15:55,590
+saying all of it is perfect
+
+556
+00:15:55,600 --> 00:15:58,870
+by any means. But I think it takes
+
+557
+00:15:58,880 --> 00:16:01,110
+an enormous amount of faith in the
+
+558
+00:16:01,120 --> 00:16:03,110
+system to be that transparent,
+
+559
+00:16:03,120 --> 00:16:04,870
+to talk about things, and then for each
+
+560
+00:16:04,880 --> 00:16:07,110
+individual to make their own mind up
+
+561
+00:16:07,120 --> 00:16:09,030
+and to do things, whether it's to buy
+
+562
+00:16:09,040 --> 00:16:11,189
+into...
+
+563
+00:16:11,199 --> 00:16:12,870
+[Michael] So, what I found quite interesting there
+
+564
+00:16:12,880 --> 00:16:14,629
+was this phrase, "the faith in the system."
+
+565
+00:16:14,639 --> 00:16:15,749
+You know, because most people are talking
+
+566
+00:16:15,759 --> 00:16:17,509
+about this as a deeply, you know,
+
+567
+00:16:17,519 --> 00:16:19,350
+anti-establishment movement, potentially
+
+568
+00:16:19,360 --> 00:16:20,870
+anti-capitalist.
+
+569
+00:16:20,880 --> 00:16:22,550
+What that commentator there was
+
+570
+00:16:22,560 --> 00:16:24,150
+suggesting was that, potentially,
+
+571
+00:16:24,160 --> 00:16:25,829
+this could reinvigorate capitalism. If
+
+572
+00:16:25,839 --> 00:16:27,269
+you've got all of these people
+
+573
+00:16:27,279 --> 00:16:29,430
+trading stocks in their bedrooms, who can
+
+574
+00:16:29,440 --> 00:16:30,629
+make, you know, collectively, more
+
+575
+00:16:30,639 --> 00:16:32,310
+efficient and more transparent decisions
+
+576
+00:16:32,320 --> 00:16:32,790
+than
+
+577
+00:16:32,800 --> 00:16:34,389
+hedge fund managers having quiet dinners
+
+578
+00:16:34,399 --> 00:16:36,150
+with each other, then potentially this
+
+579
+00:16:36,160 --> 00:16:36,550
+could,
+
+580
+00:16:36,560 --> 00:16:38,230
+you know, this could be a boost to
+
+581
+00:16:38,240 --> 00:16:40,230
+overall economic growth. Potentially, I
+
+582
+00:16:40,240 --> 00:16:41,430
+mean, you're almost looking at kind of,
+
+583
+00:16:41,440 --> 00:16:42,470
+you know,
+
+584
+00:16:42,480 --> 00:16:44,470
+democratic capitalism, but of the sort of
+
+585
+00:16:44,480 --> 00:16:45,670
+individualistic,
+
+586
+00:16:45,680 --> 00:16:48,230
+Thatcher kind, in a way. I mean, what do
+
+587
+00:16:48,240 --> 00:16:50,069
+you make of that, Gary? This idea
+
+588
+00:16:50,079 --> 00:16:52,389
+that actually these could be more
+
+589
+00:16:52,399 --> 00:16:53,990
+efficient investors
+
+590
+00:16:54,000 --> 00:16:55,910
+than the Wall Street brokers? So it's not
+
+591
+00:16:55,920 --> 00:16:57,670
+just a disruptive force, it could also be
+
+592
+00:16:57,680 --> 00:16:58,389
+a highly
+
+593
+00:16:58,399 --> 00:17:01,990
+efficient force? [Gary] I mean, I've spoken a lot
+
+594
+00:17:02,000 --> 00:17:02,870
+this year
+
+595
+00:17:02,880 --> 00:17:04,470
+about what we've seen in the last 10
+
+596
+00:17:04,480 --> 00:17:06,630
+years, because governments and central
+
+597
+00:17:06,640 --> 00:17:07,669
+banks have been trying to deal with
+
+598
+00:17:07,679 --> 00:17:09,270
+crises, like I say, by printing huge
+
+599
+00:17:09,280 --> 00:17:10,470
+amounts of money.
+
+600
+00:17:10,480 --> 00:17:13,110
+We've come to this position where, as I
+
+601
+00:17:13,120 --> 00:17:13,510
+say,
+
+602
+00:17:13,520 --> 00:17:14,870
+if the economy does well, stock markets
+
+603
+00:17:14,880 --> 00:17:16,789
+go up. If the economy does badly,
+
+604
+00:17:16,799 --> 00:17:18,069
+the central bank prints loads of money
+
+605
+00:17:18,079 --> 00:17:19,990
+and stock markets still go up. And we've
+
+606
+00:17:20,000 --> 00:17:21,669
+really had this divergence here. Whatever
+
+607
+00:17:21,679 --> 00:17:23,189
+happens, stock markets do well
+
+608
+00:17:23,199 --> 00:17:24,870
+and ordinary people do badly. And, you
+
+609
+00:17:24,880 --> 00:17:26,789
+know, I've put out videos on my Instagram
+
+610
+00:17:26,799 --> 00:17:28,390
+and on my Facebook, Gary's Economics,
+
+611
+00:17:28,400 --> 00:17:29,350
+explaining
+
+612
+00:17:29,360 --> 00:17:30,630
+how people can deal with this, because
+
+613
+00:17:30,640 --> 00:17:32,310
+when house prices and stock prices go
+
+614
+00:17:32,320 --> 00:17:34,070
+through the roof, but wages don't,
+
+615
+00:17:34,080 --> 00:17:35,590
+it really, really hurts, especially young
+
+616
+00:17:35,600 --> 00:17:37,510
+people, because they can't save up money,
+
+617
+00:17:37,520 --> 00:17:40,230
+they can't get a house. And
+
+618
+00:17:40,240 --> 00:17:42,070
+for this reason, I totally understand why
+
+619
+00:17:42,080 --> 00:17:43,750
+people have surged towards online
+
+620
+00:17:43,760 --> 00:17:44,950
+trading platforms
+
+621
+00:17:44,960 --> 00:17:47,350
+as an easier way to access stock markets,
+
+622
+00:17:47,360 --> 00:17:48,549
+because they want to get a share of the
+
+623
+00:17:48,559 --> 00:17:50,470
+returns that have largely been going to
+
+624
+00:17:50,480 --> 00:17:51,990
+the richest people, because most stocks
+
+625
+00:17:52,000 --> 00:17:53,590
+are owned by the richest people.
+
+626
+00:17:53,600 --> 00:17:55,190
+For that reason, especially in this last
+
+627
+00:17:55,200 --> 00:17:56,950
+year, we've seen a massive, massive uptick
+
+628
+00:17:56,960 --> 00:17:58,230
+in the number of people using online
+
+629
+00:17:58,240 --> 00:17:59,909
+trading accounts, like IG Index in this
+
+630
+00:17:59,919 --> 00:18:02,150
+country, Trading 212, this kind of thing.
+
+631
+00:18:02,160 --> 00:18:03,590
+And I think it's really important to
+
+632
+00:18:03,600 --> 00:18:05,510
+talk about this, because on the one hand,
+
+633
+00:18:05,520 --> 00:18:07,350
+it's important that ordinary people are
+
+634
+00:18:07,360 --> 00:18:08,950
+able to participate
+
+635
+00:18:08,960 --> 00:18:10,310
+in these markets and take some of the
+
+636
+00:18:10,320 --> 00:18:11,909
+returns that super-rich people are
+
+637
+00:18:11,919 --> 00:18:12,470
+getting.
+
+638
+00:18:12,480 --> 00:18:14,230
+But the truth is, if you're super-rich
+
+639
+00:18:14,240 --> 00:18:15,669
+and you've got £1 million, £2 million, £10
+
+640
+00:18:15,679 --> 00:18:16,710
+million,
+
+641
+00:18:16,720 --> 00:18:17,909
+you can make loads of money on the stock
+
+642
+00:18:17,919 --> 00:18:19,110
+markets. If you're an ordinary person
+
+643
+00:18:19,120 --> 00:18:21,270
+saving with £10,000, £20,000,
+
+644
+00:18:21,280 --> 00:18:22,470
+it's going to be very difficult for you
+
+645
+00:18:22,480 --> 00:18:25,430
+[Gary] to do that. And often these people, they
+
+646
+00:18:25,440 --> 00:18:27,270
+go onto these trading platforms, they
+
+647
+00:18:27,280 --> 00:18:28,870
+don't really have a full idea of what
+
+648
+00:18:28,880 --> 00:18:29,590
+they're doing.
+
+649
+00:18:29,600 --> 00:18:31,350
+Sometimes these trading platforms can
+
+650
+00:18:31,360 --> 00:18:33,029
+allow you to make very risky bets, and
+
+651
+00:18:33,039 --> 00:18:34,230
+people don't realise just how much risk
+
+652
+00:18:34,240 --> 00:18:35,590
+they're taking. And people can lose
+
+653
+00:18:35,600 --> 00:18:37,430
+all of the money they put in, potentially.
+
+654
+00:18:37,440 --> 00:18:39,830
+And I think 75% of people who use
+
+655
+00:18:39,840 --> 00:18:43,190
+this IG Index trading website lose money.
+
+656
+00:18:43,200 --> 00:18:45,430
+So I don't want to give the
+
+657
+00:18:45,440 --> 00:18:46,470
+impression this is some mad
+
+658
+00:18:46,480 --> 00:18:48,070
+democratising force, because, look, I'm a
+
+659
+00:18:48,080 --> 00:18:49,590
+market professional and I've made quite
+
+660
+00:18:49,600 --> 00:18:50,870
+a bit of money. And I make money when I'm
+
+661
+00:18:50,880 --> 00:18:52,549
+trading the stock markets. But if some guy
+
+662
+00:18:52,559 --> 00:18:53,909
+who doesn't know what he's doing
+
+663
+00:18:53,919 --> 00:18:55,590
+puts his life savings in there, he's
+
+664
+00:18:55,600 --> 00:18:57,510
+probably going to be in that 75%.
+
+665
+00:18:57,520 --> 00:19:00,630
+So I think the end result is,
+
+666
+00:19:00,640 --> 00:19:02,630
+I don't think we're gonna transform
+
+667
+00:19:02,640 --> 00:19:04,150
+capitalism and radically redistribute
+
+668
+00:19:04,160 --> 00:19:05,430
+wealth just by everybody becoming a
+
+669
+00:19:05,440 --> 00:19:08,310
+stock market trader, because, in the end,
+
+670
+00:19:08,320 --> 00:19:09,830
+the best stock market traders are going
+
+671
+00:19:09,840 --> 00:19:11,029
+to end up working for the wealthiest
+
+672
+00:19:11,039 --> 00:19:11,830
+people. And,
+
+673
+00:19:11,840 --> 00:19:13,990
+you know, if you're just an
+
+674
+00:19:14,000 --> 00:19:15,590
+electrician or a hairdresser sitting at
+
+675
+00:19:15,600 --> 00:19:15,990
+home
+
+676
+00:19:16,000 --> 00:19:17,430
+on the internet, you're probably not
+
+677
+00:19:17,440 --> 00:19:18,710
+going to quadruple your money. In fact,
+
+678
+00:19:18,720 --> 00:19:20,470
+you are likely to be in that 75%.
+
+679
+00:19:20,480 --> 00:19:23,110
+So, you know, it's very typical that the
+
+680
+00:19:23,120 --> 00:19:23,990
+way the world is
+
+681
+00:19:24,000 --> 00:19:25,830
+right now, you know, all this Wolf of Wall
+
+682
+00:19:25,840 --> 00:19:27,110
+Street, the idolisation of money and
+
+683
+00:19:27,120 --> 00:19:28,789
+trading. People think, well, we can reform
+
+684
+00:19:28,799 --> 00:19:30,870
+capitalism by all becoming traders.
+
+685
+00:19:30,880 --> 00:19:33,750
+But I think, in reality, the most likely
+
+686
+00:19:33,760 --> 00:19:35,590
+situation is the professionals will make
+
+687
+00:19:35,600 --> 00:19:36,710
+money, the people with the most
+
+688
+00:19:36,720 --> 00:19:38,230
+experience make money, and the ordinary
+
+689
+00:19:38,240 --> 00:19:38,710
+people
+
+690
+00:19:38,720 --> 00:19:42,150
+will be left with the losses.
+
+691
+00:19:42,160 --> 00:19:44,950
+[Michael] Well, that's a... well, it's a downbeat note to
+
+692
+00:19:44,960 --> 00:19:46,710
+end our coverage of this story.
+
+693
+00:19:46,720 --> 00:19:48,310
+Jane Hayward, with a fiver, says, "Great
+
+694
+00:19:48,320 --> 00:19:49,990
+story, great coverage, great
+
+695
+00:19:50,000 --> 00:19:52,150
+guest." I couldn't agree more. You've
+
+696
+00:19:52,160 --> 00:19:53,830
+been a great guest, Gary Stevenson.
+
+697
+00:19:53,840 --> 00:19:55,270
+Thank you so much for joining us this
+
+698
+00:19:55,280 --> 00:19:56,230
+evening. We'll definitely get you back
+
+699
+00:19:56,240 --> 00:19:57,510
+soon.
+
+700
+00:19:57,520 --> 00:19:59,510
+[Gary] If there's a housing crisis next, if the
+
+701
+00:19:59,520 --> 00:20:00,950
+housing bubble does pop, which actually
+
+702
+00:20:00,960 --> 00:20:02,149
+maybe wouldn't be a crisis, but...
+
+703
+00:20:02,159 --> 00:20:04,470
+[Michael] We'll save that conversation. Yes, yes, we
+
+704
+00:20:04,480 --> 00:20:05,590
+will. Until next time.
+
+705
+00:20:05,600 --> 00:20:05,990
+[Gary] Thanks so much, Michael.
+
+706
+00:20:06,000 --> 00:20:09,760
+Have a good day. [Michael] Nice one.
+
