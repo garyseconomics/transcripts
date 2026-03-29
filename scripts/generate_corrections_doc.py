@@ -39,8 +39,12 @@ import sys
 # PARSING
 # ============================================================
 
-def parse_vtt_raw(vtt_path):
+def parse_vtt_raw(vtt_path, is_auto=True):
     """Parse VTT and extract deduplicated cues with raw (uncorrected) text.
+
+    For auto-generated VTTs, applies deduplication (filters echo cues and
+    extracts only the new line from 2-line cues). For non-auto VTTs, joins
+    all text lines in each cue.
 
     Returns list of dicts: [{"start": str, "end": str, "text": str}, ...]
     """
@@ -74,14 +78,20 @@ def parse_vtt_raw(vtt_path):
             if m:
                 raw_cues.append((m.group(1), m.group(2), text_parts))
 
-    # Filter out 10ms echo cues
-    merged = []
-    for start, end, parts in raw_cues:
-        s_ms = _ts_to_ms(start)
-        e_ms = _ts_to_ms(end)
-        if (e_ms - s_ms) > 15:
-            new_text = parts[1] if len(parts) == 2 else parts[-1]
-            merged.append({"start": start, "end": end, "text": new_text})
+    if is_auto:
+        # Filter out 10ms echo cues and extract only the new line
+        merged = []
+        for start, end, parts in raw_cues:
+            s_ms = _ts_to_ms(start)
+            e_ms = _ts_to_ms(end)
+            if (e_ms - s_ms) > 15:
+                new_text = parts[1] if len(parts) == 2 else parts[-1]
+                merged.append({"start": start, "end": end, "text": new_text})
+    else:
+        # Non-auto transcript: join all text lines per cue
+        merged = []
+        for start, end, parts in raw_cues:
+            merged.append({"start": start, "end": end, "text": " ".join(parts)})
 
     return merged
 
@@ -283,7 +293,7 @@ def group_into_paragraphs(cues, max_words=200, min_words=50):
             current_ts = _ts_to_display(cue["start"])
 
         # Check for speaker label at start of this cue
-        has_speaker = bool(re.match(r"^\[(?:Gary|Luke|Zoe|Host|Guest)\]", text))
+        has_speaker = bool(re.match(r"^\[[^\]]+\]", text))
 
         # Check if previous paragraph should end
         should_break = False
@@ -485,8 +495,9 @@ def main():
     print()
 
     # Parse both files
+    is_auto = meta.get("is_automatic_transcript", True)
     print("Parsing files...")
-    orig_cues = parse_vtt_raw(vtt_path)
+    orig_cues = parse_vtt_raw(vtt_path, is_auto=is_auto)
     srt_cues = parse_srt(srt_path)
     print(f"  Original VTT: {len(orig_cues)} cues")
     print(f"  Reviewed SRT: {len(srt_cues)} cues")
@@ -524,7 +535,7 @@ def main():
             current_ts = _ts_to_display(cue["start"])
             current_start_ms = cue_ms
 
-        has_speaker = bool(re.match(r"^\[(?:Gary|Luke|Zoe|Host|Guest)\]", text))
+        has_speaker = bool(re.match(r"^\[[^\]]+\]", text))
         is_special = text.startswith("[Music]") or text.startswith("[Applause]")
 
         should_break = False
