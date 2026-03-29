@@ -2,8 +2,8 @@
 
 **Total transcripts:** 350
 **Manually reviewed:** 45
-**AI-reviewed:** 7
-**Not yet reviewed:** 298
+**AI-reviewed:** 8
+**Not yet reviewed:** 297
 
 ## Manually Reviewed Transcripts
 
@@ -59,7 +59,7 @@
 
 ## AI-Reviewed Transcripts
 
-7 transcripts have been AI-reviewed but not yet manually reviewed.
+8 transcripts have been AI-reviewed but not yet manually reviewed.
 
 | Reviewed File | Source Folder |
 |---------------|---------------|
@@ -70,12 +70,13 @@
 | `1YrDt8z0dKE__2021-01-29_COVID-19_and_Inequality.srt` | `2021-01-29-covid-19-inequality-why-the-rich-are-getting-richer-but-the-economy-will-not-recover` |
 | `-Je6ZcSnQuI__2021-01-30_GameStop_Why_Did_Reddit_Humiliate_Wall_Street.srt` *(multi-speaker)* | `2021-01-30-gamestop-why-did-reddit-humiliate-wall-street-gary-on-lbc-news-with-chris-golds` |
 | `8BzLx-6WNP8__2021-02-09_Making_Money_My_First_Bonus.srt` | `2021-02-09-making-money-my-first-bonus-investment-advice-a-warning` |
+| `Llrs7herILg__2022-02-27_Crypto_Internet_Points_Why_it_Wont_Make_You_Rich.srt` | `2022-02-27-crypto-internet-points-why-it-wont-make-you-rich` |
 
 Note: `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado_Toast.srt` has both an AI review and a manual review.
 
 ## Not Yet Reviewed
 
-299 transcripts have not been reviewed yet.
+298 transcripts have not been reviewed yet.
 
 | Transcript Folder |
 |-------------------|
@@ -132,7 +133,6 @@ Note: `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado
 | `2022-02-06-are-you-one-of-us-or-one-of-them` |
 | `2022-02-13-inflation-why-we-should-have-seen-this-coming` |
 | `2022-02-20-social-mobility-homelessness` |
-| `2022-02-27-crypto-internet-points-why-it-wont-make-you-rich` |
 | `2022-03-06-covid-the-economic-crisis-explained` |
 | `2022-03-13-why-energy-price-rises-punish-the-poor-reward-the-rich` |
 | `2022-03-20-telling-mps-to-tax-the-rich-on-the-bbc` |
