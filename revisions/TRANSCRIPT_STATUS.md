@@ -2,8 +2,8 @@
 
 **Total transcripts:** 350
 **Manually reviewed:** 45
-**AI-reviewed:** 10
-**Not yet reviewed:** 295
+**AI-reviewed:** 11
+**Not yet reviewed:** 294
 
 ## Manually Reviewed Transcripts
 
@@ -59,7 +59,7 @@
 
 ## AI-Reviewed Transcripts
 
-10 transcripts have been AI-reviewed but not yet manually reviewed.
+11 transcripts have been AI-reviewed but not yet manually reviewed.
 
 | Reviewed File | Source Folder |
 |---------------|---------------|
@@ -73,12 +73,13 @@
 | `Llrs7herILg__2022-02-27_Crypto_Internet_Points_Why_it_Wont_Make_You_Rich.srt` | `2022-02-27-crypto-internet-points-why-it-wont-make-you-rich` |
 | `FvOa5EmckHE__2020-08-22_I_Made_Millions_from_the_Financial_Crisis.srt` *(multi-speaker)* | `2020-08-22-i-made-millions-from-the-financial-crisis-trust-me-the-system-is-broken-gary-on-ae-podcast` |
 | `ua3YbjkSJSo__2021-01-31_Gamestop_A_Detailed_Breakdown_Reddit_Vs_Wall_St_Gary_On.srt` *(multi-speaker)* | `2021-01-31-gamestop-a-detailed-breakdown-reddit-vs-wall-st-gary-on-novara-media-with-micheal-walker` |
+| `1MBnsl6p5LY__2021-11-25_Ilford_Hometown_Glory.srt` *(multi-speaker)* | `2021-11-25-ilford-hometown-glory` |
 
 Note: `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado_Toast.srt` has both an AI review and a manual review.
 
 ## Not Yet Reviewed
 
-296 transcripts have not been reviewed yet.
+295 transcripts have not been reviewed yet.
 
 | Transcript Folder |
 |-------------------|
@@ -114,7 +115,6 @@ Note: `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado
 | `2021-11-07-mortgage-interest-rates-the-basics` |
 | `2021-11-14-what-is-wealth-conversationofmoney-podcast` |
 | `2021-11-18-railways-refugees-jeremy-kyles-talkradio-political-panel` |
-| `2021-11-25-ilford-hometown-glory` |
 | `2021-11-29-autumn-budget-analysis-2021-conversationofmoney-podcast` |
 | `2021-12-01-gary-destroys-billionaire-defender-on-cristos-talkradio-political-panel` |
 | `2021-12-05-vaccinations-nhs-lists-royalty-celebrities-child-abuse-times-radio-news-review` |
