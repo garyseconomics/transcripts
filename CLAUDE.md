@@ -39,6 +39,34 @@ The full process for getting transcripts reviewed and into production:
 
 5. **Export to chatbot repo** — The final reviewed SRT is copied to [`garyseconomics/chatbot/docs/video_transcripts/to_be_imported`](https://github.com/garyseconomics/chatbot/tree/main/docs/video_transcripts/to_be_imported).
 
+## Helper scripts
+
+Two scripts in `scripts/` automate the mechanical parts of the review process. Run the first to get a head start on the SRT, then do manual corrections, then run the second to generate the volunteer document.
+
+### Step 1: `scripts/review_transcript.py`
+
+Parses a raw VTT, applies all systematic corrections (garbled words, British English, proper nouns, fillers, stutters, capitalisation), and outputs a clean SRT.
+
+```bash
+python3 scripts/review_transcript.py <transcript_folder_name>
+python3 scripts/review_transcript.py 2020-08-22-i-made-millions-... --dry-run
+```
+
+The output SRT still needs manual work by the AI reviewer:
+- Read through for **context-dependent garbled words** (names, phrasing that only makes sense in context)
+- Add **punctuation** (periods, commas, question marks)
+- Add **speaker labels** for multi-speaker videos and move the file to `multi_speaker/`
+- Remove **end-of-video fragments**
+- Update `revisions/TRANSCRIPT_STATUS.md`
+
+### Step 2: `scripts/generate_corrections_doc.py`
+
+Compares a reviewed SRT with its source VTT and generates the corrections markdown for volunteers. Automatically finds the source VTT by YouTube ID, computes word-level diffs, groups into paragraphs, and marks changes with bold/strikethrough.
+
+```bash
+python3 scripts/generate_corrections_doc.py revisions/1_AI_reviewed/FvOa5EmckHE__2020-08-22_....srt
+```
+
 ## Exporting VTT to SRT
 
 When asked to export a reviewed `.vtt` to `.srt`, apply these format changes:
