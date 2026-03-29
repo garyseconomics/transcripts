@@ -1,5 +1,1 @@
-_site
-.tmp/
-vendor/bundle
-.bundle
-.claude/
+scripts/__pycache__/
