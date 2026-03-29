@@ -2,8 +2,8 @@
 
 **Total transcripts:** 350
 **Manually reviewed:** 45
-**AI-reviewed:** 8
-**Not yet reviewed:** 297
+**AI-reviewed:** 9
+**Not yet reviewed:** 296
 
 ## Manually Reviewed Transcripts
 
@@ -59,7 +59,7 @@
 
 ## AI-Reviewed Transcripts
 
-8 transcripts have been AI-reviewed but not yet manually reviewed.
+9 transcripts have been AI-reviewed but not yet manually reviewed.
 
 | Reviewed File | Source Folder |
 |---------------|---------------|
@@ -71,16 +71,16 @@
 | `-Je6ZcSnQuI__2021-01-30_GameStop_Why_Did_Reddit_Humiliate_Wall_Street.srt` *(multi-speaker)* | `2021-01-30-gamestop-why-did-reddit-humiliate-wall-street-gary-on-lbc-news-with-chris-golds` |
 | `8BzLx-6WNP8__2021-02-09_Making_Money_My_First_Bonus.srt` | `2021-02-09-making-money-my-first-bonus-investment-advice-a-warning` |
 | `Llrs7herILg__2022-02-27_Crypto_Internet_Points_Why_it_Wont_Make_You_Rich.srt` | `2022-02-27-crypto-internet-points-why-it-wont-make-you-rich` |
+| `FvOa5EmckHE__2020-08-22_I_Made_Millions_from_the_Financial_Crisis.srt` *(multi-speaker)* | `2020-08-22-i-made-millions-from-the-financial-crisis-trust-me-the-system-is-broken-gary-on-ae-podcast` |
 
 Note: `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado_Toast.srt` has both an AI review and a manual review.
 
 ## Not Yet Reviewed
 
-298 transcripts have not been reviewed yet.
+297 transcripts have not been reviewed yet.
 
 | Transcript Folder |
 |-------------------|
-| `2020-08-22-i-made-millions-from-the-financial-crisis-trust-me-the-system-is-broken-gary-on-ae-podcast` |
 | `2021-01-31-gamestop-a-detailed-breakdown-reddit-vs-wall-st-gary-on-novara-media-with-micheal-walker` |
 | `2021-02-01-gamestop-how-reddit-users-exposed-wall-street-gary-on-joe-with-wayne-farry` |
 | `2021-02-02-gamestop-a-simple-summary-gary-on-the-listen-evening-standard-podcast-with-david-marsland` |
