@@ -35,7 +35,10 @@ The full process for getting transcripts reviewed and into production:
 
 3. **Volunteers review** — Volunteers watch the video, read along with the corrections document, and edit it where they spot issues. They send the edited file back (by email, most likely).
 
-4. **AI incorporates volunteer revisions** — We place the edited files in a local folder and ask the AI to apply the volunteer's changes to the already-reviewed SRT transcript. The final result goes in `revisions/3_volunteer_reviewed/`.
+4. **AI incorporates volunteer revisions** — The volunteer's edited file is placed in `revisions/3_volunteer_reviewed/` (typically `.txt` or `.md`). The AI then:
+   1. **Generates a changes review document** — Compares the volunteer's edits against the corrections document that was sent to them (in `revisions/2_To_be_reviewed_by_volunteers/done/`). Produces a `.md` file showing the final text with only the volunteer's changes highlighted: **bold** for additions, ~~strikethrough~~ for removals. This lets us visually check what the volunteer changed before applying anything.
+      - Volunteer markup convention: `//added text//` = volunteer added this, `\\removed text\\` = volunteer removed this.
+   2. **Applies approved changes to the SRT** — After the review document is checked, the AI applies the accepted volunteer changes to the AI-reviewed SRT (from `revisions/1_AI_reviewed/`), producing the final SRT in `revisions/3_volunteer_reviewed/`.
 
 5. **Export to chatbot repo** — The final reviewed SRT is copied to [`garyseconomics/chatbot/docs/video_transcripts/to_be_imported`](https://github.com/garyseconomics/chatbot/tree/main/docs/video_transcripts/to_be_imported).
 
