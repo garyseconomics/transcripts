@@ -1,16 +1,18 @@
 # Transcript Review Status
 
 **Total transcripts:** 350
-**Manually reviewed:** 45
-**AI-reviewed:** 11
+**Manually reviewed:** 47
+**AI-reviewed:** 9
 **Not yet reviewed:** 294
 
 ## Manually Reviewed Transcripts
 
-45 transcripts have been manually reviewed and matched to their source folder.
+47 transcripts have been manually reviewed and matched to their source folder.
 
 | Reviewed File | Source Folder |
 |---------------|---------------|
+| `RMlfcVUajd0__2020-07-15_Why_Jeremy_Hunt_Doesnt_Pay_Stamp_Duty.srt` *(volunteer-reviewed, multi-speaker)* | `2020-07-15-why-jeremy-hunt-doesnt-pay-stamp-duty-gary-on-bbc-radio-4-today-show-with-nick-robinson` |
+| `8BzLx-6WNP8__2021-02-09_Making_Money_My_First_Bonus.srt` *(volunteer-reviewed)* | `2021-02-09-making-money-my-first-bonus-investment-advice-a-warning` |
 | `GpYBEG_2egc__2021-12-30_Why_Do_Newspapers_Want_you_to_Stop_Buying_Avocado_Toast.srt` | `2021-12-30-why-do-newspapers-want-you-to-stop-buying-avocado-toast` |
 | `UBXhLrQoUKg__2024-01-21_Rent_Profits_Interest.srt` | `2024-01-21-rent-profit-and-interest-are-all-the-same` |
 | `wF3A4JyS8OQ__2024-02-11_Channel_Update.srt` | `2024-02-11-we-just-hit-100k-subscribers` |
@@ -59,17 +61,15 @@
 
 ## AI-Reviewed Transcripts
 
-11 transcripts have been AI-reviewed but not yet manually reviewed.
+9 transcripts have been AI-reviewed but not yet manually reviewed.
 
 | Reviewed File | Source Folder |
 |---------------|---------------|
-| `RMlfcVUajd0__2020-07-15_Why_Jeremy_Hunt_Doesnt_Pay_Stamp_Duty.srt` *(multi-speaker)* | `2020-07-15-why-jeremy-hunt-doesnt-pay-stamp-duty-gary-on-bbc-radio-4-today-show-with-nick-robinson` |
 | `MHFD7PyEiIg__2020-07-22_Millionaires_For_Humanity.srt` *(multi-speaker)* | `2020-07-22-millionaires-for-humanity-gary-on-lbc-with-ian-payne` |
 | `PkMaglDTyJs__2020-10-26_Will_We_Pay_Back_the_Government_Debt.srt` *(multi-speaker)* | `2020-10-26-will-we-pay-back-the-government-debt-gary-stevenson-on-lbc-with-tom-swarbrick` |
 | `3Qlygh4N8nY__2020-12-11_Who_Pays_for_This_Crisis.srt` *(multi-speaker)* | `2020-12-11-who-pays-for-this-crisis-rishi-sunak-or-you-gary-on-talkradio-with-ian-collins` |
 | `1YrDt8z0dKE__2021-01-29_COVID-19_and_Inequality.srt` | `2021-01-29-covid-19-inequality-why-the-rich-are-getting-richer-but-the-economy-will-not-recover` |
 | `-Je6ZcSnQuI__2021-01-30_GameStop_Why_Did_Reddit_Humiliate_Wall_Street.srt` *(multi-speaker)* | `2021-01-30-gamestop-why-did-reddit-humiliate-wall-street-gary-on-lbc-news-with-chris-golds` |
-| `8BzLx-6WNP8__2021-02-09_Making_Money_My_First_Bonus.srt` | `2021-02-09-making-money-my-first-bonus-investment-advice-a-warning` |
 | `Llrs7herILg__2022-02-27_Crypto_Internet_Points_Why_it_Wont_Make_You_Rich.srt` | `2022-02-27-crypto-internet-points-why-it-wont-make-you-rich` |
 | `FvOa5EmckHE__2020-08-22_I_Made_Millions_from_the_Financial_Crisis.srt` *(multi-speaker)* | `2020-08-22-i-made-millions-from-the-financial-crisis-trust-me-the-system-is-broken-gary-on-ae-podcast` |
 | `ua3YbjkSJSo__2021-01-31_Gamestop_A_Detailed_Breakdown_Reddit_Vs_Wall_St_Gary_On.srt` *(multi-speaker)* | `2021-01-31-gamestop-a-detailed-breakdown-reddit-vs-wall-st-gary-on-novara-media-with-micheal-walker` |
