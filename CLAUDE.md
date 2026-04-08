@@ -84,147 +84,25 @@ When asked to export a reviewed `.vtt` to `.srt`, apply these format changes:
 
 ## Reviewing a VTT transcript
 
-When asked to review a `.vtt` file, first check `meta.json` for the `is_automatic_transcript` field. Auto-generated transcripts (`true`) require extensive correction — garbled words, missing punctuation, wrong capitalisation, and filler words throughout. Non-automatic transcripts (`false`) are typically already clean and may need only format conversion.
+See [transcript_correction_instructions.md](transcript_correction_instructions.md) for
+the full correction instructions (garbled words, punctuation, British English,
+capitalisation, speaker identification, etc.).
 
-Read the entire file and fix the following categories of errors, ordered by importance:
+## Review sources
 
-### 1. Garbled words and mishearings
+Two sources of manually reviewed transcripts exist in `revisions/`:
+- **Agency** — most transcripts were corrected by an agency following Gary's team
+  instructions. Their approach is the gold standard and takes precedence.
+- **Volunteer** — some transcripts (e.g., Avocado Toast 2021-12-30) were done by
+  volunteers, whose approach differs (e.g., preserves fillers, no punctuation added).
 
-Auto-transcription often mangles proper nouns, economic terminology, and multi-word phrases into similar-sounding nonsense. These are the highest-priority fixes because they destroy meaning.
+When resolving conflicting approaches, always follow the agency's pattern. The agency
+removes fillers and adds full punctuation; some volunteers preserved fillers and added
+no punctuation.
 
-**Names are the most severely mangled category.** A single name can be garbled differently each time it appears. Always cross-reference names against `meta.json` (title, description) and common figures in UK politics and economics.
+## Conventions
 
-Examples of garbled names from past reviews:
-- "Um Karma" / "Kisarma" / "Kistama" / "Karma" → "Keir Starmer"
-- "Mark Cary" / "Mark car" → "Mark Carney"
-- "British Senate" / "that" → "Rishi Sunak"
-- "a golden sack" → "Goldman Sachs"
-- "LSC" → "LSE"
-- "Christian G Murphy" → "Krishna Guru-Murthy"
-- "macaron" → "Macron"
-- "Freriedman" → "Friedman"
-- "the same bat" → "Usain Bolt"
-
-Examples of garbled economic and political terms:
-- "well through equality" → "wealth inequality"
-- "how's price" → "house price"
-- "living stands" / "living stand" → "living standards"
-- "rates attack" → "rates of tax"
-- "spread Bank platform" → "spread betting platform"
-- "through the room" → "through the roof"
-- "bifocated" → "bifurcated"
-- "Co" / "Co model" → "COVID" / "COVID model"
-
-Examples of other garbled phrases:
-- "you w Inn anything" → "you won't own anything"
-- "well our families" → "well off families"
-- "Master economics" → "maths or economics"
-- "pum" → "palladium"
-- "10 million1 million p in assets" → "£10 million, £100 million in assets"
-
-**How to catch these:** Read each sentence for meaning. If a phrase doesn't make sense in context, sound it out and figure out what was actually said. Pay special attention to:
-- Names of politicians, economists, institutions, and think tanks (Keir Starmer, Mark Carney, Goldman Sachs, IEA, Bank of England, LSE, etc.)
-- Economic terms (quantitative easing, fiscal policy, wealth inequality, national insurance, living standards, etc.)
-- British place names, media outlets, and cultural references (Channel 4, LBC, GB News, Novara Media, etc.)
-
-### 2. Punctuation
-
-Auto-generated transcripts have little or no punctuation. Add punctuation to make the text readable:
-
-- **Periods** at sentence boundaries. The auto-transcript often runs sentences together — split them with periods and capitalise the next word.
-- **Commas** at clause boundaries, after introductory words ("So,", "Now,", "Today,"), around parenthetical phrases ("Dave, in the comments,"), in lists ("rent, mortgage, food, bills"), and before conjunctions joining independent clauses.
-- **Question marks** on all questions ("Why are living standards collapsing?").
-- **Ellipsis** (...) when Gary trails off mid-thought or pauses before changing direction ("if you go to... I mean,").
-- **Quotation marks** around quoted speech or when Gary is voicing someone else's words ("Why don't you do something?").
-
-### 3. British English
-
-Gary is British. The auto-transcription sometimes americanises his speech.
-- "mom" → "mum"
-- "labor" → "Labour" (also a proper noun — always capitalised)
-- "realize" → "realise", "recognize" → "recognise", "criticize" → "criticise"
-- "depoliticizing" → "depoliticising", "systemized" → "systemised"
-- "math" → "maths"
-
-### 4. Missing or dropped words
-
-Auto-transcription often drops small words that are needed for the sentence to be grammatically correct or faithful to what was said.
-- Missing articles: "the media", "the other day"
-- Missing prepositions: "was for younger generations" not "was the younger generation", "growth in inequality" not "growth inequality"
-- Missing pronouns: "where I hope I'll convince you" not "where hope I'll convince you"
-- Missing words that complete a phrase: "£500,000 flat in London" not "£500,000 in London"
-
-### 5. Capitalisation
-
-Auto-transcription frequently gets capitalisation wrong — capitalising common nouns mid-sentence and failing to capitalise proper nouns.
-
-**Capitalise:**
-- Sentence beginnings
-- Politicians and public figures: Keir Starmer, Rishi Sunak, Mark Carney, Nigel Farage
-- Political parties: Labour, Conservative, Reform (when referring to the party)
-- Institutions: Bank of England, Goldman Sachs, LSE, Financial Times
-- Titles of works and video titles: "The Rest Is Politics", "The Squeeze Out"
-- Historical events: Second World War, COVID
-- "Prime Minister" when used as a title
-
-**Lowercase:**
-- Common nouns the VTT incorrectly capitalises: trader, university, pub, boom, millionaire, financial, rising
-- General adjectives: "modern age" not "Modern Age", "general concept" not "General concept"
-
-### 6. Filler words and speech disfluencies
-
-Remove filler words and speech disfluencies. The transcript should be clean and readable.
-
-- **Remove** "um", "uh" throughout
-- **Remove** stuttered repetitions: "this is this is not" → "this is not", "they can they can" → "they can", "I'm not I'm not talking" → "I'm not talking"
-- **Remove** stuttered words: "and and you will" → "and you will", "of of the rest" → "of the rest"
-- **Keep** "you know" only when it functions as a rhetorical aside, and set it off with commas: "you know,"
-- Use informal contractions when spoken: "wanna" not "want to", "gonna" not "going to" — but only where they were clearly spoken that way
-
-### 7. Formatting
-
-**Currency:** Add the £ symbol where Gary is clearly talking about British pounds: "10 million" → "£10 million", "100,000" → "£100,000".
-
-**Numbers:** Spell out small numbers in running speech where it reads more naturally: "5 years" → "five years". Keep large or precise figures as digits: "£500,000", "90%".
-
-**Hyphens:** Use hyphens for compound modifiers and standard compounds: left-wing, far-right, working-class, well-funded, loss-making, UK-specific, hand-wringing.
-
-**"the Beatles" rule:** Lowercase "the" in band/organisation names when it's part of running text: "the Beatles", "the Financial Times", "the Bank of England".
-
-### 8. Minor phrasing accuracy
-
-- "right" vs "alright" — use whichever was actually spoken
-- "cause" vs "because" — use the informal version if that's what was said
-- Preserve the exact phrasing even if grammatically imperfect — this is speech, not writing
-
-### 9. Speaker identification
-
-Some videos feature guests — interviews, podcast appearances, or panel discussions. Identify whether the transcript has more than one speaker.
-
-**How to detect multiple speakers:**
-- Check `meta.json` for clues: the `fulltitle` and `description` often name guests or hosts (e.g., "Gary on LBC with Tom Swarbrick", "Gary on Novara Media with Michael Walker").
-- Read the transcript for conversational patterns: questions followed by answers, changes in perspective or tone, introductions ("thanks for joining us"), and turn-taking cues.
-
-**If the transcript has multiple speakers:**
-- Add speaker labels to each cue using the format `[Speaker Name] text goes here`. Use the speaker's real name when known from `meta.json`, or `[Host]`/`[Guest]` as a fallback.
-- Gary Stevenson should always be labelled as `[Gary]`.
-- Place the reviewed file in `revisions/1_AI_reviewed/multi_speaker/` instead of `revisions/1_AI_reviewed/`. These files need human review to verify that speaker turns are attributed correctly.
-
-**Repeat labels for long stretches:** The transcripts are chunked at 1024 tokens for the vector database. If a single speaker talks for longer than ~1000 tokens without a label, insert a reminder label (e.g., `[Gary]`) at the start of a cue near that boundary so every chunk has speaker attribution.
-
-**If the transcript has only one speaker (Gary):** no labels are needed.
-
-### 10. End-of-video fragments
-
-YouTube videos often include short preview clips of other videos at the end (the "watch next" end screen). These appear in the transcript as disconnected fragments after the main video content ends — typically after a natural sign-off or closing statement. **Remove these cues entirely.** They are not part of the video's actual content.
-
-**How to spot them:** Look for an abrupt topic change or jump in timestamps near the end of the transcript, especially after the speaker has clearly wrapped up (e.g., "let's make things change," "share the message"). The fragments often lack context and may reference completely different subjects.
-
-### General principles
-
-- **Do not change timestamps.** Only fix the text content.
-- **Do not reformat or restructure cues.** Keep the same cue boundaries.
-- **Preserve `&nbsp;` spacing** if present in the original VTT.
-- **When uncertain, prefer the reading that makes more semantic sense** in the context of economics and British current affairs.
-- **Read surrounding context** before correcting — a word that looks wrong in isolation may make sense in the full sentence across cue boundaries.
+- **No row numbers in `TRANSCRIPT_STATUS.md`** — numbered rows require rewriting the
+  entire file when a transcript is added. Use unnumbered rows, keep counts in the
+  summary stats at the top.
 
