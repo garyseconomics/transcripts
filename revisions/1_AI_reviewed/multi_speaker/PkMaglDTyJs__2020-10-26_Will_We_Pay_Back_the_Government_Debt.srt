@@ -1,0 +1,836 @@
+1
+00:00:03,840 --> 00:00:08,150
+[Tom] Eight minutes past ten. Gary Stevenson is
+an economist who focuses on inequality,
+
+2
+00:00:08,160 --> 00:00:13,190
+a former trader who retired from the
+City as a multi-millionaire,
+
+3
+00:00:13,200 --> 00:00:18,870
+aged 27, after correctly predicting that
+the 2008 financial crash
+
+4
+00:00:18,880 --> 00:00:22,470
+would happen. Mr Stevenson, thank you for
+joining the programme tonight.
+
+5
+00:00:22,480 --> 00:00:24,710
+[Gary] Thanks for having me, Tom.
+
+6
+00:00:24,720 --> 00:00:27,109
+[Tom] Who's going to pay for all of this?
+
+7
+00:00:27,119 --> 00:00:30,950
+[Gary] Well, you said a very interesting thing
+in your introduction, which was that
+
+8
+00:00:30,960 --> 00:00:34,389
+we're breaking all the rules this time,
+and I think that really
+
+9
+00:00:34,399 --> 00:00:38,709
+sums up quite well, because what is
+happening right now with
+
+10
+00:00:38,719 --> 00:00:43,430
+government borrowing is very, very
+different from what normally happens
+with government borrowing.
+
+11
+00:00:43,440 --> 00:00:48,549
+Now normally, when the government needs
+money, it goes out and borrows from wealthy
+investors,
+
+12
+00:00:48,559 --> 00:00:53,350
+pension funds, maybe foreign governments.
+This time, that's not happening.
+
+13
+00:00:53,360 --> 00:00:57,990
+All the money that the government has
+borrowed to deal with the COVID crisis
+so far
+
+14
+00:00:58,000 --> 00:01:02,709
+has been borrowed from the Bank of
+England. And the Bank of England, as you
+know,
+
+15
+00:01:02,719 --> 00:01:06,789
+is essentially a government institution,
+an independent one,
+
+16
+00:01:06,799 --> 00:01:13,030
+but it is one. The Bank of England has
+got this money by printing it.
+
+17
+00:01:13,040 --> 00:01:16,149
+And that's what's taking a bit of time to
+think about here.
+
+18
+00:01:16,159 --> 00:01:22,630
+You know, this is literally quantitative
+easing, right? We're just
+printing the cash to keep the cash coming.
+
+19
+00:01:22,640 --> 00:01:26,230
+[Tom] Yeah, exactly. The Bank of England...
+but the Bank of England is printing money,
+
+20
+00:01:26,240 --> 00:01:31,030
+just like it did after 2008, but this
+time the amount of money the Bank of
+England is printing
+
+21
+00:01:31,040 --> 00:01:35,270
+is pretty much exactly the same as the
+amount of money the government is
+spending.
+
+22
+00:01:35,280 --> 00:01:38,310
+Which means essentially all of this
+money is coming from
+
+23
+00:01:38,320 --> 00:01:41,910
+government printing. Now, that puts us in
+a very interesting situation.
+
+24
+00:01:41,920 --> 00:01:46,950
+[Gary] It is, as you say, breaking all the rules.
+When you start funding with printed
+money,
+
+25
+00:01:46,960 --> 00:01:50,069
+it really raises the question:
+do you pay it back?
+
+26
+00:01:50,079 --> 00:01:54,069
+[Tom] Yep.
+
+[Gary] Because the government here is...
+it's printing the money.
+
+27
+00:01:54,079 --> 00:01:57,429
+It's borrowing it from the Bank of
+England, but the Bank of England is
+printing it.
+
+28
+00:01:57,439 --> 00:02:01,590
+And in the past, whenever we've seen
+governments do this, the money does not
+get paid back.
+
+29
+00:02:01,600 --> 00:02:08,389
+And interestingly, the money does not
+have to be paid back, because the money
+is being borrowed from another branch of
+government.
+
+30
+00:02:08,399 --> 00:02:12,710
+You don't have to pay any interest on it,
+and in all the time this has been done
+in the past,
+
+31
+00:02:12,720 --> 00:02:18,390
+we've been doing it for more than ten
+years now, many countries have.
+When it has come to maturity, the central
+
+32
+00:02:18,400 --> 00:02:22,470
+bank has said, "Okay, have another ten
+years," and they've continued to allow
+it to be extended. So, you know,
+
+33
+00:02:23,680 --> 00:02:27,750
+really, what is a debt if you don't have
+to pay any interest and you never have
+to pay it back?
+
+34
+00:02:27,760 --> 00:02:35,040
+[Tom] So, yes, it depends, I guess, what
+proportion of the amount that we are
+borrowing, at nearly a billion quid a
+day,
+
+35
+00:02:35,360 --> 00:02:39,030
+is being done through the printing of
+money by the Bank of England. Because
+
+36
+00:02:39,040 --> 00:02:44,229
+the country does borrow, and it's a
+question that a lot of people, I think,
+ask perfectly legitimately when we talk
+about government borrowing.
+
+37
+00:02:46,239 --> 00:02:51,110
+Who are they going to borrow the
+money from? Who do they ring up to say,
+"Okay, can you put the money in my account
+
+38
+00:02:51,120 --> 00:02:55,430
+by Thursday?" You know, the £258 billion
+that are being borrowed.
+
+39
+00:02:55,440 --> 00:03:00,710
+And it's normally, as you say, pension
+funds and other nations.
+
+40
+00:03:00,720 --> 00:03:04,390
+But this time you say that's not
+happening, it's coming from a different
+source. And the source...
+
+41
+00:03:04,400 --> 00:03:08,869
+[Gary] Yeah, this time it's... yeah, it really
+matches really well. The amount of
+money the government's borrowing
+
+42
+00:03:08,879 --> 00:03:13,430
+in this crisis, the amount of money it's
+spending, its deficit spending, to help
+deal with COVID,
+
+43
+00:03:13,440 --> 00:03:17,509
+is almost exactly the same as the amount
+of money that the central bank is
+printing, which in this case I think is
+
+44
+00:03:17,519 --> 00:03:23,990
+£300 billion. An enormous amount of money.
+I think that works out something like
+£5,000 per person in the country.
+
+45
+00:03:24,000 --> 00:03:29,750
+Huge amount of money. So it's being
+printed by the central bank, which is
+essentially part of the government.
+
+46
+00:03:29,760 --> 00:03:34,949
+What that means is it will not be paid
+back. Yeah, I used to work in financial
+markets, I still talk to people in
+
+47
+00:03:34,959 --> 00:03:39,750
+financial markets. Everyone in financial
+markets knows that money is not being
+paid back.
+
+48
+00:03:39,760 --> 00:03:43,910
+Really, which raises the question: why
+don't governments do this all the time?
+
+49
+00:03:43,920 --> 00:03:47,430
+[Tom] So, hang on a second. So, Gary,
+you're saying that the people that
+you're speaking to,
+
+50
+00:03:47,440 --> 00:03:52,789
+the... you're now presumably retired from
+at the age of 30 — my God, I need to
+ask you about that in a minute —
+
+51
+00:03:52,799 --> 00:03:57,910
+but that all the finance guys down in
+the City, they're all saying to
+
+52
+00:03:57,920 --> 00:04:00,229
+you, "Gary, this is never going to be
+paid off." This is just not going to
+happen?
+
+53
+00:04:00,239 --> 00:04:04,149
+[Gary] Yeah. They stopped looking at
+government debt. What they look at now is
+government debt
+
+54
+00:04:04,159 --> 00:04:10,309
+minus the amount borrowed from the
+central bank, because nobody ever expects
+that to be paid back.
+
+55
+00:04:10,319 --> 00:04:13,990
+Which raises the question: what is going
+to happen?
+
+[Tom] Yeah, what are the consequences of it?
+
+56
+00:04:14,000 --> 00:04:18,390
+[Gary] Yeah, quite. And I think really the
+interesting question is what does that
+mean, because,
+
+57
+00:04:18,400 --> 00:04:24,629
+like you say, we're breaking all the
+rules here. We're doing huge amounts of
+deficit spending funded by printed money,
+
+58
+00:04:24,639 --> 00:04:30,950
+and we really need to ask... I mean, the
+question which people are asking, "How do
+you pay it back?" — that's the wrong
+question.
+
+59
+00:04:30,960 --> 00:04:37,670
+The question is: what are the
+consequences of printing such huge
+amounts of money to fund a government
+deficit? That is the question we need to
+ask.
+
+60
+00:04:37,680 --> 00:04:42,390
+[Tom] And what would be your answer?
+
+61
+00:04:42,400 --> 00:04:48,950
+[Gary] Well, you need to look at what happens to
+the money. You know, the reason
+governments don't normally do this is
+because it leads to a huge increase in
+the money supply,
+
+62
+00:04:48,960 --> 00:04:53,909
+and that has an effect on the economy. So
+in this crisis, what's happened is, you
+know, a lot of
+
+63
+00:04:53,919 --> 00:04:57,909
+ordinary people have lost their income,
+they've lost their jobs and they're
+losing money. But if you
+
+64
+00:04:57,919 --> 00:05:03,189
+look at richer people, those people have
+often kept their incomes, and their
+spending has collapsed.
+
+65
+00:05:03,199 --> 00:05:07,510
+So if you actually look at the amount of
+money being saved by higher-income
+people and richer people,
+
+66
+00:05:07,520 --> 00:05:13,909
+it's gone through the roof. So richer
+people are accumulating a lot of money in
+their bank accounts as a result of this
+policy.
+
+67
+00:05:13,919 --> 00:05:18,310
+So when we talk about going back to
+normal after COVID, we're not going to be
+going back to normal. No, we're going to
+
+68
+00:05:18,320 --> 00:05:22,790
+be going back to a normal where the
+richest people in the country have
+massive bank accounts
+
+69
+00:05:22,800 --> 00:05:28,150
+full of a lot of cash.
+
+[Tom] And, Gary, to ask, what does that do?
+And, Gary, the
+
+70
+00:05:28,160 --> 00:05:35,590
+difference too, which I'm sort of still
+trying to get my head around again, being
+an absolute dunce on this stuff,
+
+71
+00:05:35,600 --> 00:05:39,590
+the difference between what you see in
+the stock market — and the stock market
+prices did...
+
+72
+00:05:39,600 --> 00:05:45,830
+I mean, in America, the stock market
+there, it's like nothing happened, I mean
+it's just carrying on
+
+73
+00:05:45,840 --> 00:05:51,670
+normal. House prices — you look at house
+prices, we're expecting... someone was
+saying the banks were predicting an 18%
+
+74
+00:05:51,680 --> 00:05:55,350
+drop in house prices — they're carrying
+on, just chugging along, ticking over.
+
+75
+00:05:55,360 --> 00:06:02,070
+That the asset economy seems to be
+carrying on as normal. The real economy —
+bricks and mortar shops on the high
+street, people's jobs —
+
+76
+00:06:03,199 --> 00:06:06,309
+is falling apart. Why is that?
+
+77
+00:06:06,319 --> 00:06:10,550
+[Gary] Yeah, oh, that is exactly right, and it's
+exactly because of what we just said
+here. The government has printed huge
+amounts of money,
+
+78
+00:06:10,560 --> 00:06:14,550
+and that has ended up in the bank
+accounts of wealthier people.
+
+79
+00:06:14,560 --> 00:06:19,430
+Now, you know, I come from an ordinary
+background, but I work with a lot of
+wealthy people from the UK, from the US.
+
+80
+00:06:19,440 --> 00:06:22,550
+If you give wealthy people a lot of
+money, they're going to invest it.
+
+81
+00:06:22,560 --> 00:06:26,469
+Yeah, and in the US, they're often in
+stocks and shares. In this country,
+
+82
+00:06:26,479 --> 00:06:31,670
+that means... yeah, you can go back and
+look at my... right at the beginning of
+the crisis, a lot of people were
+predicting a fall.
+
+83
+00:06:31,680 --> 00:06:36,710
+I was predicting a rise, and I was buying
+everything, because if you give rich
+people a load of money,
+
+84
+00:06:36,720 --> 00:06:41,590
+they will buy things. If you look at
+2008, everybody thought prices would
+crash, but in the end,
+
+85
+00:06:41,600 --> 00:06:46,150
+London house prices doubled, and that was
+because of huge amounts of money
+printing going to richer people.
+
+86
+00:06:46,160 --> 00:06:50,629
+That will happen again here. That is the
+real cost.
+
+87
+00:06:50,639 --> 00:06:54,390
+[Tom] Let me talk about who's going to pay for
+the crisis. What happens if London house
+prices double again? What happens though,
+Gary?
+
+88
+00:06:54,400 --> 00:06:59,990
+[Gary] It's so interesting. The house price
+thing is really interesting. What happens
+if there is an inflationary shock? If
+
+89
+00:07:00,000 --> 00:07:05,189
+inflation is at 0.5%, it's gone up but
+it's still only at 0.5%. If you just
+print money,
+
+90
+00:07:05,199 --> 00:07:12,070
+you get to some examples like, you know,
+everyone knows the pictures of the
+wheelbarrows of cash being run around
+Europe in the 1930s.
+
+91
+00:07:12,080 --> 00:07:15,189
+[Tom] So if there's an inflationary shock,
+we're screwed?
+
+92
+00:07:15,199 --> 00:07:19,189
+[Gary] With this amount of cash flying around,
+whether you're screwed or not depends on
+who you are.
+
+93
+00:07:19,199 --> 00:07:23,909
+If you're one of the people who's sitting
+with a bank account full of cash now,
+which a lot of the richer people in this
+country are,
+
+94
+00:07:23,919 --> 00:07:27,749
+then that's just fine for you. My worry
+is what happens to the ordinary people
+
+95
+00:07:27,759 --> 00:07:31,990
+when prices go up. What happens to
+ordinary people if house prices double?
+You know, it's hard enough for
+
+96
+00:07:32,000 --> 00:07:37,110
+some ordinary families to get houses in
+this city, right? If they double again,
+you're telling, like,
+
+97
+00:07:37,120 --> 00:07:41,189
+two-thirds of the kids, "You're never
+going to get one." So really,
+if you're talking about how do we deal
+
+98
+00:07:41,199 --> 00:07:45,670
+with this crisis, who's going to pay it
+back, it's going to be the poorer kids,
+because the richer
+
+99
+00:07:45,680 --> 00:07:51,430
+guys, those guys are loaded, they're
+making a fortune on this.
+
+100
+00:07:51,440 --> 00:07:55,589
+So really, it's a problem of inequality
+and distribution. That is the problem.
+
+101
+00:07:55,599 --> 00:08:01,189
+So actually, the way in which you pay
+this back... as you say, it's the wrong
+question that's being asked, because it's
+not the...
+
+102
+00:08:01,199 --> 00:08:05,990
+the debt that we're borrowing to fund
+the COVID response, we're never going to
+pay that back.
+
+103
+00:08:06,000 --> 00:08:10,950
+That's fine, we'll write that off. What
+needs to happen is the payback to
+
+104
+00:08:10,960 --> 00:08:16,469
+deal with the inequality that is about
+to come. Because, as you say, all the
+rich people sit there getting richer,
+buying their houses,
+
+105
+00:08:16,479 --> 00:08:22,869
+you know, trading off property — property
+guys — and the poorer people whose
+real economy has been decimated by this,
+
+106
+00:08:22,879 --> 00:08:26,309
+they're left with nothing because they
+don't have any assets.
+
+107
+00:08:26,319 --> 00:08:30,869
+[Tom] Exactly.
+
+[Gary] Exactly. That is a big question. The
+media is asking, "How do you pay the debt
+back?"
+
+108
+00:08:30,879 --> 00:08:36,709
+That's the wrong question. Everybody in
+finance knows the debt doesn't get paid
+back. The real question is: what's going
+to happen to the money?
+
+109
+00:08:36,719 --> 00:08:42,469
+That's going to rich people. It's going
+to push asset prices up. It is going to
+cause a crisis in home affordability and
+inequality.
+
+110
+00:08:42,479 --> 00:08:51,110
+So really, the problem we're going to
+have coming out of this is: how do we
+deal with that massive rising inequality
+and the impossibility of getting housing
+for ordinary people?
+
+111
+00:08:51,120 --> 00:08:56,070
+[Tom] And just a word on, because I'm getting
+lots of people texting and saying,
+"Inflation, inflation, inflation."
+
+112
+00:08:56,080 --> 00:08:59,350
+How do you keep inflation low enough so
+that you don't
+
+113
+00:08:59,360 --> 00:09:02,310
+have wheelbarrows full of cash being
+wheeled around?
+
+114
+00:09:02,320 --> 00:09:04,550
+[Gary] There's two different kinds of
+inflation, which is inflation out on the
+streets
+
+115
+00:09:04,560 --> 00:09:09,430
+and inflation in asset prices. After 2008,
+we didn't see much inflation in shops.
+
+116
+00:09:09,440 --> 00:09:12,550
+We didn't see... but we saw a huge amount
+of inflation eventually in assets. So the
+
+117
+00:09:12,560 --> 00:09:15,030
+thing that's happening here is loads and
+loads of people are losing their jobs,
+
+118
+00:09:15,519 --> 00:09:20,630
+and when people lose their jobs, that
+makes the job market really, really weak,
+and people don't get pay rises.
+
+119
+00:09:20,640 --> 00:09:25,509
+As long as pay rises aren't happening,
+then you don't get much inflation.
+So that's the reason why after 2008 we
+
+120
+00:09:25,519 --> 00:09:30,870
+didn't see inflation. Now, I'm not saying
+necessarily that's going to happen again.
+The amount of money being printed here,
+
+121
+00:09:30,880 --> 00:09:37,030
+it's... well, it's much quicker,
+definitely, than it was in 2008. There is
+a risk that we lose control of it and
+inflation does increase,
+
+122
+00:09:37,040 --> 00:09:43,509
+especially once COVID passes and, like
+we've said, all of these people with huge
+amounts of cash in their bank start
+trying to spend it. That is definitely a
+possibility.
+
+123
+00:09:45,279 --> 00:09:49,670
+I think, if you remember, after 2008,
+2010, 2011, we did have quite high
+inflation, five percent...
+
+124
+00:09:49,680 --> 00:09:53,110
+[Tom] Yeah, coming up to six percent.
+
+[Gary] That's right. And then
+
+125
+00:09:53,120 --> 00:09:59,350
+the Bank of England, rather sensibly I
+suspect, decided to leave the money out
+there, not take any money back.
+
+126
+00:09:59,360 --> 00:10:04,310
+Leave the easy money. The Bank of England,
+if it happens, you know, if it's five,
+six percent, which,
+
+127
+00:10:04,320 --> 00:10:08,310
+you know, I don't want to make any exact
+predictions, but it could be at some
+point coming out of this,
+
+128
+00:10:08,320 --> 00:10:16,389
+I think the bank will allow it to
+continue, but what that will cause is a
+cost-of-living crisis for ordinary
+people, just like it did after 2008.
+
+129
+00:10:16,399 --> 00:10:21,509
+[Tom] Gary, you've been fascinating talking to
+you. I'm already incredibly late for the
+
+130
+00:10:21,519 --> 00:10:28,790
+bits I need to hit on the programme.
+I've got to ask you, what's it like to
+be 27 with multiple millions in the bank
+account?
+
+131
+00:10:28,800 --> 00:10:36,310
+[Gary] Well, it's unusual. Like I said, I
+didn't grow up with money,
+
+132
+00:10:36,320 --> 00:10:40,470
+and I made the money very quickly, and it
+all came very quickly to me.
+
+133
+00:10:40,480 --> 00:10:42,710
+[Tom] Okay, well, let me ask you this, it's
+very funny, you're gonna have to be
+really brief, Gary. I am
+
+134
+00:10:42,720 --> 00:10:49,350
+obsessed with this idea, right? So there
+you are, it doesn't matter what age you
+are, who you are,
+
+135
+00:10:49,360 --> 00:10:55,670
+there is a moment in your life where you
+suddenly realise you've got more money
+than you ever possibly could have dreamt
+of,
+
+136
+00:10:55,680 --> 00:11:03,829
+that it's there for you, and your whole
+world has just shifted on its axis
+because you've got this money in your
+bank account,
+
+137
+00:11:03,839 --> 00:11:07,110
+and it's for you. When was that moment
+for you?
+
+138
+00:11:07,120 --> 00:11:11,829
+[Gary] For me, when was that? Well, that was
+when I got my first bonus and I realised I
+should have spent my whole childhood
+
+139
+00:11:11,839 --> 00:11:17,030
+buying Boots meal deals. Yeah, that was
+it. But before I go, I'd just like to
+suggest that if anyone
+
+140
+00:11:17,040 --> 00:11:22,550
+wants to know more about the effects of
+money printing, there is a really good
+video on my YouTube, Gary's Economics,
+
+141
+00:11:22,560 --> 00:11:24,150
+explaining exactly how it works.
+
+142
+00:11:24,160 --> 00:11:29,990
+[Tom] Great, man. Gary Stevenson, thank you for
+your time. An economist focusing on
+inequality, former trader, retired from
+the City. Multi-millionaire, aged 27.
+

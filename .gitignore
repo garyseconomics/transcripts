@@ -1,4 +1,2 @@
-_site
-.tmp/
-vendor/bundle
-.bundle
+scripts/__pycache__/
+.claude/

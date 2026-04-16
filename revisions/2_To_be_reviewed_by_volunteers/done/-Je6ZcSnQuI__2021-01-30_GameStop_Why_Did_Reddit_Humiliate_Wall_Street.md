@@ -1,0 +1,81 @@
+# GameStop: Why Did Reddit Humiliate Wall Street — Corrections
+
+https://www.youtube.com/watch?v=-Je6ZcSnQuI
+
+---
+
+00:00:04
+[Chris] LBC News, time 6:31. It's Chris Golds with you here, live across the UK this Thursday evening. We're on DAB digital radio, on your smart speaker, and on Global Player, of course. The ~~fuzzy~~ **FTSE** 100 has ended the penultimate day of trading this week in the red, down 41 points at ~~65.26~~ **6,526**. We'll find out where it opens with Lisa Aziz at about eight o'clock tomorrow morning. She is, of course, live on breakfast from six.
+
+00:00:29
+Now, ~~uh,~~ if you've been on social media ~~uh~~ over the last 24 to 48 hours or so, you will have seen this story, but maybe you've been slightly confused by it. I know I have. And it's market regulators in the US that are going to review this rally ~~and~~ **in** shares of the struggling retailer **GameStop**, following an internet campaign. Stocks have risen over ~~1700~~ **1,700%** in the past couple of weeks, mostly driven by users of the social media platform **Reddit**. They were trying to show how easy it is to manipulate the system.
+
+00:00:58
+Confused? Well, let's try and break it down for you here on LBC News. I'd like to say I'm joined by Gary Stevenson, who joins us now. He's an ex-City trader and is now an economist. ~~Uh, e~~ **E**vening to you, Gary.
+
+[Gary] Hi, Chris.
+
+[Chris] So what has gone on here? What sparked it? Why **GameStop**? What's going on? Give us the detail.
+
+00:01:15
+[Gary] Okay, so first, give you a little bit of background. The US is obviously going through a very similar massive **COVID** epidemic, like we are. A lot of people lost their jobs, a lot of people lost incomes, a lot of people are sitting at home, unable to work, and the government's been sending out stimulus **cheques** to support these people.
+
+00:01:29
+Now, at the same time, the US stock market has been on an absolute surge. It's nearly doubled in the last ~~um~~ nine months, and some stocks like **Tesla** have gone up nearly six times. Other things like **Bitcoin** absolutely exploding. So we've got a load of people sitting at home, they can't work, they're not making any money. ~~Um, a~~ **A**t the same time, the richest people in the country, like Jeff Bezos, the value of their companies are doubling. And this is on the back of ten years of stock markets exploding in that country.
+
+00:01:53
+So people at home are starting to think, "Listen, I'm not happy with this. Work isn't working for me, I'm not making any money and the super-rich are just getting super-rich on the stock markets," and they want to get involved. So they're surging onto the internet, and they're going through this website, **Reddit**, which is a social media site, it's a message board site. There's an area on there called **WallStreetBets**, that's where people go to talk about how to make money on the markets, what stocks to buy, this kind of thing.
+
+00:02:04
+And some people came up with the idea about **GameStop**. So what you need to understand about **GameStop** is there's a big hedge fund, well a few hedge funds, that decided that this was a weak company. They decided to try and push the stock price down by short selling it. So you need to know a little bit about short selling, alright? So, to short sell a stock, normally if you think a stock price is going to go up, you buy it. But how do you make money if a stock price is going to go down? Well, the way you do is you borrow the stock, for example for a week, from someone who has it, and then you sell it, hoping to buy it back later at a lower price.
+
+00:02:45
+Now, these ~~um~~ hedge funds ~~has shortened~~ **had shorted** a lot of this stock, and some people ~~already~~ **on Reddit** figured it out. So they said, "Look, if we all go together and we buy loads and loads of this stock, we can push the price up massively. We'll refuse to lend out any of the stock ~~for~~ **to** the short sellers, and then the short sellers will have to buy the stock back when their loans of ~~their~~ **the** stock run out. That means we can push the price up, and then the hedge funds will have to buy at a massively high price, and we'll make loads of money."
+
+00:03:06
+Now, this is a thing which is relatively well known historically in financial markets. It's called a short squeeze. You push the price up so that all the shorts ~~get~~ lose loads of money and they have to buy at higher prices. ~~It~~ **There** was a massive short squeeze in the gold market, for example, in the '80s. Sometimes it's called cornering the market. ~~They've~~ **There've** even been guys who've done this with sort of food markets, like wheat. "We're going to buy all the wheat, and the people who need ~~them~~ **it**, we're going to charge exorbitant prices."
+
+00:03:27
+So, basically, amazingly, this horde of sort of unrelated people who were sitting at home trading on the internet managed to push ~~game stuff~~ **GameStop** up ~~1500~~ **1,500%** in about two weeks, which was phenomenal. That caused this one hedge fund, I think it's **Melvin** is the name, to almost go bankrupt. They lost about, I think, **30% of their assets under value**.
+
+00:03:49
+~~Um, i~~ **I** mean, it really is a phenomenal story. But I think what this tells you is people are starting to ~~... to this situation where~~ **react to this situation, where** the way we deal with crises is to bail out the stock market but not to bail out ordinary people, and people want to get involved.
+
+00:04:01
+But I mean, the way it's played out has been really phenomenal. My big concern now is, and I think I would like to tell people listening at home, really be careful before you get involved in things like this, because it is inevitable, in my opinion, I think most market professionals would agree, that this stock will collapse back down at some point.
+
+00:04:17
+And some people are going to make a lot of money on this. You know, there's someone on this ~~radio~~ **Reddit** website who claims to have turned ~~fifty thousand dollars into 47 million dollars~~ **$50,000 into $47 million**. Yeah, if you get involved now, that's not going to be you. And at some point, this is going to collapse and some people are going to be holding it. So, just a real ~~not~~ **note** of caution to people listening: don't rush in and get involved in this. That's my strong recommendation.
+
+00:04:36
+[Chris] Do you think this is going to spark some sort of trend?
+
+00:04:39
+[Gary] But it's already a trend! I mean, look at **Bitcoin**, look at **Tesla**, look at that. I mean, the thing is, you need to understand what is happening with regards to the coronavirus crisis. Governments all over...
+
+[Chris] **Tesla's** stock's not going up because lots of people are chatting about it on **Reddit**, though.
+
+00:04:58
+[Gary] I've been on this website, these guys ~~tested~~ **love Tesla**. I mean, listen, I'm not an expert exactly on **Tesla**. Yeah, I mean, it's very, very expensive compared to other car makers, and there is a huge... like, I go on this, I've been on this, you know, I trade markets and I look at this website. They love **Tesla**, they love **Elon Musk**. Oh, you know, not all of them, but if **Elon Musk** tweets something, that will move... you know, these guys, they look at that guy. And ~~um~~ the fact is, you know, governments have printed lots of money. That's how they've dealt with this crisis, and that means there's a lot of money ~~spilling~~ **sloshing** about in the system, and largely it's ended up with richer people. And if you give a lot of money to a lot of rich people, they're going to buy stocks.
+
+00:05:36
+And I think what's relevant to the UK, they're going to buy houses as well. And, you know, we're starting to see, in the middle of the worst economic crisis in our lifetimes, house prices are going up at record pace.
+
+00:05:45
+[Chris] What do you think is going to happen to **GameStop** themselves?
+
+00:05:49
+[Gary] I mean, the company... the hedge funds which looked at this company, they **analysed** it to be a weak company. I mean, I'll tell you one thing, they've definitely got a lot of free advertising and publicity over the last few days, which will probably support the company. But ~~um~~ if we assume, and I think it is likely, that this stock price will simply rise and fall, that doesn't actually really benefit the company themselves. It's purely a game between people who hold the stock, the short sellers, and this army on **Reddit**, essentially. ~~Um, y~~ **Y**ou know, the company gets some free advertising, but it was judged by many hedge funds to be a weak stock. It's trying to compete with a massive giant like Amazon. But realistically, presuming the stock falls back down, it doesn't really change the outlook for the company itself.
+
+00:06:30
+[Chris] ~~Um, d~~ **D**o you think we'll see a move away from stock markets and how they work and how ~~um~~ massive a part they play in ~~um in you in their country's~~ **their countries'** economies, or is this the model that is going to be around for a while?
+
+00:06:44
+[Gary] Well, I mean, already there's such a divergence between countries' economies and the stock market. I mean, just look at what's happened since 2008. You know, the UK stock market's up, I think, two or three times in that time. The US is up even more. Stock markets just seem to go up and up, and the reason for this is, and this is another thing that these guys ~~already~~ **on Reddit** love to talk about, is whenever there's a strong economy, stock markets go up. But whenever there's a weak economy, central banks print billions of dollars and that pushes stock markets up. So it creates a situation where it feels like stock markets can only go up, whether it's a strong economy or a weak economy. And what that means is, whether workers and ordinary families do well or badly, the rich always do well.
+
+00:07:22
+So, if that's the situation, and if we look at the last twelve years, that seems to be the situation, you can kind of understand why now ordinary people are surging in to buy these stocks.
+
+00:07:30
+[Chris] Well, fascinating talking to you. I think you've made ~~us made uh~~ some sense of all those memes and various different videos I've seen online, so thank you very much for joining us here on LBC News. That's Gary Stevenson, an ex-City trader and an economist. This is LBC News, the headlines are next.
+
