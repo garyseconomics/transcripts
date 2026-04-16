@@ -9,7 +9,7 @@ Thank you for volunteering! Your job is to check that the transcript matches wha
 
 ## Steps
 
-1. **Pick a transcript** from the list of `.md` files in this folder: [To_be_reviewed_by_volunteers](https://github.com/Adavideo/transcripts/tree/AI_and_volunteer_review/revisions/2_To_be_reviewed_by_volunteers). Files in the `done/` subfolder have already been reviewed — skip those.
+1. **Pick a transcript** from the list of `.md` files in this folder: [To_be_reviewed_by_volunteers](https://github.com/garyseconomics/transcripts/tree/main/revisions/2_To_be_reviewed_by_volunteers). Files in the `done/` subfolder have already been reviewed — skip those.
 
 2. **Open the file** and click the YouTube link at the top. You'll see the transcript below it — this is what the AI thinks Gary said.
 
