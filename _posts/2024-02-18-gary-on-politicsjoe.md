@@ -22,28 +22,30 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  If you don't think it can happen here read some Charles Dickens. Gary on @PoliticsJOE. 
-  
-  Watch the full video here: https://www.youtube.com/watch?v=DVvoyRpxG-A&t=55s&ab_channel=PoliticsJOE
-  
-  UNDERSTAND, SHARE & PUSH BACK
-  
-  WEBSITE - https://www.garyseconomics.org
-  TWITTER  - https://twitter.com/garyseconomics
-  FACEBOOK - https://www.facebook.com/garyseconomics
-  INSTAGRAM  - https://www.instagram.com/garyseconomics
-  TIKTOK - https://www.tiktok.com/@garyseconomics
-  YOUTUBE -  https://www.youtube.com/garyseconomics
-  PATREON - https://patreon.com/garyseconomics
-  DISCORD - https://discord.gg/vqME6WsPd7
-  BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  Performed by Gary Stevenson
-  @garyseconomics
+description: If you don't think it can happen here read some Charles Dickens.
 thumbnail: https://i.ytimg.com/vi_webp/nZya6t3vF4M/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/nZya6t3vF4M.vtt
+
 ---
+
+Gary on @PoliticsJOE. 
+
+Watch the full video here: https://www.youtube.com/watch?v=DVvoyRpxG-A&t=55s&ab_channel=PoliticsJOE
+
+UNDERSTAND, SHARE & PUSH BACK
+
+- WEBSITE - https://www.garyseconomics.org
+- TWITTER  - https://twitter.com/garyseconomics
+- FACEBOOK - https://www.facebook.com/garyseconomics
+- INSTAGRAM  - https://www.instagram.com/garyseconomics
+- TIKTOK - https://www.tiktok.com/@garyseconomics
+- YOUTUBE -  https://www.youtube.com/garyseconomics
+- PATREON - https://patreon.com/garyseconomics
+- DISCORD - https://discord.gg/vqME6WsPd7
+- BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+Performed by Gary Stevenson
+@garyseconomics

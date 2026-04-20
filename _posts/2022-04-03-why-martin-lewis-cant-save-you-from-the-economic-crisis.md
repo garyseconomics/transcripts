@@ -10,28 +10,29 @@ like_count: 1741
 duration_seconds: 498
 categories:
 - News & Politics
-description: |
-  "money saving tips is not gonna work if someone is setting your house and your community on fire"
-  We join Gary on his balcony during a beautiful but cold late March sunset. He explains why it is that Martin Lewis feels he can no longer help people & why political action is needed
-  
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics
-  FACEBOOK - @garyseconomics
-  INSTAGRAM - @garyseconomics
-  
-  
-  Performed by Gary Stevenson
-  GARYSECONOMICS
-  
-  
-  Produced by Simran Mohan
-  MOHAN MEDIA
+description: "money saving tips is not gonna work if someone is setting your house and your community on fire"
 thumbnail: https://i.ytimg.com/vi_webp/vUXGnbA-2EA/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/vUXGnbA-2EA.vtt
+
 ---
+
+We join Gary on his balcony during a beautiful but cold late March sunset. He explains why it is that Martin Lewis feels he can no longer help people & why political action is needed
+
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics
+- FACEBOOK - @garyseconomics
+- INSTAGRAM - @garyseconomics
+
+
+Performed by Gary Stevenson
+GARYSECONOMICS
+
+
+Produced by Simran Mohan
+MOHAN MEDIA

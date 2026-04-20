@@ -10,14 +10,11 @@ like_count: 1344
 duration_seconds: 59
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from a previous full length video 
-  "Post-Budget: The Reality of the Cost of Living Crisis" 
-  https://youtu.be/91FzQ05S_Dg
-   
-   
-   #enoughisenough #wealthinequality #richgetricher #wealthdistribution #Conservatives #defecit
+description: "This #Short is a snippet from a previous full length video \"Post-Budget: The Reality of the Cost of Living Crisis\" https://youtu.be/91FzQ05S_Dg"
 thumbnail: https://i.ytimg.com/vi_webp/_CmnHonipxc/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/_CmnHonipxc.vtt
+
 ---
+
+#enoughisenough #wealthinequality #richgetricher #wealthdistribution #Conservatives #defecit

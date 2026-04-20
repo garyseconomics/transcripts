@@ -10,13 +10,11 @@ like_count: 1211
 duration_seconds: 56
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from the full length video 
-  "Mini-Budget Disaster - My Response" 
-  https://youtu.be/Xz4olabE740
-   
-   #enoughisenough  #wealthinequality  #richgetricher  #wealthdistribution   #money
+description: "This #Short is a snippet from the full length video \"Mini-Budget Disaster - My Response\" https://youtu.be/Xz4olabE740"
 thumbnail: https://i.ytimg.com/vi_webp/6EKPXArbKkM/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/6EKPXArbKkM.vtt
+
 ---
+
+#enoughisenough  #wealthinequality  #richgetricher  #wealthdistribution   #money

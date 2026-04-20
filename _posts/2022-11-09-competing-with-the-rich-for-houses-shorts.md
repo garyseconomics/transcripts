@@ -10,13 +10,11 @@ like_count: 708
 duration_seconds: 60
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from upcoming full length video 
-  "Who Actually Pays Tax?" 
-  
-  
-  #dukeofwestminster #conservativegovernment #thepoorgetpoorer #therichgetricher #wealthinequality #taxtherich #enoughisenough
+description: "This #Short is a snippet from upcoming full length video \"Who Actually Pays Tax?\""
 thumbnail: https://i.ytimg.com/vi_webp/Lzb-I6d4a78/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/Lzb-I6d4a78.vtt
+
 ---
+
+#dukeofwestminster #conservativegovernment #thepoorgetpoorer #therichgetricher #wealthinequality #taxtherich #enoughisenough

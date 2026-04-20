@@ -10,14 +10,11 @@ like_count: 1337
 duration_seconds: 60
 categories:
 - News & Politics
-description: |
-  This #Short is a snippet from the full length video 
-  "Post-Budget: Why the Markets Reacted" 
-  https://youtu.be/R3KT0VMnqBo
-   Originally Broadcast on Novara Media's #tyskysour 
-  
-   #enoughisenough #richgetricher #wealthinequality #taxtherich #multimillionaire #bankofengland #government #tory
+description: "This #Short is a snippet from the full length video \"Post-Budget: Why the Markets Reacted\" https://youtu.be/R3KT0VMnqBo Originally Broadcast on Novara Media's #tyskysour"
 thumbnail: https://i.ytimg.com/vi_webp/J8ixRoCF0fw/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/J8ixRoCF0fw.vtt
+
 ---
+
+#enoughisenough #richgetricher #wealthinequality #taxtherich #multimillionaire #bankofengland #government #tory
