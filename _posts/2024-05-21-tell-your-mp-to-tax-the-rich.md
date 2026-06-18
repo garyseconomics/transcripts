@@ -22,26 +22,26 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  Tell your MP to tax the super rich: https://taxjustice.eaction.org.uk/taxthesuperrich 
-  
-  UNDERSTAND, SHARE & PUSH BACK
-  
-  DISCORD - https://discord.gg/vqME6WsPd7
-  WEBSITE - https://www.garyseconomics.org
-  TWITTER  - https://twitter.com/garyseconomics
-  FACEBOOK - https://www.facebook.com/garyseconomics
-  INSTAGRAM  - https://www.instagram.com/garyseconomics
-  TIKTOK - https://www.tiktok.com/@garyseconomics
-  YOUTUBE -  https://www.youtube.com/garyseconomics
-  PATREON - https://patreon.com/garyseconomics
-  BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  Performed by Gary Stevenson
-  @garyseconomics
+description: "Tell your MP to tax the super rich: https://taxjustice.eaction.org.uk/taxthesuperrich"
 thumbnail: https://i.ytimg.com/vi_webp/LoPDnY4RdYU/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/LoPDnY4RdYU.vtt
+
 ---
+
+UNDERSTAND, SHARE & PUSH BACK
+
+- DISCORD - https://discord.gg/vqME6WsPd7
+- WEBSITE - https://www.garyseconomics.org
+- TWITTER  - https://twitter.com/garyseconomics
+- FACEBOOK - https://www.facebook.com/garyseconomics
+- INSTAGRAM  - https://www.instagram.com/garyseconomics
+- TIKTOK - https://www.tiktok.com/@garyseconomics
+- YOUTUBE -  https://www.youtube.com/garyseconomics
+- PATREON - https://patreon.com/garyseconomics
+- BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+Performed by Gary Stevenson
+@garyseconomics

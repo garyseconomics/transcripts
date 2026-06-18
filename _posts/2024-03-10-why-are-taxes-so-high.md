@@ -22,27 +22,29 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  Taxes are set to reach all time highs. But if this is the case, why is the government so bankrupt?  And why are public services collapsing? In this video I explain why. 
-  
-  UNDERSTAND, SHARE & PUSH BACK
-  
-  BOOK - https://www.penguin.co.uk/books/455809/the-trading-game-by-stevenson-gary/9780241636602
-  WEBSITE - https://www.garyseconomics.org
-  TWITTER  - https://twitter.com/garyseconomics
-  FACEBOOK - https://www.facebook.com/garyseconomics
-  INSTAGRAM  - https://www.instagram.com/garyseconomics
-  TIKTOK - https://www.tiktok.com/@garyseconomics
-  YOUTUBE -  https://www.youtube.com/garyseconomics
-  PATREON - https://patreon.com/garyseconomics
-  DISCORD - https://discord.gg/vqME6WsPd7
-  BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  Performed by Gary Stevenson
-  @garyseconomics
+description: Taxes are set to reach all time highs.
 thumbnail: https://i.ytimg.com/vi_webp/II1GOhoNpms/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/II1GOhoNpms.vtt
+
 ---
+
+But if this is the case, why is the government so bankrupt?  And why are public services collapsing? In this video I explain why. 
+
+UNDERSTAND, SHARE & PUSH BACK
+
+- BOOK - https://www.penguin.co.uk/books/455809/the-trading-game-by-stevenson-gary/9780241636602
+- WEBSITE - https://www.garyseconomics.org
+- TWITTER  - https://twitter.com/garyseconomics
+- FACEBOOK - https://www.facebook.com/garyseconomics
+- INSTAGRAM  - https://www.instagram.com/garyseconomics
+- TIKTOK - https://www.tiktok.com/@garyseconomics
+- YOUTUBE -  https://www.youtube.com/garyseconomics
+- PATREON - https://patreon.com/garyseconomics
+- DISCORD - https://discord.gg/vqME6WsPd7
+- BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+Performed by Gary Stevenson
+@garyseconomics

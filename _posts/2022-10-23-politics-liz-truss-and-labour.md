@@ -10,29 +10,28 @@ like_count: 3797
 duration_seconds: 873
 categories:
 - News & Politics
-description: |
-  Gary explains why we shouldnt get complacent with the end of Liz Truss' short reign as Prime Minister
-  
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics - https://twitter.com/garyseconomics
-  FACEBOOK - @garyseconomics - https://www.facebook.com/garyseconomics/
-  INSTAGRAM - @garyseconomics - https://www.instagram.com/garyseconomics/
-  TIKTOK - @garyseconomics - https://www.tiktok.com/@garyseconomics?lang=en
-  YOUTUBE - @garyseconomics - https://www.youtube.com/channel/UC5Ghe5TBQGYIOANuiNW4hDQ
-  
-  
-  Performed by Gary Stevenson
-  GARYSECONOMICS
-  
-  
-  Produced by Simran Mohan
-  MOHAN MEDIA
+description: Gary explains why we shouldnt get complacent with the end of Liz Truss' short reign as Prime Minister
 thumbnail: https://i.ytimg.com/vi_webp/wDYeiQoJfY8/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/wDYeiQoJfY8.vtt
+
 ---
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics - https://twitter.com/garyseconomics
+- FACEBOOK - @garyseconomics - https://www.facebook.com/garyseconomics/
+- INSTAGRAM - @garyseconomics - https://www.instagram.com/garyseconomics/
+- TIKTOK - @garyseconomics - https://www.tiktok.com/@garyseconomics?lang=en
+- YOUTUBE - @garyseconomics - https://www.youtube.com/channel/UC5Ghe5TBQGYIOANuiNW4hDQ
+
+
+Performed by Gary Stevenson
+GARYSECONOMICS
+
+
+Produced by Simran Mohan
+MOHAN MEDIA

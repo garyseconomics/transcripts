@@ -22,13 +22,11 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  This #Short is a snippet from a previous full length video 
-  "Rishi Sunak's Nonsense "Pledge"" 
-  https://youtu.be/aCpv9u0SsGI
-  
-  #billionaire #wealthinequality #richgetricher #poorgetpoorer #askthem   #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis #whereisthemoney #showmethemoney
+description: "This #Short is a snippet from a previous full length video \"Rishi Sunak's Nonsense \"Pledge\"\" https://youtu.be/aCpv9u0SsGI"
 thumbnail: https://i.ytimg.com/vi_webp/y5ml2z7ShMw/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/y5ml2z7ShMw.vtt
+
 ---
+
+#billionaire #wealthinequality #richgetricher #poorgetpoorer #askthem   #enoughisenough #assets #governmentdebt #moneyisatoken #whatismoney #700billion #inflation #costoflivingcrisis #whereisthemoney #showmethemoney

@@ -10,35 +10,31 @@ like_count: 123
 duration_seconds: 565
 categories:
 - News & Politics
-description: |
-  Gary on LBC with Clive Bull 
-  Broadcast on 23/05/2021 @ 00:20 
-  Uploaded with permission from LBC  
-  https://www.lbc.co.uk/
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics
-  FACEBOOK - garyseconomics
-  INSTAGRAM - garyseconomics
-  
-  
-  STOCK FROM:
-  Christopher Burns + Henry & Co - Unsplash
-  
-  
-  Spoken by Clive Bull
-  LBC
-  
-  
-  Spoken by Gary Stevenson
-  GARY'S ECONOMICS
-  
-  
-  Uploaded by Simran Mohan 
-  MOHAN MEDIA
+description: "Gary on LBC with Clive Bull Broadcast on 23/05/2021 @ 00:20 Uploaded with permission from LBC https://www.lbc.co.uk/"
 thumbnail: https://i.ytimg.com/vi_webp/Ehj85AsZVmY/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/Ehj85AsZVmY.vtt
+
 ---
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics
+- FACEBOOK - garyseconomics
+- INSTAGRAM - garyseconomics
+
+
+STOCK FROM:
+- Christopher Burns + Henry & Co - Unsplash
+
+
+Spoken by Clive Bull
+LBC
+
+
+Spoken by Gary Stevenson
+GARY'S ECONOMICS
+
+
+Uploaded by Simran Mohan 
+MOHAN MEDIA

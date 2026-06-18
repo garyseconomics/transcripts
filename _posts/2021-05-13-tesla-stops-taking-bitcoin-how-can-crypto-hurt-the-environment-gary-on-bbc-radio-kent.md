@@ -10,38 +10,40 @@ like_count: 70
 duration_seconds: 377
 categories:
 - News & Politics
-description: |
-  Elon Musk says you can't buy a Tesla with Bitcoin until its becomes more environmentally friendly. But how can digital money/cryptocurrencies harm the environment in the first place?
-  
-  Gary Stevenson with Pat Marsh on BBC Radio Kent
-  Broadcast on 13/05/2021 @ 4.30pm & uploaded with permission from BBC RADIO
-  
-  Listen Live: https://www.bbc.co.uk/sounds/play/live:bbc_radio_kent
-  
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics
-  FACEBOOK - garyseconomics
-  INSTAGRAM - garyseconomics
-  
-  
-  STOCK FROM:
-  Johannes Plenio on Unsplash
-  
-  
-  Spoken by Pat Marsh
-  BBC RADIO KENT
-  
-  
-  Spoken by Gary Stevenson
-  GARY'S ECONOMICS
-  
-  
-  Uploaded by Simran Mohan 
-  MOHAN MEDIA
+description: Elon Musk says you can't buy a Tesla with Bitcoin until its becomes more environmentally friendly.
 thumbnail: https://i.ytimg.com/vi_webp/tH1pRdBEMvg/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/tH1pRdBEMvg.vtt
+
 ---
+
+But how can digital money/cryptocurrencies harm the environment in the first place?
+
+Gary Stevenson with Pat Marsh on BBC Radio Kent
+Broadcast on 13/05/2021 @ 4.30pm & uploaded with permission from BBC RADIO
+
+Listen Live: https://www.bbc.co.uk/sounds/play/live:bbc_radio_kent
+
+
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics
+- FACEBOOK - garyseconomics
+- INSTAGRAM - garyseconomics
+
+
+STOCK FROM:
+Johannes Plenio on Unsplash
+
+
+Spoken by Pat Marsh
+BBC RADIO KENT
+
+
+Spoken by Gary Stevenson
+GARY'S ECONOMICS
+
+
+Uploaded by Simran Mohan 
+MOHAN MEDIA

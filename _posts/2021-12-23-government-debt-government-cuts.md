@@ -10,27 +10,26 @@ like_count: 175
 duration_seconds: 211
 categories:
 - News & Politics
-description: |
-  "Covid has essentially been used to increase government debt but also make the rich enormously richer it has been the biggest ever in all of history single year increase in billionaire and super rich wealth and what this means is all of these things we're told we can't afford it's only because the government has transferred an enormous amount of wealth to the richest in our society"
-  
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics
-  FACEBOOK - @garyseconomics
-  INSTAGRAM - @garyseconomics
-  
-  
-  Performed by Gary Stevenson
-  GARYSECONOMICS
-  
-  
-  Produced by Simran Mohan
-  MOHAN MEDIA
+description: "Covid has essentially been used to increase government debt but also make the rich enormously richer it has been the biggest ever in all of history single year increase in billionaire and super rich wealth and what this means is all of these things we're told we can't afford it's only because the government has transferred an enormous amount of wealth to the richest in our society"
 thumbnail: https://i.ytimg.com/vi_webp/lVwWIMkJ80U/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/lVwWIMkJ80U.vtt
+
 ---
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics
+- FACEBOOK - @garyseconomics
+- INSTAGRAM - @garyseconomics
+
+
+Performed by Gary Stevenson
+GARYSECONOMICS
+
+
+Produced by Simran Mohan
+MOHAN MEDIA

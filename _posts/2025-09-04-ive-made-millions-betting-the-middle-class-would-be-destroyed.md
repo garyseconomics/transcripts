@@ -22,31 +22,31 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  From this interview with @OnTheMendPodcast 
-  
-  https://www.youtube.com/watch?v=2Z5w99ODw4E
-  –––––––––––
-  
-  MAKE A DONATION TO OUR CAMPAIGN – https://buy.stripe.com/dRm4gs9Nl1L6eqWbUydjO00
-  SUPPORT US ON PATREON – https://patreon.com/garyseconomics
-  JOIN GARY'S MAILING LIST – https://mailchi.mp/e27e37c9ebb4/get-garys-new-newsletter
-  GET THE TRADING GAME – https://www.penguin.co.uk/books/455809/the-trading-game-by-stevenson-gary/9781802062731 
-  
-  –––––––––––
-  
-  Follow Gary on other channels:
-  
-  LINKEDIN – https://www.linkedin.com/company/garyseconomics
-  SPOTIFY – https://open.spotify.com/show/2807p01KIe4RRFjRTB5o25
-  INSTAGRAM – https://www.instagram.com/garyseconomics
-  TIKTOK – https://www.tiktok.com/@garyseconomics
-  BLUESKY – https://bsky.app/profile/garyseconomics.bsky.social
-  X – https://twitter.com/garyseconomics
-  FACEBOOK – https://www.facebook.com/garyseconomics
-  DISCORD – https://discord.gg/vqME6WsPd7
-  WEBSITE – https://www.garyseconomics.org
+description: "From this interview with @OnTheMendPodcast"
 thumbnail: https://i.ytimg.com/vi_webp/nlesl4eEMk4/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/nlesl4eEMk4.vtt
+
 ---
+
+https://www.youtube.com/watch?v=2Z5w99ODw4E
+–––––––––––
+
+MAKE A DONATION TO OUR CAMPAIGN – https://buy.stripe.com/dRm4gs9Nl1L6eqWbUydjO00
+SUPPORT US ON PATREON – https://patreon.com/garyseconomics
+JOIN GARY'S MAILING LIST – https://mailchi.mp/e27e37c9ebb4/get-garys-new-newsletter
+GET THE TRADING GAME – https://www.penguin.co.uk/books/455809/the-trading-game-by-stevenson-gary/9781802062731 
+
+–––––––––––
+
+Follow Gary on other channels:
+
+LINKEDIN – https://www.linkedin.com/company/garyseconomics
+SPOTIFY – https://open.spotify.com/show/2807p01KIe4RRFjRTB5o25
+INSTAGRAM – https://www.instagram.com/garyseconomics
+TIKTOK – https://www.tiktok.com/@garyseconomics
+BLUESKY – https://bsky.app/profile/garyseconomics.bsky.social
+X – https://twitter.com/garyseconomics
+FACEBOOK – https://www.facebook.com/garyseconomics
+DISCORD – https://discord.gg/vqME6WsPd7
+WEBSITE – https://www.garyseconomics.org

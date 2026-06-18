@@ -10,29 +10,29 @@ like_count: 1178
 duration_seconds: 615
 categories:
 - News & Politics
-description: |
-  "Wealth inequality pushes house prices up, money printing pushes house prices up, house price goes through the roof but at the same time wealth inequality pushes wages down so the net effect is house prices go up and your wages stay the same."
-  
-  Former city trader Gary Stevenson explains the current situation in Global city housing markets.
-  
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics
-  FACEBOOK - @garyseconomics
-  INSTAGRAM - @garyseconomics
-  
-  
-  Performed by Gary Stevenson
-  GARY'S ECONOMICS
-  
-  
-  Produced by Simran Mohan
-  MOHAN MEDIA
+description: "Wealth inequality pushes house prices up, money printing pushes house prices up, house price goes through the roof but at the same time wealth inequality pushes wages down so the net effect is house prices go up and your wages stay the same."
 thumbnail: https://i.ytimg.com/vi_webp/Qlr5Vzrextk/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/Qlr5Vzrextk.vtt
+
 ---
+
+Former city trader Gary Stevenson explains the current situation in Global city housing markets.
+
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics
+- FACEBOOK - @garyseconomics
+- INSTAGRAM - @garyseconomics
+
+
+Performed by Gary Stevenson
+GARY'S ECONOMICS
+
+
+Produced by Simran Mohan
+MOHAN MEDIA

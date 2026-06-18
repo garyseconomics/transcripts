@@ -22,26 +22,28 @@ tags:
 - Poverty
 categories:
 - Education
-description: |
-  Gary vs the former Chancellor Nadhim Zahawi. Full debate here https://iai.tv/video/lies-damned-lies-and-economics 
-  
-  UNDERSTAND, SHARE & PUSH BACK
-  
-  SPOTIFY - https://open.spotify.com/show/2807p01KIe4RRFjRTB5o25
-  INSTAGRAM  - https://www.instagram.com/garyseconomics
-  TIKTOK - https://www.tiktok.com/@garyseconomics
-  BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
-  X - https://twitter.com/garyseconomics
-  FACEBOOK - https://www.facebook.com/garyseconomics
-  PATREON - https://patreon.com/garyseconomics
-  DISCORD - https://discord.gg/vqME6WsPd7
-  WEBSITE - https://www.garyseconomics.org
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  Performed by Gary Stevenson
-  @garyseconomics
+description: Gary vs the former Chancellor Nadhim Zahawi.
 thumbnail: https://i.ytimg.com/vi_webp/sn7EZiwvAT8/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/sn7EZiwvAT8.vtt
+
 ---
+
+Full debate here https://iai.tv/video/lies-damned-lies-and-economics 
+
+UNDERSTAND, SHARE & PUSH BACK
+
+- SPOTIFY - https://open.spotify.com/show/2807p01KIe4RRFjRTB5o25
+- INSTAGRAM  - https://www.instagram.com/garyseconomics
+- TIKTOK - https://www.tiktok.com/@garyseconomics
+- BLUESKY - https://bsky.app/profile/garyseconomics.bsky.social
+- X - https://twitter.com/garyseconomics
+- FACEBOOK - https://www.facebook.com/garyseconomics
+- PATREON - https://patreon.com/garyseconomics
+- DISCORD - https://discord.gg/vqME6WsPd7
+- WEBSITE - https://www.garyseconomics.org
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+Performed by Gary Stevenson
+@garyseconomics

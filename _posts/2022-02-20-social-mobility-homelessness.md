@@ -10,27 +10,29 @@ like_count: 246
 duration_seconds: 601
 categories:
 - News & Politics
-description: |
-  Gary goes of in search of a local folk hero busker from his student days and talks about the problem of Homelessness & Social Mobility under this current government. He goes on to further outline why wealth inequality is so important and what we should demand from political parties.
-  
-  
-  SUBSCRIBE, SHARE & START A CONVERSATION
-  
-  
-  SOCIAL MEDIA:
-  WEBSITE - https://www.wealtheconomics.org
-  TWITTER - @garyseconomics
-  FACEBOOK - @garyseconomics
-  INSTAGRAM - @garyseconomics
-  
-  
-  Performed by Gary Stevenson
-  GARYSECONOMICS
-  
-  
-  Produced by Simran Mohan
-  MOHAN MEDIA
+description: "Gary goes of in search of a local folk hero busker from his student days and talks about the problem of Homelessness & Social Mobility under this current government."
 thumbnail: https://i.ytimg.com/vi_webp/0pGZLKLyKig/maxresdefault.webp
 channel_url: https://www.youtube.com/@garyseconomics
 caption_file: captions/0pGZLKLyKig.vtt
+
 ---
+
+He goes on to further outline why wealth inequality is so important and what we should demand from political parties.
+
+
+SUBSCRIBE, SHARE & START A CONVERSATION
+
+
+SOCIAL MEDIA:
+- WEBSITE - https://www.wealtheconomics.org
+- TWITTER - @garyseconomics
+- FACEBOOK - @garyseconomics
+- INSTAGRAM - @garyseconomics
+
+
+Performed by Gary Stevenson
+GARYSECONOMICS
+
+
+Produced by Simran Mohan
+MOHAN MEDIA
