@@ -5,12 +5,12 @@ Generate the video list JSON used by the MCP server's `video_list` tool.
 Reads every transcripts/<folder>/meta.json and writes one JSON list with an
 entry per video:
 
-    {"video_id": ..., "title": ..., "published_date": "YYYY-MM-DD", "link": ...}
+    {"id": ..., "title": ..., "published_date": "YYYY-MM-DD", "link": ...}
 
 - YouTube Shorts (`is_short: true`) are left out.
 - `published_date` comes from `timestamp`, which is the YouTube publish time
   (checked against YouTube's publishDate, premieres included), as a UTC date.
-- Sorted by published_date, then video_id, so regenerated files diff cleanly.
+- Sorted by published_date, then id, so regenerated files diff cleanly.
 
 --ids-from (temporary): only include the videos whose IDs appear in the
 transcript file names (`<video_id>__<date>_<title>.srt`) in a folder, e.g.
@@ -43,7 +43,7 @@ def video_entry(meta):
     video_id = meta["youtube_id"]
     published = datetime.fromtimestamp(meta["timestamp"], timezone.utc)
     return {
-        "video_id": video_id,
+        "id": video_id,
         "title": meta["fulltitle"],
         "published_date": published.date().isoformat(),
         "link": f"https://www.youtube.com/watch?v={video_id}",
@@ -78,12 +78,12 @@ def build_video_list(transcripts_dir):
             continue
 
         entry = video_entry(meta)
-        video_id = entry["video_id"]
+        video_id = entry["id"]
         if video_id in videos:
             raise ValueError(f"{path}: duplicate video_id {video_id}")
         videos[video_id] = entry
 
-    ordered = sorted(videos.values(), key=lambda v: (v["published_date"], v["video_id"]))
+    ordered = sorted(videos.values(), key=lambda v: (v["published_date"], v["id"]))
     return ordered, shorts
 
 
@@ -110,8 +110,8 @@ def main():
         videos, shorts = build_video_list(TRANSCRIPTS_DIR)
         if args.ids_from:
             wanted = read_ids_from_folder(args.ids_from)
-            videos = [v for v in videos if v["video_id"] in wanted]
-            missing = sorted(wanted - {v["video_id"] for v in videos})
+            videos = [v for v in videos if v["id"] in wanted]
+            missing = sorted(wanted - {v["id"] for v in videos})
             if missing:
                 print(
                     f"Warning: {len(missing)} IDs from {args.ids_from} have no "
